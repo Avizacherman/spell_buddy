@@ -5,24 +5,37 @@ var MongoLogger = require('mongodb').Logger
 
 var spellsDB = `mongodb://TheWizard:${process.env.SPELLPW}@ds031223.mongolab.com:31223/spell_list`
 
+
+
 router.get('/spells', function(req, res){
-	MongoLogger.setLevel('debug')
+	var params = req.query.name ? {name: {$regex: req.query.name, $options: 'i'}} : false
+	// MongoLogger.setLevel('debug')
 
 	MongoClient.connect(spellsDB, function(err, db){
 		if (err) res.send(err)
 
 		var spellCollection = db.collection('spells')
-		spellCollection.find({name: 'Magic Missile'}).toArray(function(err, docs){
+		if (params) {
+		spellCollection.find(params).toArray(function(err, docs){
 			if (err) res.send(err)
 
 			res.json(docs)
 				db.close()
 		})
+		} else {
+			spellCollection.find().toArray(function(err, docs){
+			if (err) res.send(err)
+
+			res.json(docs)
+				db.close()
+		})
+		}
 	})
 })
 
 router.get('/spells/:id', function(req, res){
 	var id = parseInt(req.params.id)
+
 	MongoClient.connect(spellsDB, function(err, db){
 		MongoLogger.setLevel('debug')
 
