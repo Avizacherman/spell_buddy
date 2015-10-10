@@ -28116,7 +28116,9 @@ var App = React.createClass({
 module.exports = App;
 },{}],159:[function(require,module,exports){
 var $ = require('jquery')
- React = require('react');
+
+//weird bug where declaring with var leads to React being undefined
+React = require('react');
 var ReactDOM = require('react-dom');
 var App = require('./components/js/App');
 
