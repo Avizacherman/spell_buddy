@@ -1,4 +1,4 @@
-var SearchApp = React.createClass({
+var App = React.createClass({
 	render: function(){
 		return(
 			<h1> Welcome to Spell Buddy </h1>
@@ -6,4 +6,4 @@ var SearchApp = React.createClass({
 	}
 })
 
-module.exports = SearchApp
+module.exports = App

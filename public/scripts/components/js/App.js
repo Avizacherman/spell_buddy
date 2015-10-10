@@ -1,7 +1,7 @@
 "use strict";
 
-var SearchApp = React.createClass({
-	displayName: "SearchApp",
+var App = React.createClass({
+	displayName: "App",
 
 	render: function render() {
 		return React.createElement(
@@ -12,4 +12,4 @@ var SearchApp = React.createClass({
 	}
 });
 
-module.exports = SearchApp;
+module.exports = App;
