@@ -22,14 +22,14 @@ router.get('/spells', function(req, res){
 })
 
 router.get('/spells/:id', function(req, res){
+	var id = parseInt(req.params.id)
 	MongoClient.connect(spellsDB, function(err, db){
 		MongoLogger.setLevel('debug')
-
 
 		if (err) res.send(err)
 
 		var spellCollection = db.collection('spells')
-		spellCollection.find({id: `${parseInt(req.params.id)}`}).toArray(function(err, docs){
+		spellCollection.find({id: id}).toArray(function(err, docs){
 			if (err) res.send(err)
 
 			res.json(docs)
