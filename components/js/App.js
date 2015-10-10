@@ -7,7 +7,7 @@ var App = React.createClass({
 		return React.createElement(
 			"h1",
 			null,
-			" Welcome to Spell Buddy "
+			" Welcome to Spell Buddy, Dude "
 		);
 	}
 });

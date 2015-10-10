@@ -6,7 +6,6 @@ var MongoLogger = require('mongodb').Logger
 var spellsDB = `mongodb://TheWizard:${process.env.SPELLPW}@ds031223.mongolab.com:31223/spell_list`
 
 
-
 router.get('/spells', function(req, res){
 	var params = req.query.name ? {name: {$regex: req.query.name, $options: 'i'}} : false
 	// MongoLogger.setLevel('debug')
