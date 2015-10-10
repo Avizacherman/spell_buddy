@@ -1,0 +1,2219 @@
+{"_id":{"$oid":"56181002c04b1c633f33ae1b"},"id":1,"name":"Acid Arrow"}
+{"_id":{"$oid":"56181002c04b1c633f33ae1c"},"id":2,"name":"Acid Fog"}
+{"_id":{"$oid":"56181002c04b1c633f33ae1d"},"id":3,"name":"Acid Splash"}
+{"_id":{"$oid":"56181002c04b1c633f33ae1e"},"id":4,"name":"Aid"}
+{"_id":{"$oid":"56181002c04b1c633f33ae1f"},"id":5,"name":"Air Walk"}
+{"_id":{"$oid":"56181002c04b1c633f33ae20"},"id":6,"name":"Align Weapon"}
+{"_id":{"$oid":"56181002c04b1c633f33ae21"},"id":7,"name":"Alter Self"}
+{"_id":{"$oid":"56181002c04b1c633f33ae22"},"id":8,"name":"Alarm"}
+{"_id":{"$oid":"56181002c04b1c633f33ae23"},"id":9,"name":"Analyze Dweomer"}
+{"_id":{"$oid":"56181002c04b1c633f33ae24"},"id":10,"name":"Animal Growth"}
+{"_id":{"$oid":"56181002c04b1c633f33ae25"},"id":11,"name":"Animal Messenger"}
+{"_id":{"$oid":"56181002c04b1c633f33ae26"},"id":12,"name":"Animal Shapes"}
+{"_id":{"$oid":"56181002c04b1c633f33ae27"},"id":13,"name":"Animal Trance"}
+{"_id":{"$oid":"56181002c04b1c633f33ae28"},"id":15,"name":"Animate Objects"}
+{"_id":{"$oid":"56181002c04b1c633f33ae29"},"id":16,"name":"Animate Plants"}
+{"_id":{"$oid":"56181002c04b1c633f33ae2a"},"id":17,"name":"Animate Rope"}
+{"_id":{"$oid":"56181002c04b1c633f33ae2b"},"id":14,"name":"Animate Dead"}
+{"_id":{"$oid":"56181002c04b1c633f33ae2c"},"id":18,"name":"Antilife Shell"}
+{"_id":{"$oid":"56181002c04b1c633f33ae2d"},"id":19,"name":"Antimagic Field"}
+{"_id":{"$oid":"56181002c04b1c633f33ae2e"},"id":20,"name":"Antipathy"}
+{"_id":{"$oid":"56181002c04b1c633f33ae2f"},"id":21,"name":"Antiplant Shell"}
+{"_id":{"$oid":"56181002c04b1c633f33ae30"},"id":22,"name":"Arcane Eye"}
+{"_id":{"$oid":"56181002c04b1c633f33ae31"},"id":23,"name":"Arcane Lock"}
+{"_id":{"$oid":"56181002c04b1c633f33ae32"},"id":24,"name":"Arcane Mark"}
+{"_id":{"$oid":"56181002c04b1c633f33ae33"},"id":25,"name":"Arcane Sight"}
+{"_id":{"$oid":"56181002c04b1c633f33ae34"},"id":26,"name":"Arcane Sight, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33ae35"},"id":27,"name":"Astral Projection"}
+{"_id":{"$oid":"56181002c04b1c633f33ae36"},"id":28,"name":"Atonement"}
+{"_id":{"$oid":"56181002c04b1c633f33ae37"},"id":29,"name":"Augury"}
+{"_id":{"$oid":"56181002c04b1c633f33ae38"},"id":30,"name":"Awaken"}
+{"_id":{"$oid":"56181002c04b1c633f33ae39"},"id":31,"name":"Bane"}
+{"_id":{"$oid":"56181002c04b1c633f33ae3a"},"id":32,"name":"Banishment"}
+{"_id":{"$oid":"56181002c04b1c633f33ae3b"},"id":33,"name":"Barkskin"}
+{"_id":{"$oid":"56181002c04b1c633f33ae3c"},"id":34,"name":"Bear's Endurance"}
+{"_id":{"$oid":"56181002c04b1c633f33ae3d"},"id":35,"name":"Bear's Endurance, Mass"}
+{"_id":{"$oid":"56181002c04b1c633f33ae3e"},"id":36,"name":"Beast Shape I"}
+{"_id":{"$oid":"56181002c04b1c633f33ae3f"},"id":37,"name":"Beast Shape II"}
+{"_id":{"$oid":"56181002c04b1c633f33ae40"},"id":38,"name":"Beast Shape III"}
+{"_id":{"$oid":"56181002c04b1c633f33ae41"},"id":39,"name":"Beast Shape IV"}
+{"_id":{"$oid":"56181002c04b1c633f33ae42"},"id":40,"name":"Bestow Curse"}
+{"_id":{"$oid":"56181002c04b1c633f33ae43"},"id":41,"name":"Binding"}
+{"_id":{"$oid":"56181002c04b1c633f33ae44"},"id":42,"name":"Black Tentacles"}
+{"_id":{"$oid":"56181002c04b1c633f33ae45"},"id":43,"name":"Blade Barrier"}
+{"_id":{"$oid":"56181002c04b1c633f33ae46"},"id":44,"name":"Blasphemy"}
+{"_id":{"$oid":"56181002c04b1c633f33ae47"},"id":45,"name":"Bleed"}
+{"_id":{"$oid":"56181002c04b1c633f33ae48"},"id":46,"name":"Bless"}
+{"_id":{"$oid":"56181002c04b1c633f33ae49"},"id":47,"name":"Bless Water"}
+{"_id":{"$oid":"56181002c04b1c633f33ae4a"},"id":48,"name":"Bless Weapon"}
+{"_id":{"$oid":"56181002c04b1c633f33ae4b"},"id":49,"name":"Blight"}
+{"_id":{"$oid":"56181002c04b1c633f33ae4c"},"id":50,"name":"Blindness/Deafness"}
+{"_id":{"$oid":"56181002c04b1c633f33ae4d"},"id":51,"name":"Blink"}
+{"_id":{"$oid":"56181002c04b1c633f33ae4e"},"id":52,"name":"Blur"}
+{"_id":{"$oid":"56181002c04b1c633f33ae4f"},"id":53,"name":"Break Enchantment"}
+{"_id":{"$oid":"56181002c04b1c633f33ae50"},"id":54,"name":"Breath Of Life"}
+{"_id":{"$oid":"56181002c04b1c633f33ae51"},"id":55,"name":"Bull's Strength"}
+{"_id":{"$oid":"56181002c04b1c633f33ae52"},"id":56,"name":"Bull's Strength, Mass"}
+{"_id":{"$oid":"56181002c04b1c633f33ae53"},"id":57,"name":"Burning Hands"}
+{"_id":{"$oid":"56181002c04b1c633f33ae54"},"id":58,"name":"Call Lightning"}
+{"_id":{"$oid":"56181002c04b1c633f33ae55"},"id":59,"name":"Call Lightning Storm"}
+{"_id":{"$oid":"56181002c04b1c633f33ae56"},"id":60,"name":"Calm Animals"}
+{"_id":{"$oid":"56181002c04b1c633f33ae57"},"id":61,"name":"Calm Emotions"}
+{"_id":{"$oid":"56181002c04b1c633f33ae58"},"id":62,"name":"Cat's Grace"}
+{"_id":{"$oid":"56181002c04b1c633f33ae59"},"id":63,"name":"Cat's Grace, Mass"}
+{"_id":{"$oid":"56181002c04b1c633f33ae5a"},"id":64,"name":"Cause Fear"}
+{"_id":{"$oid":"56181002c04b1c633f33ae5b"},"id":65,"name":"Chain Lightning"}
+{"_id":{"$oid":"56181002c04b1c633f33ae5c"},"id":66,"name":"Changestaff"}
+{"_id":{"$oid":"56181002c04b1c633f33ae5d"},"id":67,"name":"Chaos Hammer"}
+{"_id":{"$oid":"56181002c04b1c633f33ae5e"},"id":68,"name":"Charm Person"}
+{"_id":{"$oid":"56181002c04b1c633f33ae5f"},"id":69,"name":"Charm Animal"}
+{"_id":{"$oid":"56181002c04b1c633f33ae60"},"id":71,"name":"Charm Monster, Mass"}
+{"_id":{"$oid":"56181002c04b1c633f33ae61"},"id":70,"name":"Charm Monster"}
+{"_id":{"$oid":"56181002c04b1c633f33ae62"},"id":72,"name":"Chill Metal"}
+{"_id":{"$oid":"56181002c04b1c633f33ae63"},"id":73,"name":"Chill Touch"}
+{"_id":{"$oid":"56181002c04b1c633f33ae64"},"id":75,"name":"Clairaudience/Clairvoyance"}
+{"_id":{"$oid":"56181002c04b1c633f33ae65"},"id":76,"name":"Clenched Fist"}
+{"_id":{"$oid":"56181002c04b1c633f33ae66"},"id":74,"name":"Circle Of Death"}
+{"_id":{"$oid":"56181002c04b1c633f33ae67"},"id":77,"name":"Cloak of Chaos"}
+{"_id":{"$oid":"56181002c04b1c633f33ae68"},"id":79,"name":"Cloudkill"}
+{"_id":{"$oid":"56181002c04b1c633f33ae69"},"id":78,"name":"Clone"}
+{"_id":{"$oid":"56181002c04b1c633f33ae6a"},"id":80,"name":"Color Spray"}
+{"_id":{"$oid":"56181002c04b1c633f33ae6b"},"id":81,"name":"Command"}
+{"_id":{"$oid":"56181002c04b1c633f33ae6c"},"id":82,"name":"Command, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33ae6d"},"id":83,"name":"Command Plants"}
+{"_id":{"$oid":"56181002c04b1c633f33ae6e"},"id":84,"name":"Command Undead"}
+{"_id":{"$oid":"56181002c04b1c633f33ae6f"},"id":85,"name":"Commune"}
+{"_id":{"$oid":"56181002c04b1c633f33ae70"},"id":86,"name":"Commune with Nature"}
+{"_id":{"$oid":"56181002c04b1c633f33ae71"},"id":87,"name":"Comprehend Languages"}
+{"_id":{"$oid":"56181002c04b1c633f33ae72"},"id":88,"name":"Cone of Cold"}
+{"_id":{"$oid":"56181002c04b1c633f33ae73"},"id":89,"name":"Confusion"}
+{"_id":{"$oid":"56181002c04b1c633f33ae74"},"id":90,"name":"Confusion, Lesser"}
+{"_id":{"$oid":"56181002c04b1c633f33ae75"},"id":91,"name":"Consecrate"}
+{"_id":{"$oid":"56181002c04b1c633f33ae76"},"id":92,"name":"Contact Other Plane"}
+{"_id":{"$oid":"56181002c04b1c633f33ae77"},"id":93,"name":"Contagion"}
+{"_id":{"$oid":"56181002c04b1c633f33ae78"},"id":94,"name":"Contingency"}
+{"_id":{"$oid":"56181002c04b1c633f33ae79"},"id":95,"name":"Continual Flame"}
+{"_id":{"$oid":"56181002c04b1c633f33ae7a"},"id":96,"name":"Control Plants"}
+{"_id":{"$oid":"56181002c04b1c633f33ae7b"},"id":97,"name":"Control Undead"}
+{"_id":{"$oid":"56181002c04b1c633f33ae7c"},"id":98,"name":"Control Water"}
+{"_id":{"$oid":"56181002c04b1c633f33ae7d"},"id":99,"name":"Control Weather"}
+{"_id":{"$oid":"56181002c04b1c633f33ae7e"},"id":100,"name":"Control Winds"}
+{"_id":{"$oid":"56181002c04b1c633f33ae7f"},"id":101,"name":"Create Food and Water"}
+{"_id":{"$oid":"56181002c04b1c633f33ae80"},"id":102,"name":"Create Undead"}
+{"_id":{"$oid":"56181002c04b1c633f33ae81"},"id":103,"name":"Create Greater Undead"}
+{"_id":{"$oid":"56181002c04b1c633f33ae82"},"id":104,"name":"Create Water"}
+{"_id":{"$oid":"56181002c04b1c633f33ae83"},"id":105,"name":"Creeping Doom"}
+{"_id":{"$oid":"56181002c04b1c633f33ae84"},"id":106,"name":"Crushing Despair"}
+{"_id":{"$oid":"56181002c04b1c633f33ae85"},"id":107,"name":"Crushing Hand"}
+{"_id":{"$oid":"56181002c04b1c633f33ae86"},"id":108,"name":"Cure Light Wounds"}
+{"_id":{"$oid":"56181002c04b1c633f33ae87"},"id":109,"name":"Cure Critical Wounds"}
+{"_id":{"$oid":"56181002c04b1c633f33ae88"},"id":110,"name":"Cure Light Wounds, Mass"}
+{"_id":{"$oid":"56181002c04b1c633f33ae89"},"id":111,"name":"Cure Critical Wounds, Mass"}
+{"_id":{"$oid":"56181002c04b1c633f33ae8a"},"id":113,"name":"Cure Moderate Wounds, Mass"}
+{"_id":{"$oid":"56181002c04b1c633f33ae8b"},"id":112,"name":"Cure Moderate Wounds"}
+{"_id":{"$oid":"56181002c04b1c633f33ae8c"},"id":114,"name":"Cure Serious Wounds"}
+{"_id":{"$oid":"56181002c04b1c633f33ae8d"},"id":115,"name":"Cure Serious Wounds, Mass"}
+{"_id":{"$oid":"56181002c04b1c633f33ae8e"},"id":116,"name":"Curse Water"}
+{"_id":{"$oid":"56181002c04b1c633f33ae8f"},"id":117,"name":"Dancing Lights"}
+{"_id":{"$oid":"56181002c04b1c633f33ae90"},"id":118,"name":"Darkness"}
+{"_id":{"$oid":"56181002c04b1c633f33ae91"},"id":119,"name":"Darkvision"}
+{"_id":{"$oid":"56181002c04b1c633f33ae92"},"id":120,"name":"Daylight"}
+{"_id":{"$oid":"56181002c04b1c633f33ae93"},"id":121,"name":"Daze"}
+{"_id":{"$oid":"56181002c04b1c633f33ae94"},"id":122,"name":"Daze Monster"}
+{"_id":{"$oid":"56181002c04b1c633f33ae95"},"id":124,"name":"Death Ward"}
+{"_id":{"$oid":"56181002c04b1c633f33ae96"},"id":123,"name":"Death Knell"}
+{"_id":{"$oid":"56181002c04b1c633f33ae97"},"id":125,"name":"Deathwatch"}
+{"_id":{"$oid":"56181002c04b1c633f33ae98"},"id":126,"name":"Deeper Darkness"}
+{"_id":{"$oid":"56181002c04b1c633f33ae99"},"id":127,"name":"Deep Slumber"}
+{"_id":{"$oid":"56181002c04b1c633f33ae9a"},"id":128,"name":"Delayed Blast Fireball"}
+{"_id":{"$oid":"56181002c04b1c633f33ae9b"},"id":129,"name":"Delay Poison"}
+{"_id":{"$oid":"56181002c04b1c633f33ae9c"},"id":130,"name":"Demand"}
+{"_id":{"$oid":"56181002c04b1c633f33ae9d"},"id":131,"name":"Desecrate"}
+{"_id":{"$oid":"56181002c04b1c633f33ae9e"},"id":132,"name":"Destruction"}
+{"_id":{"$oid":"56181002c04b1c633f33ae9f"},"id":133,"name":"Detect Animals or Plants"}
+{"_id":{"$oid":"56181002c04b1c633f33aea0"},"id":134,"name":"Detect Chaos"}
+{"_id":{"$oid":"56181002c04b1c633f33aea1"},"id":135,"name":"Detect Evil"}
+{"_id":{"$oid":"56181002c04b1c633f33aea2"},"id":136,"name":"Detect Good"}
+{"_id":{"$oid":"56181002c04b1c633f33aea3"},"id":137,"name":"Detect Law"}
+{"_id":{"$oid":"56181002c04b1c633f33aea4"},"id":138,"name":"Detect Magic"}
+{"_id":{"$oid":"56181002c04b1c633f33aea5"},"id":139,"name":"Detect Poison"}
+{"_id":{"$oid":"56181002c04b1c633f33aea6"},"id":140,"name":"Detect Scrying"}
+{"_id":{"$oid":"56181002c04b1c633f33aea7"},"id":141,"name":"Detect Secret Doors"}
+{"_id":{"$oid":"56181002c04b1c633f33aea8"},"id":142,"name":"Detect Snares and Pits"}
+{"_id":{"$oid":"56181002c04b1c633f33aea9"},"id":143,"name":"Detect Thoughts"}
+{"_id":{"$oid":"56181002c04b1c633f33aeaa"},"id":144,"name":"Detect Undead"}
+{"_id":{"$oid":"56181002c04b1c633f33aeab"},"id":145,"name":"Dictum"}
+{"_id":{"$oid":"56181002c04b1c633f33aeac"},"id":146,"name":"Dimensional Anchor"}
+{"_id":{"$oid":"56181002c04b1c633f33aead"},"id":147,"name":"Dimensional Lock"}
+{"_id":{"$oid":"56181002c04b1c633f33aeae"},"id":148,"name":"Dimension Door"}
+{"_id":{"$oid":"56181002c04b1c633f33aeaf"},"id":149,"name":"Diminish Plants"}
+{"_id":{"$oid":"56181002c04b1c633f33aeb0"},"id":150,"name":"Discern Lies"}
+{"_id":{"$oid":"56181002c04b1c633f33aeb1"},"id":151,"name":"Discern Location"}
+{"_id":{"$oid":"56181002c04b1c633f33aeb2"},"id":152,"name":"Disguise Self"}
+{"_id":{"$oid":"56181002c04b1c633f33aeb3"},"id":153,"name":"Disintegrate"}
+{"_id":{"$oid":"56181002c04b1c633f33aeb4"},"id":154,"name":"Dismissal"}
+{"_id":{"$oid":"56181002c04b1c633f33aeb5"},"id":155,"name":"Dispel Chaos"}
+{"_id":{"$oid":"56181002c04b1c633f33aeb6"},"id":156,"name":"Dispel Evil"}
+{"_id":{"$oid":"56181002c04b1c633f33aeb7"},"id":157,"name":"Dispel Good"}
+{"_id":{"$oid":"56181002c04b1c633f33aeb8"},"id":158,"name":"Dispel Law"}
+{"_id":{"$oid":"56181002c04b1c633f33aeb9"},"id":159,"name":"Dispel Magic"}
+{"_id":{"$oid":"56181002c04b1c633f33aeba"},"id":160,"name":"Dispel Magic, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33aebb"},"id":161,"name":"Displacement"}
+{"_id":{"$oid":"56181002c04b1c633f33aebc"},"id":162,"name":"Disrupting Weapon"}
+{"_id":{"$oid":"56181002c04b1c633f33aebd"},"id":163,"name":"Disrupt Undead"}
+{"_id":{"$oid":"56181002c04b1c633f33aebe"},"id":164,"name":"Divination"}
+{"_id":{"$oid":"56181002c04b1c633f33aebf"},"id":165,"name":"Divine Favor"}
+{"_id":{"$oid":"56181002c04b1c633f33aec0"},"id":166,"name":"Divine Power"}
+{"_id":{"$oid":"56181002c04b1c633f33aec1"},"id":168,"name":"Dominate Monster"}
+{"_id":{"$oid":"56181002c04b1c633f33aec2"},"id":167,"name":"Dominate Animal"}
+{"_id":{"$oid":"56181002c04b1c633f33aec3"},"id":169,"name":"Dominate Person"}
+{"_id":{"$oid":"56181002c04b1c633f33aec4"},"id":170,"name":"Doom"}
+{"_id":{"$oid":"56181002c04b1c633f33aec5"},"id":171,"name":"Dream"}
+{"_id":{"$oid":"56181002c04b1c633f33aec6"},"id":172,"name":"Eagle's Splendor"}
+{"_id":{"$oid":"56181002c04b1c633f33aec7"},"id":173,"name":"Eagle's Splendor, Mass"}
+{"_id":{"$oid":"56181002c04b1c633f33aec8"},"id":174,"name":"Earthquake"}
+{"_id":{"$oid":"56181002c04b1c633f33aec9"},"id":175,"name":"Elemental Body I"}
+{"_id":{"$oid":"56181002c04b1c633f33aeca"},"id":176,"name":"Elemental Body II"}
+{"_id":{"$oid":"56181002c04b1c633f33aecb"},"id":177,"name":"Elemental Body III"}
+{"_id":{"$oid":"56181002c04b1c633f33aecc"},"id":178,"name":"Elemental Body IV"}
+{"_id":{"$oid":"56181002c04b1c633f33aecd"},"id":179,"name":"Elemental Swarm"}
+{"_id":{"$oid":"56181002c04b1c633f33aece"},"id":180,"name":"Endure Elements"}
+{"_id":{"$oid":"56181002c04b1c633f33aecf"},"id":181,"name":"Energy Drain"}
+{"_id":{"$oid":"56181002c04b1c633f33aed0"},"id":182,"name":"Enervation"}
+{"_id":{"$oid":"56181002c04b1c633f33aed1"},"id":183,"name":"Enlarge Person"}
+{"_id":{"$oid":"56181002c04b1c633f33aed2"},"id":184,"name":"Enlarge Person, Mass"}
+{"_id":{"$oid":"56181002c04b1c633f33aed3"},"id":185,"name":"Entangle"}
+{"_id":{"$oid":"56181002c04b1c633f33aed4"},"id":186,"name":"Enthrall"}
+{"_id":{"$oid":"56181002c04b1c633f33aed5"},"id":187,"name":"Entropic Shield"}
+{"_id":{"$oid":"56181002c04b1c633f33aed6"},"id":188,"name":"Erase"}
+{"_id":{"$oid":"56181002c04b1c633f33aed7"},"id":189,"name":"Ethereal Jaunt"}
+{"_id":{"$oid":"56181002c04b1c633f33aed8"},"id":190,"name":"Etherealness"}
+{"_id":{"$oid":"56181002c04b1c633f33aed9"},"id":191,"name":"Expeditious Retreat"}
+{"_id":{"$oid":"56181002c04b1c633f33aeda"},"id":192,"name":"Explosive Runes"}
+{"_id":{"$oid":"56181002c04b1c633f33aedb"},"id":193,"name":"Eyebite"}
+{"_id":{"$oid":"56181002c04b1c633f33aedc"},"id":194,"name":"Fabricate"}
+{"_id":{"$oid":"56181002c04b1c633f33aedd"},"id":195,"name":"Faerie Fire"}
+{"_id":{"$oid":"56181002c04b1c633f33aede"},"id":196,"name":"False Life"}
+{"_id":{"$oid":"56181002c04b1c633f33aedf"},"id":197,"name":"False Vision"}
+{"_id":{"$oid":"56181002c04b1c633f33aee0"},"id":198,"name":"Feather Fall"}
+{"_id":{"$oid":"56181002c04b1c633f33aee1"},"id":199,"name":"Feeblemind"}
+{"_id":{"$oid":"56181002c04b1c633f33aee2"},"id":200,"name":"Find the Path"}
+{"_id":{"$oid":"56181002c04b1c633f33aee3"},"id":201,"name":"Find Traps"}
+{"_id":{"$oid":"56181002c04b1c633f33aee4"},"id":202,"name":"Finger Of Death"}
+{"_id":{"$oid":"56181002c04b1c633f33aee5"},"id":203,"name":"Fire Shield"}
+{"_id":{"$oid":"56181002c04b1c633f33aee6"},"id":204,"name":"Fire Seeds"}
+{"_id":{"$oid":"56181002c04b1c633f33aee7"},"id":205,"name":"Fire Storm"}
+{"_id":{"$oid":"56181002c04b1c633f33aee8"},"id":206,"name":"Fire Trap"}
+{"_id":{"$oid":"56181002c04b1c633f33aee9"},"id":207,"name":"Fireball"}
+{"_id":{"$oid":"56181002c04b1c633f33aeea"},"id":208,"name":"Flame Arrow"}
+{"_id":{"$oid":"56181002c04b1c633f33aeeb"},"id":209,"name":"Flame Blade"}
+{"_id":{"$oid":"56181002c04b1c633f33aeec"},"id":210,"name":"Flame Strike"}
+{"_id":{"$oid":"56181002c04b1c633f33aeed"},"id":211,"name":"Flaming Sphere"}
+{"_id":{"$oid":"56181002c04b1c633f33aeee"},"id":212,"name":"Flare"}
+{"_id":{"$oid":"56181002c04b1c633f33aeef"},"id":213,"name":"Flesh to Stone"}
+{"_id":{"$oid":"56181002c04b1c633f33aef0"},"id":214,"name":"Floating Disk"}
+{"_id":{"$oid":"56181002c04b1c633f33aef1"},"id":215,"name":"Fly"}
+{"_id":{"$oid":"56181002c04b1c633f33aef2"},"id":216,"name":"Fog Cloud"}
+{"_id":{"$oid":"56181002c04b1c633f33aef3"},"id":217,"name":"Forbiddance"}
+{"_id":{"$oid":"56181002c04b1c633f33aef4"},"id":218,"name":"Forcecage"}
+{"_id":{"$oid":"56181002c04b1c633f33aef5"},"id":219,"name":"Forceful Hand"}
+{"_id":{"$oid":"56181002c04b1c633f33aef6"},"id":220,"name":"Foresight"}
+{"_id":{"$oid":"56181002c04b1c633f33aef7"},"id":221,"name":"Form of the Dragon I"}
+{"_id":{"$oid":"56181002c04b1c633f33aef8"},"id":222,"name":"Form of the Dragon II"}
+{"_id":{"$oid":"56181002c04b1c633f33aef9"},"id":223,"name":"Form of the Dragon III"}
+{"_id":{"$oid":"56181002c04b1c633f33aefa"},"id":224,"name":"Fox's Cunning"}
+{"_id":{"$oid":"56181002c04b1c633f33aefb"},"id":225,"name":"Fox's Cunning, Mass"}
+{"_id":{"$oid":"56181002c04b1c633f33aefc"},"id":226,"name":"Freedom"}
+{"_id":{"$oid":"56181002c04b1c633f33aefd"},"id":227,"name":"Freedom of Movement"}
+{"_id":{"$oid":"56181002c04b1c633f33aefe"},"id":228,"name":"Freezing Sphere"}
+{"_id":{"$oid":"56181002c04b1c633f33aeff"},"id":229,"name":"Gaseous Form"}
+{"_id":{"$oid":"56181002c04b1c633f33af00"},"id":230,"name":"Gate"}
+{"_id":{"$oid":"56181002c04b1c633f33af01"},"id":231,"name":"Geas/Quest"}
+{"_id":{"$oid":"56181002c04b1c633f33af02"},"id":232,"name":"Geas, Lesser"}
+{"_id":{"$oid":"56181002c04b1c633f33af03"},"id":233,"name":"Gentle Repose"}
+{"_id":{"$oid":"56181002c04b1c633f33af04"},"id":234,"name":"Ghost Sound"}
+{"_id":{"$oid":"56181002c04b1c633f33af05"},"id":235,"name":"Ghoul touch"}
+{"_id":{"$oid":"56181002c04b1c633f33af06"},"id":236,"name":"Giant Form I"}
+{"_id":{"$oid":"56181002c04b1c633f33af07"},"id":237,"name":"Giant Form II"}
+{"_id":{"$oid":"56181002c04b1c633f33af08"},"id":238,"name":"Giant Vermin"}
+{"_id":{"$oid":"56181002c04b1c633f33af09"},"id":239,"name":"Glibness"}
+{"_id":{"$oid":"56181002c04b1c633f33af0a"},"id":240,"name":"Glitterdust"}
+{"_id":{"$oid":"56181002c04b1c633f33af0b"},"id":241,"name":"Globe of Invulnerability, Lesser"}
+{"_id":{"$oid":"56181002c04b1c633f33af0c"},"id":242,"name":"Globe Of Invulnerability"}
+{"_id":{"$oid":"56181002c04b1c633f33af0d"},"id":243,"name":"Glyph Of Warding"}
+{"_id":{"$oid":"56181002c04b1c633f33af0e"},"id":244,"name":"Glyph of Warding, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33af0f"},"id":245,"name":"Goodberry"}
+{"_id":{"$oid":"56181002c04b1c633f33af10"},"id":246,"name":"Good Hope"}
+{"_id":{"$oid":"56181002c04b1c633f33af11"},"id":247,"name":"Grasping Hand"}
+{"_id":{"$oid":"56181002c04b1c633f33af12"},"id":248,"name":"Grease"}
+{"_id":{"$oid":"56181002c04b1c633f33af13"},"id":249,"name":"Guards and Wards"}
+{"_id":{"$oid":"56181002c04b1c633f33af14"},"id":250,"name":"Guidance"}
+{"_id":{"$oid":"56181002c04b1c633f33af15"},"id":251,"name":"Gust Of Wind"}
+{"_id":{"$oid":"56181002c04b1c633f33af16"},"id":252,"name":"Hallow"}
+{"_id":{"$oid":"56181002c04b1c633f33af17"},"id":253,"name":"Hallucinatory Terrain"}
+{"_id":{"$oid":"56181002c04b1c633f33af18"},"id":254,"name":"Halt Undead"}
+{"_id":{"$oid":"56181002c04b1c633f33af19"},"id":255,"name":"Harm"}
+{"_id":{"$oid":"56181002c04b1c633f33af1a"},"id":256,"name":"Haste"}
+{"_id":{"$oid":"56181002c04b1c633f33af1b"},"id":257,"name":"Heal"}
+{"_id":{"$oid":"56181002c04b1c633f33af1c"},"id":258,"name":"Heal, Mass"}
+{"_id":{"$oid":"56181002c04b1c633f33af1d"},"id":259,"name":"Heal Mount"}
+{"_id":{"$oid":"56181002c04b1c633f33af1e"},"id":260,"name":"Heat Metal"}
+{"_id":{"$oid":"56181002c04b1c633f33af1f"},"id":261,"name":"Helping Hand"}
+{"_id":{"$oid":"56181002c04b1c633f33af20"},"id":262,"name":"Heroes' Feast"}
+{"_id":{"$oid":"56181002c04b1c633f33af21"},"id":263,"name":"Heroism"}
+{"_id":{"$oid":"56181002c04b1c633f33af22"},"id":265,"name":"Hide from Animals"}
+{"_id":{"$oid":"56181002c04b1c633f33af23"},"id":264,"name":"Heroism, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33af24"},"id":266,"name":"Hide from Undead"}
+{"_id":{"$oid":"56181002c04b1c633f33af25"},"id":267,"name":"Hideous Laughter"}
+{"_id":{"$oid":"56181002c04b1c633f33af26"},"id":268,"name":"Hold Person"}
+{"_id":{"$oid":"56181002c04b1c633f33af27"},"id":269,"name":"Hold Monster"}
+{"_id":{"$oid":"56181002c04b1c633f33af28"},"id":270,"name":"Hold Monster, Mass"}
+{"_id":{"$oid":"56181002c04b1c633f33af29"},"id":271,"name":"Hold Person, Mass"}
+{"_id":{"$oid":"56181002c04b1c633f33af2a"},"id":272,"name":"Hold Portal"}
+{"_id":{"$oid":"56181002c04b1c633f33af2b"},"id":273,"name":"Holy Aura"}
+{"_id":{"$oid":"56181002c04b1c633f33af2c"},"id":274,"name":"Holy Smite"}
+{"_id":{"$oid":"56181002c04b1c633f33af2d"},"id":275,"name":"Holy Sword"}
+{"_id":{"$oid":"56181002c04b1c633f33af2e"},"id":276,"name":"Holy Word"}
+{"_id":{"$oid":"56181002c04b1c633f33af2f"},"id":277,"name":"Horrid Wilting"}
+{"_id":{"$oid":"56181002c04b1c633f33af30"},"id":278,"name":"Hypnotic Pattern"}
+{"_id":{"$oid":"56181002c04b1c633f33af31"},"id":279,"name":"Hypnotism"}
+{"_id":{"$oid":"56181002c04b1c633f33af32"},"id":280,"name":"Ice Storm"}
+{"_id":{"$oid":"56181002c04b1c633f33af33"},"id":281,"name":"Identify"}
+{"_id":{"$oid":"56181002c04b1c633f33af34"},"id":282,"name":"Illusory Script"}
+{"_id":{"$oid":"56181002c04b1c633f33af35"},"id":283,"name":"Illusory Wall"}
+{"_id":{"$oid":"56181002c04b1c633f33af36"},"id":284,"name":"Imbue with Spell Ability"}
+{"_id":{"$oid":"56181002c04b1c633f33af37"},"id":285,"name":"Implosion"}
+{"_id":{"$oid":"56181002c04b1c633f33af38"},"id":286,"name":"Imprisonment"}
+{"_id":{"$oid":"56181002c04b1c633f33af39"},"id":287,"name":"Incendiary Cloud"}
+{"_id":{"$oid":"56181002c04b1c633f33af3a"},"id":289,"name":"Inflict Critical Wounds"}
+{"_id":{"$oid":"56181002c04b1c633f33af3b"},"id":288,"name":"Inflict Light Wounds"}
+{"_id":{"$oid":"56181002c04b1c633f33af3c"},"id":290,"name":"Inflict Critical Wounds, Mass"}
+{"_id":{"$oid":"56181002c04b1c633f33af3d"},"id":291,"name":"Inflict Light Wounds, Mass"}
+{"_id":{"$oid":"56181002c04b1c633f33af3e"},"id":292,"name":"Inflict Moderate Wounds"}
+{"_id":{"$oid":"56181002c04b1c633f33af3f"},"id":293,"name":"Inflict Moderate Wounds, Mass"}
+{"_id":{"$oid":"56181002c04b1c633f33af40"},"id":294,"name":"Inflict Serious Wounds"}
+{"_id":{"$oid":"56181002c04b1c633f33af41"},"id":295,"name":"Inflict Serious Wounds, Mass"}
+{"_id":{"$oid":"56181002c04b1c633f33af42"},"id":296,"name":"Insanity"}
+{"_id":{"$oid":"56181002c04b1c633f33af43"},"id":297,"name":"Interposing Hand"}
+{"_id":{"$oid":"56181002c04b1c633f33af44"},"id":298,"name":"Invisibility"}
+{"_id":{"$oid":"56181002c04b1c633f33af45"},"id":299,"name":"Invisibility, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33af46"},"id":300,"name":"Invisibility, Mass"}
+{"_id":{"$oid":"56181002c04b1c633f33af47"},"id":301,"name":"Invisibility Purge"}
+{"_id":{"$oid":"56181002c04b1c633f33af48"},"id":302,"name":"Invisibility Sphere"}
+{"_id":{"$oid":"56181002c04b1c633f33af49"},"id":304,"name":"Iron Body"}
+{"_id":{"$oid":"56181002c04b1c633f33af4a"},"id":305,"name":"Ironwood"}
+{"_id":{"$oid":"56181002c04b1c633f33af4b"},"id":306,"name":"Irresistible Dance"}
+{"_id":{"$oid":"56181002c04b1c633f33af4c"},"id":307,"name":"Jump"}
+{"_id":{"$oid":"56181002c04b1c633f33af4d"},"id":308,"name":"Keen Edge"}
+{"_id":{"$oid":"56181002c04b1c633f33af4e"},"id":309,"name":"Knock"}
+{"_id":{"$oid":"56181002c04b1c633f33af4f"},"id":310,"name":"Know Direction"}
+{"_id":{"$oid":"56181002c04b1c633f33af50"},"id":312,"name":"Levitate"}
+{"_id":{"$oid":"56181002c04b1c633f33af51"},"id":311,"name":"Legend Lore"}
+{"_id":{"$oid":"56181002c04b1c633f33af52"},"id":313,"name":"Light"}
+{"_id":{"$oid":"56181002c04b1c633f33af53"},"id":314,"name":"Lightning Bolt"}
+{"_id":{"$oid":"56181002c04b1c633f33af54"},"id":315,"name":"Limited Wish"}
+{"_id":{"$oid":"56181002c04b1c633f33af55"},"id":316,"name":"Liveoak"}
+{"_id":{"$oid":"56181002c04b1c633f33af56"},"id":317,"name":"Locate Object"}
+{"_id":{"$oid":"56181002c04b1c633f33af57"},"id":318,"name":"Locate Creature"}
+{"_id":{"$oid":"56181002c04b1c633f33af58"},"id":319,"name":"Longstrider"}
+{"_id":{"$oid":"56181002c04b1c633f33af59"},"id":320,"name":"Lullaby"}
+{"_id":{"$oid":"56181002c04b1c633f33af5a"},"id":321,"name":"Mage Armor"}
+{"_id":{"$oid":"56181002c04b1c633f33af5b"},"id":322,"name":"Mage Hand"}
+{"_id":{"$oid":"56181002c04b1c633f33af5c"},"id":323,"name":"Mage's Disjunction"}
+{"_id":{"$oid":"56181002c04b1c633f33af5d"},"id":324,"name":"Mage's Faithful Hound"}
+{"_id":{"$oid":"56181002c04b1c633f33af5e"},"id":325,"name":"Mage's Lucubration"}
+{"_id":{"$oid":"56181002c04b1c633f33af5f"},"id":326,"name":"Mage's Magnificent Mansion"}
+{"_id":{"$oid":"56181002c04b1c633f33af60"},"id":327,"name":"Mage's Private Sanctum"}
+{"_id":{"$oid":"56181002c04b1c633f33af61"},"id":328,"name":"Mage's Sword"}
+{"_id":{"$oid":"56181002c04b1c633f33af62"},"id":329,"name":"Magic Aura"}
+{"_id":{"$oid":"56181002c04b1c633f33af63"},"id":330,"name":"Magic Circle against Evil"}
+{"_id":{"$oid":"56181002c04b1c633f33af64"},"id":331,"name":"Magic Circle against Chaos"}
+{"_id":{"$oid":"56181002c04b1c633f33af65"},"id":332,"name":"Magic Circle against Good"}
+{"_id":{"$oid":"56181002c04b1c633f33af66"},"id":333,"name":"Magic Circle against Law"}
+{"_id":{"$oid":"56181002c04b1c633f33af67"},"id":334,"name":"Magic Fang"}
+{"_id":{"$oid":"56181002c04b1c633f33af68"},"id":335,"name":"Magic Fang, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33af69"},"id":336,"name":"Magic Jar"}
+{"_id":{"$oid":"56181002c04b1c633f33af6a"},"id":337,"name":"Magic Missile"}
+{"_id":{"$oid":"56181002c04b1c633f33af6b"},"id":338,"name":"Magic Mouth"}
+{"_id":{"$oid":"56181002c04b1c633f33af6c"},"id":339,"name":"Magic Stone"}
+{"_id":{"$oid":"56181002c04b1c633f33af6d"},"id":340,"name":"Magic Vestment"}
+{"_id":{"$oid":"56181002c04b1c633f33af6e"},"id":341,"name":"Magic Weapon"}
+{"_id":{"$oid":"56181002c04b1c633f33af6f"},"id":342,"name":"Magic Weapon, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33af70"},"id":343,"name":"Minor Creation"}
+{"_id":{"$oid":"56181002c04b1c633f33af71"},"id":344,"name":"Major Creation"}
+{"_id":{"$oid":"56181002c04b1c633f33af72"},"id":345,"name":"Major Image"}
+{"_id":{"$oid":"56181002c04b1c633f33af73"},"id":346,"name":"Make Whole"}
+{"_id":{"$oid":"56181002c04b1c633f33af74"},"id":347,"name":"Mark of Justice"}
+{"_id":{"$oid":"56181002c04b1c633f33af75"},"id":348,"name":"Maze"}
+{"_id":{"$oid":"56181002c04b1c633f33af76"},"id":349,"name":"Meld into Stone"}
+{"_id":{"$oid":"56181002c04b1c633f33af77"},"id":350,"name":"Mending"}
+{"_id":{"$oid":"56181002c04b1c633f33af78"},"id":351,"name":"Message"}
+{"_id":{"$oid":"56181002c04b1c633f33af79"},"id":352,"name":"Meteor Swarm"}
+{"_id":{"$oid":"56181002c04b1c633f33af7a"},"id":353,"name":"Mind Blank"}
+{"_id":{"$oid":"56181002c04b1c633f33af7b"},"id":354,"name":"Mind Fog"}
+{"_id":{"$oid":"56181002c04b1c633f33af7c"},"id":355,"name":"Minor Image"}
+{"_id":{"$oid":"56181002c04b1c633f33af7d"},"id":356,"name":"Miracle"}
+{"_id":{"$oid":"56181002c04b1c633f33af7e"},"id":357,"name":"Mirage Arcana"}
+{"_id":{"$oid":"56181002c04b1c633f33af7f"},"id":358,"name":"Mirror Image"}
+{"_id":{"$oid":"56181002c04b1c633f33af80"},"id":359,"name":"Misdirection"}
+{"_id":{"$oid":"56181002c04b1c633f33af81"},"id":360,"name":"Mislead"}
+{"_id":{"$oid":"56181002c04b1c633f33af82"},"id":361,"name":"Mnemonic Enhancer"}
+{"_id":{"$oid":"56181002c04b1c633f33af83"},"id":362,"name":"Modify Memory"}
+{"_id":{"$oid":"56181002c04b1c633f33af84"},"id":363,"name":"Moment of Prescience"}
+{"_id":{"$oid":"56181002c04b1c633f33af85"},"id":364,"name":"Mount"}
+{"_id":{"$oid":"56181002c04b1c633f33af86"},"id":365,"name":"Move Earth"}
+{"_id":{"$oid":"56181002c04b1c633f33af87"},"id":366,"name":"Neutralize Poison"}
+{"_id":{"$oid":"56181002c04b1c633f33af88"},"id":367,"name":"Nightmare"}
+{"_id":{"$oid":"56181002c04b1c633f33af89"},"id":368,"name":"Nondetection"}
+{"_id":{"$oid":"56181002c04b1c633f33af8a"},"id":369,"name":"Obscure Object"}
+{"_id":{"$oid":"56181002c04b1c633f33af8b"},"id":370,"name":"Obscuring Mist"}
+{"_id":{"$oid":"56181002c04b1c633f33af8c"},"id":371,"name":"Open/Close"}
+{"_id":{"$oid":"56181002c04b1c633f33af8d"},"id":372,"name":"Order's Wrath"}
+{"_id":{"$oid":"56181002c04b1c633f33af8e"},"id":373,"name":"Overland Flight"}
+{"_id":{"$oid":"56181002c04b1c633f33af8f"},"id":374,"name":"Owl's Wisdom"}
+{"_id":{"$oid":"56181002c04b1c633f33af90"},"id":375,"name":"Owl's Wisdom, Mass"}
+{"_id":{"$oid":"56181002c04b1c633f33af91"},"id":376,"name":"Passwall"}
+{"_id":{"$oid":"56181002c04b1c633f33af92"},"id":377,"name":"Pass without Trace"}
+{"_id":{"$oid":"56181002c04b1c633f33af93"},"id":378,"name":"Permanency"}
+{"_id":{"$oid":"56181002c04b1c633f33af94"},"id":379,"name":"Permanent Image"}
+{"_id":{"$oid":"56181002c04b1c633f33af95"},"id":380,"name":"Persistent Image"}
+{"_id":{"$oid":"56181002c04b1c633f33af96"},"id":381,"name":"Phantasmal Killer"}
+{"_id":{"$oid":"56181002c04b1c633f33af97"},"id":382,"name":"Phantom Steed"}
+{"_id":{"$oid":"56181002c04b1c633f33af98"},"id":383,"name":"Phantom Trap"}
+{"_id":{"$oid":"56181002c04b1c633f33af99"},"id":384,"name":"Phase Door"}
+{"_id":{"$oid":"56181002c04b1c633f33af9a"},"id":385,"name":"Planar Ally, Lesser"}
+{"_id":{"$oid":"56181002c04b1c633f33af9b"},"id":386,"name":"Planar Ally"}
+{"_id":{"$oid":"56181002c04b1c633f33af9c"},"id":387,"name":"Planar Ally, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33af9d"},"id":388,"name":"Planar Binding, Lesser"}
+{"_id":{"$oid":"56181002c04b1c633f33af9e"},"id":389,"name":"Planar Binding"}
+{"_id":{"$oid":"56181002c04b1c633f33af9f"},"id":390,"name":"Planar Binding, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33afa0"},"id":391,"name":"Plane Shift"}
+{"_id":{"$oid":"56181002c04b1c633f33afa1"},"id":392,"name":"Plant Growth"}
+{"_id":{"$oid":"56181002c04b1c633f33afa2"},"id":393,"name":"Plant Shape I"}
+{"_id":{"$oid":"56181002c04b1c633f33afa3"},"id":394,"name":"Plant Shape II"}
+{"_id":{"$oid":"56181002c04b1c633f33afa4"},"id":395,"name":"Plant Shape III"}
+{"_id":{"$oid":"56181002c04b1c633f33afa5"},"id":396,"name":"Poison"}
+{"_id":{"$oid":"56181002c04b1c633f33afa6"},"id":397,"name":"Polar Ray"}
+{"_id":{"$oid":"56181002c04b1c633f33afa7"},"id":398,"name":"Polymorph"}
+{"_id":{"$oid":"56181002c04b1c633f33afa8"},"id":399,"name":"Polymorph, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33afa9"},"id":400,"name":"Polymorph Any Object"}
+{"_id":{"$oid":"56181002c04b1c633f33afaa"},"id":401,"name":"Power Word Blind"}
+{"_id":{"$oid":"56181002c04b1c633f33afab"},"id":402,"name":"Power Word Kill"}
+{"_id":{"$oid":"56181002c04b1c633f33afac"},"id":404,"name":"Prayer"}
+{"_id":{"$oid":"56181002c04b1c633f33afad"},"id":403,"name":"Power Word Stun"}
+{"_id":{"$oid":"56181002c04b1c633f33afae"},"id":405,"name":"Prestidigitation"}
+{"_id":{"$oid":"56181002c04b1c633f33afaf"},"id":406,"name":"Prismatic Sphere"}
+{"_id":{"$oid":"56181002c04b1c633f33afb0"},"id":407,"name":"Prismatic Spray"}
+{"_id":{"$oid":"56181002c04b1c633f33afb1"},"id":408,"name":"Prismatic Wall"}
+{"_id":{"$oid":"56181002c04b1c633f33afb2"},"id":409,"name":"Prying Eyes, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33afb3"},"id":410,"name":"Produce Flame"}
+{"_id":{"$oid":"56181002c04b1c633f33afb4"},"id":411,"name":"Programmed Image"}
+{"_id":{"$oid":"56181002c04b1c633f33afb5"},"id":412,"name":"Project Image"}
+{"_id":{"$oid":"56181002c04b1c633f33afb6"},"id":413,"name":"Protection From Arrows"}
+{"_id":{"$oid":"56181002c04b1c633f33afb7"},"id":414,"name":"Protection From Chaos"}
+{"_id":{"$oid":"56181002c04b1c633f33afb8"},"id":416,"name":"Protection From Evil"}
+{"_id":{"$oid":"56181002c04b1c633f33afb9"},"id":417,"name":"Protection From Good"}
+{"_id":{"$oid":"56181002c04b1c633f33afba"},"id":418,"name":"Protection From Law"}
+{"_id":{"$oid":"56181002c04b1c633f33afbb"},"id":419,"name":"Protection from Spells"}
+{"_id":{"$oid":"56181002c04b1c633f33afbc"},"id":420,"name":"Purify Food and Drink"}
+{"_id":{"$oid":"56181002c04b1c633f33afbd"},"id":421,"name":"Pyrotechnics"}
+{"_id":{"$oid":"56181002c04b1c633f33afbe"},"id":422,"name":"Quench"}
+{"_id":{"$oid":"56181002c04b1c633f33afbf"},"id":423,"name":"Rage"}
+{"_id":{"$oid":"56181002c04b1c633f33afc0"},"id":424,"name":"Rainbow Pattern"}
+{"_id":{"$oid":"56181002c04b1c633f33afc1"},"id":425,"name":"Raise Dead"}
+{"_id":{"$oid":"56181002c04b1c633f33afc2"},"id":426,"name":"Ray Of Enfeeblement"}
+{"_id":{"$oid":"56181002c04b1c633f33afc3"},"id":427,"name":"Ray of Exhaustion"}
+{"_id":{"$oid":"56181002c04b1c633f33afc4"},"id":428,"name":"Ray of Frost"}
+{"_id":{"$oid":"56181002c04b1c633f33afc5"},"id":429,"name":"Read Magic"}
+{"_id":{"$oid":"56181002c04b1c633f33afc6"},"id":430,"name":"Reduce Person"}
+{"_id":{"$oid":"56181002c04b1c633f33afc7"},"id":431,"name":"Reduce Animal"}
+{"_id":{"$oid":"56181002c04b1c633f33afc8"},"id":432,"name":"Reduce Person, Mass"}
+{"_id":{"$oid":"56181002c04b1c633f33afc9"},"id":433,"name":"Refuge"}
+{"_id":{"$oid":"56181002c04b1c633f33afca"},"id":434,"name":"Regenerate"}
+{"_id":{"$oid":"56181002c04b1c633f33afcb"},"id":435,"name":"Reincarnate"}
+{"_id":{"$oid":"56181002c04b1c633f33afcc"},"id":436,"name":"Remove Blindness/Deafness"}
+{"_id":{"$oid":"56181002c04b1c633f33afcd"},"id":437,"name":"Remove Curse"}
+{"_id":{"$oid":"56181002c04b1c633f33afce"},"id":439,"name":"Remove Fear"}
+{"_id":{"$oid":"56181002c04b1c633f33afcf"},"id":438,"name":"Remove Disease"}
+{"_id":{"$oid":"56181002c04b1c633f33afd0"},"id":440,"name":"Remove Paralysis"}
+{"_id":{"$oid":"56181002c04b1c633f33afd1"},"id":441,"name":"Repel Metal or Stone"}
+{"_id":{"$oid":"56181002c04b1c633f33afd2"},"id":442,"name":"Repel Vermin"}
+{"_id":{"$oid":"56181002c04b1c633f33afd3"},"id":443,"name":"Repel Wood"}
+{"_id":{"$oid":"56181002c04b1c633f33afd4"},"id":444,"name":"Repulsion"}
+{"_id":{"$oid":"56181002c04b1c633f33afd5"},"id":445,"name":"Resilient Sphere"}
+{"_id":{"$oid":"56181002c04b1c633f33afd6"},"id":446,"name":"Resistance"}
+{"_id":{"$oid":"56181002c04b1c633f33afd7"},"id":447,"name":"Resist Energy"}
+{"_id":{"$oid":"56181002c04b1c633f33afd8"},"id":448,"name":"Restoration"}
+{"_id":{"$oid":"56181002c04b1c633f33afd9"},"id":449,"name":"Restoration, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33afda"},"id":450,"name":"Restoration, Lesser"}
+{"_id":{"$oid":"56181002c04b1c633f33afdb"},"id":451,"name":"Resurrection"}
+{"_id":{"$oid":"56181002c04b1c633f33afdc"},"id":452,"name":"Reverse Gravity"}
+{"_id":{"$oid":"56181002c04b1c633f33afdd"},"id":453,"name":"Righteous Might"}
+{"_id":{"$oid":"56181002c04b1c633f33afde"},"id":454,"name":"Rope Trick"}
+{"_id":{"$oid":"56181002c04b1c633f33afdf"},"id":455,"name":"Rusting Grasp"}
+{"_id":{"$oid":"56181002c04b1c633f33afe0"},"id":456,"name":"Sanctuary"}
+{"_id":{"$oid":"56181002c04b1c633f33afe1"},"id":457,"name":"Scare"}
+{"_id":{"$oid":"56181002c04b1c633f33afe2"},"id":458,"name":"Scintillating Pattern"}
+{"_id":{"$oid":"56181002c04b1c633f33afe3"},"id":459,"name":"Scorching Ray"}
+{"_id":{"$oid":"56181002c04b1c633f33afe4"},"id":460,"name":"Screen"}
+{"_id":{"$oid":"56181002c04b1c633f33afe5"},"id":461,"name":"Scrying"}
+{"_id":{"$oid":"56181002c04b1c633f33afe6"},"id":462,"name":"Scrying, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33afe7"},"id":463,"name":"Sculpt Sound"}
+{"_id":{"$oid":"56181002c04b1c633f33afe8"},"id":464,"name":"Searing Light"}
+{"_id":{"$oid":"56181002c04b1c633f33afe9"},"id":465,"name":"Secret Chest"}
+{"_id":{"$oid":"56181002c04b1c633f33afea"},"id":466,"name":"Secret Page"}
+{"_id":{"$oid":"56181002c04b1c633f33afeb"},"id":467,"name":"Secure Shelter"}
+{"_id":{"$oid":"56181002c04b1c633f33afec"},"id":468,"name":"See Invisibility"}
+{"_id":{"$oid":"56181002c04b1c633f33afed"},"id":469,"name":"Seeming"}
+{"_id":{"$oid":"56181002c04b1c633f33afee"},"id":470,"name":"Sending"}
+{"_id":{"$oid":"56181002c04b1c633f33afef"},"id":471,"name":"Sepia Snake Sigil"}
+{"_id":{"$oid":"56181002c04b1c633f33aff0"},"id":472,"name":"Sequester"}
+{"_id":{"$oid":"56181002c04b1c633f33aff1"},"id":473,"name":"Shadow Conjuration"}
+{"_id":{"$oid":"56181002c04b1c633f33aff2"},"id":474,"name":"Shades"}
+{"_id":{"$oid":"56181002c04b1c633f33aff3"},"id":475,"name":"Shadow Conjuration, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33aff4"},"id":477,"name":"Shadow Evocation, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33aff5"},"id":476,"name":"Shadow Evocation"}
+{"_id":{"$oid":"56181002c04b1c633f33aff6"},"id":478,"name":"Shadow Walk"}
+{"_id":{"$oid":"56181002c04b1c633f33aff7"},"id":479,"name":"Shambler"}
+{"_id":{"$oid":"56181002c04b1c633f33aff8"},"id":480,"name":"Shapechange"}
+{"_id":{"$oid":"56181002c04b1c633f33aff9"},"id":481,"name":"Shatter"}
+{"_id":{"$oid":"56181002c04b1c633f33affa"},"id":482,"name":"Shield"}
+{"_id":{"$oid":"56181002c04b1c633f33affb"},"id":483,"name":"Shield Of Faith"}
+{"_id":{"$oid":"56181002c04b1c633f33affc"},"id":484,"name":"Shield of Law"}
+{"_id":{"$oid":"56181002c04b1c633f33affd"},"id":485,"name":"Shield Other"}
+{"_id":{"$oid":"56181002c04b1c633f33affe"},"id":486,"name":"Shillelagh"}
+{"_id":{"$oid":"56181002c04b1c633f33afff"},"id":487,"name":"Shrink Item"}
+{"_id":{"$oid":"56181002c04b1c633f33b000"},"id":488,"name":"Shocking Grasp"}
+{"_id":{"$oid":"56181002c04b1c633f33b001"},"id":489,"name":"Shout"}
+{"_id":{"$oid":"56181002c04b1c633f33b002"},"id":490,"name":"Shout, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b003"},"id":491,"name":"Silence"}
+{"_id":{"$oid":"56181002c04b1c633f33b004"},"id":492,"name":"Silent Image"}
+{"_id":{"$oid":"56181002c04b1c633f33b005"},"id":493,"name":"Simulacrum"}
+{"_id":{"$oid":"56181002c04b1c633f33b006"},"id":494,"name":"Slay Living"}
+{"_id":{"$oid":"56181002c04b1c633f33b007"},"id":495,"name":"Sleep"}
+{"_id":{"$oid":"56181002c04b1c633f33b008"},"id":496,"name":"Sleet Storm"}
+{"_id":{"$oid":"56181002c04b1c633f33b009"},"id":497,"name":"Slow"}
+{"_id":{"$oid":"56181002c04b1c633f33b00a"},"id":498,"name":"Snare"}
+{"_id":{"$oid":"56181002c04b1c633f33b00b"},"id":499,"name":"Soften Earth and Stone"}
+{"_id":{"$oid":"56181002c04b1c633f33b00c"},"id":500,"name":"Solid Fog"}
+{"_id":{"$oid":"56181002c04b1c633f33b00d"},"id":501,"name":"Song of Discord"}
+{"_id":{"$oid":"56181002c04b1c633f33b00e"},"id":502,"name":"Soul Bind"}
+{"_id":{"$oid":"56181002c04b1c633f33b00f"},"id":503,"name":"Sound Burst"}
+{"_id":{"$oid":"56181002c04b1c633f33b010"},"id":504,"name":"Speak with Animals"}
+{"_id":{"$oid":"56181002c04b1c633f33b011"},"id":505,"name":"Speak with Dead"}
+{"_id":{"$oid":"56181002c04b1c633f33b012"},"id":506,"name":"Speak with Plants"}
+{"_id":{"$oid":"56181002c04b1c633f33b013"},"id":507,"name":"Spectral Hand"}
+{"_id":{"$oid":"56181002c04b1c633f33b014"},"id":508,"name":"Spell Immunity"}
+{"_id":{"$oid":"56181002c04b1c633f33b015"},"id":509,"name":"Spell Immunity, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b016"},"id":510,"name":"Spell Resistance"}
+{"_id":{"$oid":"56181002c04b1c633f33b017"},"id":511,"name":"Spellstaff"}
+{"_id":{"$oid":"56181002c04b1c633f33b018"},"id":512,"name":"Spell Turning"}
+{"_id":{"$oid":"56181002c04b1c633f33b019"},"id":513,"name":"Spider Climb"}
+{"_id":{"$oid":"56181002c04b1c633f33b01a"},"id":514,"name":"Spike Growth"}
+{"_id":{"$oid":"56181002c04b1c633f33b01b"},"id":515,"name":"Spike Stones"}
+{"_id":{"$oid":"56181002c04b1c633f33b01c"},"id":516,"name":"Spiritual Weapon"}
+{"_id":{"$oid":"56181002c04b1c633f33b01d"},"id":517,"name":"Stabilize"}
+{"_id":{"$oid":"56181002c04b1c633f33b01e"},"id":518,"name":"Statue"}
+{"_id":{"$oid":"56181002c04b1c633f33b01f"},"id":519,"name":"Status"}
+{"_id":{"$oid":"56181002c04b1c633f33b020"},"id":520,"name":"Stinking Cloud"}
+{"_id":{"$oid":"56181002c04b1c633f33b021"},"id":521,"name":"Stone Shape"}
+{"_id":{"$oid":"56181002c04b1c633f33b022"},"id":522,"name":"Stoneskin"}
+{"_id":{"$oid":"56181002c04b1c633f33b023"},"id":523,"name":"Stone Tell"}
+{"_id":{"$oid":"56181002c04b1c633f33b024"},"id":524,"name":"Stone to Flesh"}
+{"_id":{"$oid":"56181002c04b1c633f33b025"},"id":525,"name":"Storm Of Vengeance"}
+{"_id":{"$oid":"56181002c04b1c633f33b026"},"id":526,"name":"Suggestion"}
+{"_id":{"$oid":"56181002c04b1c633f33b027"},"id":527,"name":"Suggestion, Mass"}
+{"_id":{"$oid":"56181002c04b1c633f33b028"},"id":528,"name":"Summon Instrument"}
+{"_id":{"$oid":"56181002c04b1c633f33b029"},"id":529,"name":"Summon Monster I"}
+{"_id":{"$oid":"56181002c04b1c633f33b02a"},"id":530,"name":"Summon Monster II"}
+{"_id":{"$oid":"56181002c04b1c633f33b02b"},"id":531,"name":"Summon Monster III"}
+{"_id":{"$oid":"56181002c04b1c633f33b02c"},"id":532,"name":"Summon Monster IV"}
+{"_id":{"$oid":"56181002c04b1c633f33b02d"},"id":533,"name":"Summon Monster V"}
+{"_id":{"$oid":"56181002c04b1c633f33b02e"},"id":534,"name":"Summon Monster VI"}
+{"_id":{"$oid":"56181002c04b1c633f33b02f"},"id":535,"name":"Summon Monster VIII"}
+{"_id":{"$oid":"56181002c04b1c633f33b030"},"id":536,"name":"Summon Monster VII"}
+{"_id":{"$oid":"56181002c04b1c633f33b031"},"id":537,"name":"Summon Monster IX"}
+{"_id":{"$oid":"56181002c04b1c633f33b032"},"id":538,"name":"Summon Nature's Ally I"}
+{"_id":{"$oid":"56181002c04b1c633f33b033"},"id":539,"name":"Summon Nature's Ally II"}
+{"_id":{"$oid":"56181002c04b1c633f33b034"},"id":540,"name":"Summon Nature's Ally III"}
+{"_id":{"$oid":"56181002c04b1c633f33b035"},"id":541,"name":"Summon Nature's Ally IV"}
+{"_id":{"$oid":"56181002c04b1c633f33b036"},"id":543,"name":"Summon Nature's Ally VI"}
+{"_id":{"$oid":"56181002c04b1c633f33b037"},"id":542,"name":"Summon Nature's Ally V"}
+{"_id":{"$oid":"56181002c04b1c633f33b038"},"id":544,"name":"Summon Nature's Ally VII"}
+{"_id":{"$oid":"56181002c04b1c633f33b039"},"id":545,"name":"Summon Nature's Ally VIII"}
+{"_id":{"$oid":"56181002c04b1c633f33b03a"},"id":546,"name":"Summon Nature's Ally IX"}
+{"_id":{"$oid":"56181002c04b1c633f33b03b"},"id":547,"name":"Summon Swarm"}
+{"_id":{"$oid":"56181002c04b1c633f33b03c"},"id":548,"name":"Sunbeam"}
+{"_id":{"$oid":"56181002c04b1c633f33b03d"},"id":549,"name":"Sunburst"}
+{"_id":{"$oid":"56181002c04b1c633f33b03e"},"id":550,"name":"Symbol of Death"}
+{"_id":{"$oid":"56181002c04b1c633f33b03f"},"id":551,"name":"Symbol of Fear"}
+{"_id":{"$oid":"56181002c04b1c633f33b040"},"id":552,"name":"Symbol of Insanity"}
+{"_id":{"$oid":"56181002c04b1c633f33b041"},"id":553,"name":"Symbol of Pain"}
+{"_id":{"$oid":"56181002c04b1c633f33b042"},"id":554,"name":"Symbol of Persuasion"}
+{"_id":{"$oid":"56181002c04b1c633f33b043"},"id":555,"name":"Symbol of Sleep"}
+{"_id":{"$oid":"56181002c04b1c633f33b044"},"id":556,"name":"Symbol of Stunning"}
+{"_id":{"$oid":"56181002c04b1c633f33b045"},"id":557,"name":"Symbol Of Weakness"}
+{"_id":{"$oid":"56181002c04b1c633f33b046"},"id":558,"name":"Sympathetic Vibration"}
+{"_id":{"$oid":"56181002c04b1c633f33b047"},"id":559,"name":"Sympathy"}
+{"_id":{"$oid":"56181002c04b1c633f33b048"},"id":560,"name":"Telekinesis"}
+{"_id":{"$oid":"56181002c04b1c633f33b049"},"id":561,"name":"Telekinetic Sphere"}
+{"_id":{"$oid":"56181002c04b1c633f33b04a"},"id":562,"name":"Telepathic Bond"}
+{"_id":{"$oid":"56181002c04b1c633f33b04b"},"id":563,"name":"Teleport"}
+{"_id":{"$oid":"56181002c04b1c633f33b04c"},"id":564,"name":"Teleport, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b04d"},"id":565,"name":"Teleport Object"}
+{"_id":{"$oid":"56181002c04b1c633f33b04e"},"id":566,"name":"Teleportation Circle"}
+{"_id":{"$oid":"56181002c04b1c633f33b04f"},"id":567,"name":"Temporal Stasis"}
+{"_id":{"$oid":"56181002c04b1c633f33b050"},"id":568,"name":"Time Stop"}
+{"_id":{"$oid":"56181002c04b1c633f33b051"},"id":569,"name":"Tiny Hut"}
+{"_id":{"$oid":"56181002c04b1c633f33b052"},"id":570,"name":"Tongues"}
+{"_id":{"$oid":"56181002c04b1c633f33b053"},"id":571,"name":"Touch of Fatigue"}
+{"_id":{"$oid":"56181002c04b1c633f33b054"},"id":572,"name":"Touch of Idiocy"}
+{"_id":{"$oid":"56181002c04b1c633f33b055"},"id":573,"name":"Transformation"}
+{"_id":{"$oid":"56181002c04b1c633f33b056"},"id":574,"name":"Transmute Metal to Wood"}
+{"_id":{"$oid":"56181002c04b1c633f33b057"},"id":575,"name":"Transmute Mud to Rock"}
+{"_id":{"$oid":"56181002c04b1c633f33b058"},"id":576,"name":"Transmute Rock to Mud"}
+{"_id":{"$oid":"56181002c04b1c633f33b059"},"id":577,"name":"Transport via Plants"}
+{"_id":{"$oid":"56181002c04b1c633f33b05a"},"id":578,"name":"Trap the Soul"}
+{"_id":{"$oid":"56181002c04b1c633f33b05b"},"id":579,"name":"Tree Shape"}
+{"_id":{"$oid":"56181002c04b1c633f33b05c"},"id":580,"name":"Tree Stride"}
+{"_id":{"$oid":"56181002c04b1c633f33b05d"},"id":581,"name":"True Resurrection"}
+{"_id":{"$oid":"56181002c04b1c633f33b05e"},"id":582,"name":"True Seeing"}
+{"_id":{"$oid":"56181002c04b1c633f33b05f"},"id":583,"name":"True Strike"}
+{"_id":{"$oid":"56181002c04b1c633f33b060"},"id":584,"name":"Undeath to Death"}
+{"_id":{"$oid":"56181002c04b1c633f33b061"},"id":585,"name":"Undetectable Alignment"}
+{"_id":{"$oid":"56181002c04b1c633f33b062"},"id":586,"name":"Unhallow"}
+{"_id":{"$oid":"56181002c04b1c633f33b063"},"id":587,"name":"Unholy Aura"}
+{"_id":{"$oid":"56181002c04b1c633f33b064"},"id":588,"name":"Unholy Blight"}
+{"_id":{"$oid":"56181002c04b1c633f33b065"},"id":589,"name":"Unseen Servant"}
+{"_id":{"$oid":"56181002c04b1c633f33b066"},"id":590,"name":"Vampiric Touch"}
+{"_id":{"$oid":"56181002c04b1c633f33b067"},"id":592,"name":"Veil"}
+{"_id":{"$oid":"56181002c04b1c633f33b068"},"id":594,"name":"Virtue"}
+{"_id":{"$oid":"56181002c04b1c633f33b069"},"id":593,"name":"Ventriloquism"}
+{"_id":{"$oid":"56181002c04b1c633f33b06a"},"id":595,"name":"Vision"}
+{"_id":{"$oid":"56181002c04b1c633f33b06b"},"id":596,"name":"Wail of the Banshee"}
+{"_id":{"$oid":"56181002c04b1c633f33b06c"},"id":597,"name":"Wall Of Fire"}
+{"_id":{"$oid":"56181002c04b1c633f33b06d"},"id":598,"name":"Wall Of Force"}
+{"_id":{"$oid":"56181002c04b1c633f33b06e"},"id":599,"name":"Wall Of Ice"}
+{"_id":{"$oid":"56181002c04b1c633f33b06f"},"id":600,"name":"Wall of Iron"}
+{"_id":{"$oid":"56181002c04b1c633f33b070"},"id":602,"name":"Wall Of Thorns"}
+{"_id":{"$oid":"56181002c04b1c633f33b071"},"id":603,"name":"Warp Wood"}
+{"_id":{"$oid":"56181002c04b1c633f33b072"},"id":604,"name":"Water Breathing"}
+{"_id":{"$oid":"56181002c04b1c633f33b073"},"id":605,"name":"Water Walk"}
+{"_id":{"$oid":"56181002c04b1c633f33b074"},"id":606,"name":"Waves of Exhaustion"}
+{"_id":{"$oid":"56181002c04b1c633f33b075"},"id":607,"name":"Waves of Fatigue"}
+{"_id":{"$oid":"56181002c04b1c633f33b076"},"id":608,"name":"Web"}
+{"_id":{"$oid":"56181002c04b1c633f33b077"},"id":609,"name":"Weird"}
+{"_id":{"$oid":"56181002c04b1c633f33b078"},"id":610,"name":"Whirlwind"}
+{"_id":{"$oid":"56181002c04b1c633f33b079"},"id":611,"name":"Whispering Wind"}
+{"_id":{"$oid":"56181002c04b1c633f33b07a"},"id":612,"name":"Wind Walk"}
+{"_id":{"$oid":"56181002c04b1c633f33b07b"},"id":613,"name":"Wind Wall"}
+{"_id":{"$oid":"56181002c04b1c633f33b07c"},"id":614,"name":"Wish"}
+{"_id":{"$oid":"56181002c04b1c633f33b07d"},"id":615,"name":"Wood Shape"}
+{"_id":{"$oid":"56181002c04b1c633f33b07e"},"id":616,"name":"Word of Recall"}
+{"_id":{"$oid":"56181002c04b1c633f33b07f"},"id":617,"name":"Word Of Chaos"}
+{"_id":{"$oid":"56181002c04b1c633f33b080"},"id":618,"name":"Zone of Silence"}
+{"_id":{"$oid":"56181002c04b1c633f33b081"},"id":619,"name":"Zone of Truth"}
+{"_id":{"$oid":"56181002c04b1c633f33b082"},"id":620,"name":"Wall Of Stone"}
+{"_id":{"$oid":"56181002c04b1c633f33b083"},"id":621,"name":"Agonize"}
+{"_id":{"$oid":"56181002c04b1c633f33b084"},"id":622,"name":"Hellfire Ray"}
+{"_id":{"$oid":"56181002c04b1c633f33b085"},"id":624,"name":"Sacrifice"}
+{"_id":{"$oid":"56181002c04b1c633f33b086"},"id":626,"name":"Aura of the Unremarkable"}
+{"_id":{"$oid":"56181002c04b1c633f33b087"},"id":627,"name":"Burning Disarm"}
+{"_id":{"$oid":"56181002c04b1c633f33b088"},"id":628,"name":"Dirge Of The Victorious Knights"}
+{"_id":{"$oid":"56181002c04b1c633f33b089"},"id":629,"name":"Dweomer Retaliation"}
+{"_id":{"$oid":"56181002c04b1c633f33b08a"},"id":630,"name":"Emergency Force Sphere"}
+{"_id":{"$oid":"56181002c04b1c633f33b08b"},"id":631,"name":"Signifer's Rally"}
+{"_id":{"$oid":"56181002c04b1c633f33b08c"},"id":632,"name":"Twine Double"}
+{"_id":{"$oid":"56181002c04b1c633f33b08d"},"id":633,"name":"Fear"}
+{"_id":{"$oid":"56181002c04b1c633f33b08e"},"id":634,"name":"Hold Animal"}
+{"_id":{"$oid":"56181002c04b1c633f33b08f"},"id":635,"name":"Insect Plague"}
+{"_id":{"$oid":"56181002c04b1c633f33b090"},"id":636,"name":"Baleful Polymorph"}
+{"_id":{"$oid":"56181002c04b1c633f33b091"},"id":637,"name":"Prying Eyes"}
+{"_id":{"$oid":"56181002c04b1c633f33b092"},"id":638,"name":"Instant Summons"}
+{"_id":{"$oid":"56181002c04b1c633f33b093"},"id":641,"name":"Spellcasting Contract, Lesser"}
+{"_id":{"$oid":"56181002c04b1c633f33b094"},"id":642,"name":"Spellcasting Contract"}
+{"_id":{"$oid":"56181002c04b1c633f33b095"},"id":643,"name":"Spellcasting Contract, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b096"},"id":644,"name":"Ancestral Communion"}
+{"_id":{"$oid":"56181002c04b1c633f33b097"},"id":645,"name":"Ancestral Gift"}
+{"_id":{"$oid":"56181002c04b1c633f33b098"},"id":646,"name":"Summon Ancestral Guardian"}
+{"_id":{"$oid":"56181002c04b1c633f33b099"},"id":648,"name":"Rune of Durability"}
+{"_id":{"$oid":"56181002c04b1c633f33b09a"},"id":647,"name":"See Through Stone"}
+{"_id":{"$oid":"56181002c04b1c633f33b09b"},"id":649,"name":"Rune of Warding"}
+{"_id":{"$oid":"56181002c04b1c633f33b09c"},"id":650,"name":"Detect Charm"}
+{"_id":{"$oid":"56181002c04b1c633f33b09d"},"id":651,"name":"Liberating Comand"}
+{"_id":{"$oid":"56181002c04b1c633f33b09e"},"id":652,"name":"Suppres Charms and Compulsions"}
+{"_id":{"$oid":"56181002c04b1c633f33b09f"},"id":653,"name":"Summon Flight of Eagles"}
+{"_id":{"$oid":"56181002c04b1c633f33b0a0"},"id":654,"name":"Genius Avaricious"}
+{"_id":{"$oid":"56181002c04b1c633f33b0a1"},"id":655,"name":"Protection from Energy"}
+{"_id":{"$oid":"56181002c04b1c633f33b0a2"},"id":657,"name":"Retrieve Item"}
+{"_id":{"$oid":"56181002c04b1c633f33b0a3"},"id":658,"name":"Spherescry"}
+{"_id":{"$oid":"56181002c04b1c633f33b0a4"},"id":659,"name":"Illusory Poison"}
+{"_id":{"$oid":"56181002c04b1c633f33b0a5"},"id":660,"name":"Arcane Reinforcement"}
+{"_id":{"$oid":"56181002c04b1c633f33b0a6"},"id":661,"name":"Canopic Conversion"}
+{"_id":{"$oid":"56181002c04b1c633f33b0a7"},"id":662,"name":"Chastise"}
+{"_id":{"$oid":"56181002c04b1c633f33b0a8"},"id":663,"name":"Summon Elemental Steed"}
+{"_id":{"$oid":"56181002c04b1c633f33b0a9"},"id":664,"name":"Hibernate"}
+{"_id":{"$oid":"56181002c04b1c633f33b0aa"},"id":665,"name":"Mark of Blood"}
+{"_id":{"$oid":"56181002c04b1c633f33b0ab"},"id":666,"name":"Sotto Voce"}
+{"_id":{"$oid":"56181002c04b1c633f33b0ac"},"id":667,"name":"Tomb Legion"}
+{"_id":{"$oid":"56181002c04b1c633f33b0ad"},"id":668,"name":"Tripvine"}
+{"_id":{"$oid":"56181002c04b1c633f33b0ae"},"id":669,"name":"Ape Walk"}
+{"_id":{"$oid":"56181002c04b1c633f33b0af"},"id":670,"name":"Defoliate"}
+{"_id":{"$oid":"56181002c04b1c633f33b0b0"},"id":671,"name":"Heatstroke"}
+{"_id":{"$oid":"56181002c04b1c633f33b0b1"},"id":672,"name":"Swallow Your Fear"}
+{"_id":{"$oid":"56181002c04b1c633f33b0b2"},"id":673,"name":"Blood Rage"}
+{"_id":{"$oid":"56181002c04b1c633f33b0b3"},"id":676,"name":"Shield the Banner"}
+{"_id":{"$oid":"56181002c04b1c633f33b0b4"},"id":678,"name":"Vigor"}
+{"_id":{"$oid":"56181002c04b1c633f33b0b5"},"id":679,"name":"Absorbing Touch"}
+{"_id":{"$oid":"56181002c04b1c633f33b0b6"},"id":680,"name":"Accelerate Poison"}
+{"_id":{"$oid":"56181002c04b1c633f33b0b7"},"id":681,"name":"Acid Pit"}
+{"_id":{"$oid":"56181002c04b1c633f33b0b8"},"id":682,"name":"Alchemical Allocation"}
+{"_id":{"$oid":"56181002c04b1c633f33b0b9"},"id":683,"name":"Allfood"}
+{"_id":{"$oid":"56181002c04b1c633f33b0ba"},"id":684,"name":"Alter Winds"}
+{"_id":{"$oid":"56181002c04b1c633f33b0bb"},"id":685,"name":"Amplify Elixir"}
+{"_id":{"$oid":"56181002c04b1c633f33b0bc"},"id":686,"name":"Ant Haul"}
+{"_id":{"$oid":"56181002c04b1c633f33b0bd"},"id":687,"name":"Aqueous Orb"}
+{"_id":{"$oid":"56181002c04b1c633f33b0be"},"id":688,"name":"Arcane Concordance"}
+{"_id":{"$oid":"56181002c04b1c633f33b0bf"},"id":689,"name":"Arrow Eruption"}
+{"_id":{"$oid":"56181002c04b1c633f33b0c0"},"id":690,"name":"Aspect of the Bear"}
+{"_id":{"$oid":"56181002c04b1c633f33b0c1"},"id":691,"name":"Aspect of the Falcon"}
+{"_id":{"$oid":"56181002c04b1c633f33b0c2"},"id":692,"name":"Aspect of the Stag"}
+{"_id":{"$oid":"56181002c04b1c633f33b0c3"},"id":693,"name":"Aspect of the Wolf"}
+{"_id":{"$oid":"56181002c04b1c633f33b0c4"},"id":694,"name":"Aura of Greater Courage"}
+{"_id":{"$oid":"56181002c04b1c633f33b0c5"},"id":695,"name":"Ball Lightning"}
+{"_id":{"$oid":"56181002c04b1c633f33b0c6"},"id":696,"name":"Banish Seeming"}
+{"_id":{"$oid":"56181002c04b1c633f33b0c7"},"id":697,"name":"Bard's Escape"}
+{"_id":{"$oid":"56181002c04b1c633f33b0c8"},"id":698,"name":"Beguiling Gift"}
+{"_id":{"$oid":"56181002c04b1c633f33b0c9"},"id":699,"name":"Bestow Grace"}
+{"_id":{"$oid":"56181002c04b1c633f33b0ca"},"id":700,"name":"Blaze of Glory"}
+{"_id":{"$oid":"56181002c04b1c633f33b0cb"},"id":701,"name":"Blessing Of Fervor"}
+{"_id":{"$oid":"56181002c04b1c633f33b0cc"},"id":702,"name":"Blessing of the Salamander"}
+{"_id":{"$oid":"56181002c04b1c633f33b0cd"},"id":703,"name":"Blood Biography"}
+{"_id":{"$oid":"56181002c04b1c633f33b0ce"},"id":704,"name":"Bloodhound"}
+{"_id":{"$oid":"56181002c04b1c633f33b0cf"},"id":705,"name":"Bloody Claws"}
+{"_id":{"$oid":"56181002c04b1c633f33b0d0"},"id":706,"name":"Bomber's Eye"}
+{"_id":{"$oid":"56181002c04b1c633f33b0d1"},"id":707,"name":"Borrow Fortune"}
+{"_id":{"$oid":"56181002c04b1c633f33b0d2"},"id":708,"name":"Borrow Skill"}
+{"_id":{"$oid":"56181002c04b1c633f33b0d3"},"id":709,"name":"Bow Spirit"}
+{"_id":{"$oid":"56181002c04b1c633f33b0d4"},"id":710,"name":"Brand"}
+{"_id":{"$oid":"56181002c04b1c633f33b0d5"},"id":711,"name":"Brand, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b0d6"},"id":712,"name":"Break"}
+{"_id":{"$oid":"56181002c04b1c633f33b0d7"},"id":713,"name":"Brilliant Inspiration"}
+{"_id":{"$oid":"56181002c04b1c633f33b0d8"},"id":714,"name":"Bristle"}
+{"_id":{"$oid":"56181002c04b1c633f33b0d9"},"id":715,"name":"Burning Gaze"}
+{"_id":{"$oid":"56181002c04b1c633f33b0da"},"id":716,"name":"Burst Bonds"}
+{"_id":{"$oid":"56181002c04b1c633f33b0db"},"id":717,"name":"Cacophonous Call"}
+{"_id":{"$oid":"56181002c04b1c633f33b0dc"},"id":718,"name":"Cacophonous Call, Mass"}
+{"_id":{"$oid":"56181002c04b1c633f33b0dd"},"id":719,"name":"Calcific Touch"}
+{"_id":{"$oid":"56181002c04b1c633f33b0de"},"id":720,"name":"Call Animal"}
+{"_id":{"$oid":"56181002c04b1c633f33b0df"},"id":721,"name":"Campfire Wall"}
+{"_id":{"$oid":"56181002c04b1c633f33b0e0"},"id":722,"name":"Cast Out"}
+{"_id":{"$oid":"56181002c04b1c633f33b0e1"},"id":723,"name":"Castigate"}
+{"_id":{"$oid":"56181002c04b1c633f33b0e2"},"id":724,"name":"Castigate, Mass"}
+{"_id":{"$oid":"56181002c04b1c633f33b0e3"},"id":725,"name":"Challenge Evil"}
+{"_id":{"$oid":"56181002c04b1c633f33b0e4"},"id":726,"name":"Chameleon Stride"}
+{"_id":{"$oid":"56181002c04b1c633f33b0e5"},"id":727,"name":"Clashing Rocks"}
+{"_id":{"$oid":"56181002c04b1c633f33b0e6"},"id":728,"name":"Cleanse"}
+{"_id":{"$oid":"56181002c04b1c633f33b0e7"},"id":729,"name":"Cloak of Dreams"}
+{"_id":{"$oid":"56181002c04b1c633f33b0e8"},"id":730,"name":"Cloak of Shade"}
+{"_id":{"$oid":"56181002c04b1c633f33b0e9"},"id":731,"name":"Cloak of Winds"}
+{"_id":{"$oid":"56181002c04b1c633f33b0ea"},"id":732,"name":"Confess"}
+{"_id":{"$oid":"56181002c04b1c633f33b0eb"},"id":733,"name":"Contagious Flame"}
+{"_id":{"$oid":"56181002c04b1c633f33b0ec"},"id":734,"name":"Coordinated Effort"}
+{"_id":{"$oid":"56181002c04b1c633f33b0ed"},"id":735,"name":"Corruption Resistance"}
+{"_id":{"$oid":"56181002c04b1c633f33b0ee"},"id":736,"name":"Coward's Lament"}
+{"_id":{"$oid":"56181002c04b1c633f33b0ef"},"id":737,"name":"Crafter's Curse"}
+{"_id":{"$oid":"56181002c04b1c633f33b0f0"},"id":738,"name":"Crafter's Fortune"}
+{"_id":{"$oid":"56181002c04b1c633f33b0f1"},"id":739,"name":"Create Pit"}
+{"_id":{"$oid":"56181002c04b1c633f33b0f2"},"id":740,"name":"Create Treasure Map"}
+{"_id":{"$oid":"56181002c04b1c633f33b0f3"},"id":741,"name":"Cup Of Dust"}
+{"_id":{"$oid":"56181002c04b1c633f33b0f4"},"id":742,"name":"Dancing Lantern"}
+{"_id":{"$oid":"56181002c04b1c633f33b0f5"},"id":743,"name":"Deadly Finale"}
+{"_id":{"$oid":"56181002c04b1c633f33b0f6"},"id":744,"name":"Deafening Song Bolt"}
+{"_id":{"$oid":"56181002c04b1c633f33b0f7"},"id":745,"name":"Defile Armor"}
+{"_id":{"$oid":"56181002c04b1c633f33b0f8"},"id":746,"name":"Deflection"}
+{"_id":{"$oid":"56181002c04b1c633f33b0f9"},"id":747,"name":"Delayed Consumption"}
+{"_id":{"$oid":"56181002c04b1c633f33b0fa"},"id":748,"name":"Denounce"}
+{"_id":{"$oid":"56181002c04b1c633f33b0fb"},"id":749,"name":"Detect Aberration"}
+{"_id":{"$oid":"56181002c04b1c633f33b0fc"},"id":750,"name":"Detonate"}
+{"_id":{"$oid":"56181002c04b1c633f33b0fd"},"id":751,"name":"Devolution"}
+{"_id":{"$oid":"56181002c04b1c633f33b0fe"},"id":752,"name":"Discordant Blast"}
+{"_id":{"$oid":"56181002c04b1c633f33b0ff"},"id":753,"name":"Divine Transfer"}
+{"_id":{"$oid":"56181002c04b1c633f33b100"},"id":754,"name":"Divine Vessel"}
+{"_id":{"$oid":"56181002c04b1c633f33b101"},"id":755,"name":"Draconic Reservoir"}
+{"_id":{"$oid":"56181002c04b1c633f33b102"},"id":756,"name":"Dragon's Breath"}
+{"_id":{"$oid":"56181002c04b1c633f33b103"},"id":757,"name":"Dust Of Twilight"}
+{"_id":{"$oid":"56181002c04b1c633f33b104"},"id":758,"name":"Eagle Eye"}
+{"_id":{"$oid":"56181002c04b1c633f33b105"},"id":759,"name":"Elemental Aura"}
+{"_id":{"$oid":"56181002c04b1c633f33b106"},"id":760,"name":"Elemental Speech"}
+{"_id":{"$oid":"56181002c04b1c633f33b107"},"id":761,"name":"Elemental Touch"}
+{"_id":{"$oid":"56181002c04b1c633f33b108"},"id":762,"name":"Elude Time"}
+{"_id":{"$oid":"56181002c04b1c633f33b109"},"id":763,"name":"Enemy Hammer"}
+{"_id":{"$oid":"56181002c04b1c633f33b10a"},"id":764,"name":"Enter Image"}
+{"_id":{"$oid":"56181002c04b1c633f33b10b"},"id":765,"name":"Euphoric Tranquility"}
+{"_id":{"$oid":"56181002c04b1c633f33b10c"},"id":766,"name":"Evolution Surge, Lesser"}
+{"_id":{"$oid":"56181002c04b1c633f33b10d"},"id":767,"name":"Evolution Surge"}
+{"_id":{"$oid":"56181002c04b1c633f33b10e"},"id":768,"name":"Evolution Surge, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b10f"},"id":769,"name":"Expeditious Excavation"}
+{"_id":{"$oid":"56181002c04b1c633f33b110"},"id":770,"name":"Expend"}
+{"_id":{"$oid":"56181002c04b1c633f33b111"},"id":772,"name":"Feather Step"}
+{"_id":{"$oid":"56181002c04b1c633f33b112"},"id":771,"name":"Feast Of Ashes"}
+{"_id":{"$oid":"56181002c04b1c633f33b113"},"id":773,"name":"Feather Step, Mass"}
+{"_id":{"$oid":"56181002c04b1c633f33b114"},"id":774,"name":"Fester"}
+{"_id":{"$oid":"56181002c04b1c633f33b115"},"id":775,"name":"Fester, Mass"}
+{"_id":{"$oid":"56181002c04b1c633f33b116"},"id":776,"name":"Fiery Body"}
+{"_id":{"$oid":"56181002c04b1c633f33b117"},"id":777,"name":"Fire Breath"}
+{"_id":{"$oid":"56181002c04b1c633f33b118"},"id":778,"name":"Fire of Entanglement"}
+{"_id":{"$oid":"56181002c04b1c633f33b119"},"id":779,"name":"Fire of Judgment"}
+{"_id":{"$oid":"56181002c04b1c633f33b11a"},"id":780,"name":"Fire of Vengeance"}
+{"_id":{"$oid":"56181002c04b1c633f33b11b"},"id":781,"name":"Fire Snake"}
+{"_id":{"$oid":"56181002c04b1c633f33b11c"},"id":782,"name":"Firebrand"}
+{"_id":{"$oid":"56181002c04b1c633f33b11d"},"id":783,"name":"Firefall"}
+{"_id":{"$oid":"56181002c04b1c633f33b11e"},"id":784,"name":"Flames Of The Faithful"}
+{"_id":{"$oid":"56181002c04b1c633f33b11f"},"id":785,"name":"Flare Burst"}
+{"_id":{"$oid":"56181002c04b1c633f33b120"},"id":786,"name":"Fluid Form"}
+{"_id":{"$oid":"56181002c04b1c633f33b121"},"id":787,"name":"Fly, Mass"}
+{"_id":{"$oid":"56181002c04b1c633f33b122"},"id":788,"name":"Foe to Friend"}
+{"_id":{"$oid":"56181002c04b1c633f33b123"},"id":789,"name":"Follow Aura"}
+{"_id":{"$oid":"56181002c04b1c633f33b124"},"id":790,"name":"Fool's Forbiddance"}
+{"_id":{"$oid":"56181002c04b1c633f33b125"},"id":791,"name":"Forced Repentance"}
+{"_id":{"$oid":"56181002c04b1c633f33b126"},"id":792,"name":"Frozen Note"}
+{"_id":{"$oid":"56181002c04b1c633f33b127"},"id":793,"name":"Gallant Inspiration"}
+{"_id":{"$oid":"56181002c04b1c633f33b128"},"id":794,"name":"Getaway"}
+{"_id":{"$oid":"56181002c04b1c633f33b129"},"id":795,"name":"Geyser"}
+{"_id":{"$oid":"56181002c04b1c633f33b12a"},"id":797,"name":"Ghostbane Dirge, Mass"}
+{"_id":{"$oid":"56181002c04b1c633f33b12b"},"id":796,"name":"Ghostbane Dirge"}
+{"_id":{"$oid":"56181002c04b1c633f33b12c"},"id":799,"name":"Grace"}
+{"_id":{"$oid":"56181002c04b1c633f33b12d"},"id":798,"name":"Glide"}
+{"_id":{"$oid":"56181002c04b1c633f33b12e"},"id":800,"name":"Gravity Bow"}
+{"_id":{"$oid":"56181002c04b1c633f33b12f"},"id":801,"name":"Grove of Respite"}
+{"_id":{"$oid":"56181002c04b1c633f33b130"},"id":802,"name":"Guiding Star"}
+{"_id":{"$oid":"56181002c04b1c633f33b131"},"id":803,"name":"Heroic Finale"}
+{"_id":{"$oid":"56181002c04b1c633f33b132"},"id":804,"name":"Hero's Defiance"}
+{"_id":{"$oid":"56181002c04b1c633f33b133"},"id":805,"name":"Hidden Speech"}
+{"_id":{"$oid":"56181002c04b1c633f33b134"},"id":806,"name":"Hide Campsite"}
+{"_id":{"$oid":"56181002c04b1c633f33b135"},"id":807,"name":"Holy Whisper"}
+{"_id":{"$oid":"56181002c04b1c633f33b136"},"id":808,"name":"Honeyed Tongue"}
+{"_id":{"$oid":"56181002c04b1c633f33b137"},"id":809,"name":"Hungry Pit"}
+{"_id":{"$oid":"56181002c04b1c633f33b138"},"id":810,"name":"Hydraulic Push"}
+{"_id":{"$oid":"56181002c04b1c633f33b139"},"id":811,"name":"Hydraulic Torrent"}
+{"_id":{"$oid":"56181002c04b1c633f33b13a"},"id":812,"name":"Ill Omen"}
+{"_id":{"$oid":"56181002c04b1c633f33b13b"},"id":813,"name":"Innocence"}
+{"_id":{"$oid":"56181002c04b1c633f33b13c"},"id":814,"name":"Instant Armor"}
+{"_id":{"$oid":"56181002c04b1c633f33b13d"},"id":815,"name":"Instant Enemy"}
+{"_id":{"$oid":"56181002c04b1c633f33b13e"},"id":816,"name":"Invigorate"}
+{"_id":{"$oid":"56181002c04b1c633f33b13f"},"id":817,"name":"Invigorate, Mass"}
+{"_id":{"$oid":"56181002c04b1c633f33b140"},"id":818,"name":"Jester's Jaunt"}
+{"_id":{"$oid":"56181002c04b1c633f33b141"},"id":819,"name":"Keen Senses"}
+{"_id":{"$oid":"56181002c04b1c633f33b142"},"id":820,"name":"King's Castle"}
+{"_id":{"$oid":"56181002c04b1c633f33b143"},"id":821,"name":"Knight's Calling"}
+{"_id":{"$oid":"56181002c04b1c633f33b144"},"id":822,"name":"Lead Blades"}
+{"_id":{"$oid":"56181002c04b1c633f33b145"},"id":823,"name":"Life Bubble"}
+{"_id":{"$oid":"56181002c04b1c633f33b146"},"id":824,"name":"Light Lance"}
+{"_id":{"$oid":"56181002c04b1c633f33b147"},"id":825,"name":"Lily Pad Stride"}
+{"_id":{"$oid":"56181002c04b1c633f33b148"},"id":826,"name":"Lockjaw"}
+{"_id":{"$oid":"56181002c04b1c633f33b149"},"id":827,"name":"Marks Of Forbiddance"}
+{"_id":{"$oid":"56181002c04b1c633f33b14a"},"id":828,"name":"Mask Dweomer"}
+{"_id":{"$oid":"56181002c04b1c633f33b14b"},"id":829,"name":"Memory Lapse"}
+{"_id":{"$oid":"56181002c04b1c633f33b14c"},"id":830,"name":"Moonstruck"}
+{"_id":{"$oid":"56181002c04b1c633f33b14d"},"id":831,"name":"Nap Stack"}
+{"_id":{"$oid":"56181002c04b1c633f33b14e"},"id":832,"name":"Natural Rhythm"}
+{"_id":{"$oid":"56181002c04b1c633f33b14f"},"id":833,"name":"Nature's Exile"}
+{"_id":{"$oid":"56181002c04b1c633f33b150"},"id":835,"name":"Oath Of Peace"}
+{"_id":{"$oid":"56181002c04b1c633f33b151"},"id":834,"name":"Negate Aroma"}
+{"_id":{"$oid":"56181002c04b1c633f33b152"},"id":836,"name":"Oracle's Burden"}
+{"_id":{"$oid":"56181002c04b1c633f33b153"},"id":837,"name":"Pain Strike"}
+{"_id":{"$oid":"56181002c04b1c633f33b154"},"id":838,"name":"Pain Strike, Mass"}
+{"_id":{"$oid":"56181002c04b1c633f33b155"},"id":839,"name":"Paladin's Sacrifice"}
+{"_id":{"$oid":"56181002c04b1c633f33b156"},"id":840,"name":"Phantasmal Revenge"}
+{"_id":{"$oid":"56181002c04b1c633f33b157"},"id":841,"name":"Phantasmal Web"}
+{"_id":{"$oid":"56181002c04b1c633f33b158"},"id":842,"name":"Pied Piping"}
+{"_id":{"$oid":"56181002c04b1c633f33b159"},"id":843,"name":"Pillar Of Life"}
+{"_id":{"$oid":"56181002c04b1c633f33b15a"},"id":844,"name":"Planar Adaptation"}
+{"_id":{"$oid":"56181002c04b1c633f33b15b"},"id":845,"name":"Planar Adaptation, Mass"}
+{"_id":{"$oid":"56181002c04b1c633f33b15c"},"id":846,"name":"Pox Pustules"}
+{"_id":{"$oid":"56181002c04b1c633f33b15d"},"id":847,"name":"Protective Spirit"}
+{"_id":{"$oid":"56181002c04b1c633f33b15e"},"id":848,"name":"Purging Finale"}
+{"_id":{"$oid":"56181002c04b1c633f33b15f"},"id":849,"name":"Purified Calling"}
+{"_id":{"$oid":"56181002c04b1c633f33b160"},"id":850,"name":"Putrefy Food and Drink"}
+{"_id":{"$oid":"56181002c04b1c633f33b161"},"id":851,"name":"Rally Point"}
+{"_id":{"$oid":"56181002c04b1c633f33b162"},"id":853,"name":"Rebuke"}
+{"_id":{"$oid":"56181002c04b1c633f33b163"},"id":854,"name":"Rampart"}
+{"_id":{"$oid":"56181002c04b1c633f33b164"},"id":855,"name":"Rejuvenate Eidolon, Lesser"}
+{"_id":{"$oid":"56181002c04b1c633f33b165"},"id":856,"name":"Rejuvenate Eidolon"}
+{"_id":{"$oid":"56181002c04b1c633f33b166"},"id":857,"name":"Rejuvenate Eidolon, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b167"},"id":859,"name":"Rest Eternal"}
+{"_id":{"$oid":"56181002c04b1c633f33b168"},"id":858,"name":"Resounding Blow"}
+{"_id":{"$oid":"56181002c04b1c633f33b169"},"id":860,"name":"Restful Sleep"}
+{"_id":{"$oid":"56181002c04b1c633f33b16a"},"id":861,"name":"Resurgent Transformation"}
+{"_id":{"$oid":"56181002c04b1c633f33b16b"},"id":862,"name":"Retribution"}
+{"_id":{"$oid":"56181002c04b1c633f33b16c"},"id":863,"name":"Reviving Finale"}
+{"_id":{"$oid":"56181002c04b1c633f33b16d"},"id":864,"name":"Righteous Vigor"}
+{"_id":{"$oid":"56181002c04b1c633f33b16e"},"id":865,"name":"River of Wind"}
+{"_id":{"$oid":"56181002c04b1c633f33b16f"},"id":866,"name":"Sacred Bond"}
+{"_id":{"$oid":"56181002c04b1c633f33b170"},"id":867,"name":"Sacrificial Oath"}
+{"_id":{"$oid":"56181002c04b1c633f33b171"},"id":868,"name":"Saddle Surge"}
+{"_id":{"$oid":"56181002c04b1c633f33b172"},"id":869,"name":"Sanctify Armor"}
+{"_id":{"$oid":"56181002c04b1c633f33b173"},"id":870,"name":"Saving Finale"}
+{"_id":{"$oid":"56181002c04b1c633f33b174"},"id":871,"name":"Scent Trail"}
+{"_id":{"$oid":"56181002c04b1c633f33b175"},"id":872,"name":"Screech"}
+{"_id":{"$oid":"56181002c04b1c633f33b176"},"id":873,"name":"Sculpt Corpse"}
+{"_id":{"$oid":"56181002c04b1c633f33b177"},"id":874,"name":"Seamantle"}
+{"_id":{"$oid":"56181002c04b1c633f33b178"},"id":875,"name":"Seek Thoughts"}
+{"_id":{"$oid":"56181002c04b1c633f33b179"},"id":877,"name":"Share Language"}
+{"_id":{"$oid":"56181002c04b1c633f33b17a"},"id":878,"name":"Shadow Projection"}
+{"_id":{"$oid":"56181002c04b1c633f33b17b"},"id":879,"name":"Share Senses"}
+{"_id":{"$oid":"56181002c04b1c633f33b17c"},"id":880,"name":"Shifting Sand"}
+{"_id":{"$oid":"56181002c04b1c633f33b17d"},"id":881,"name":"Shared Wrath"}
+{"_id":{"$oid":"56181002c04b1c633f33b17e"},"id":882,"name":"Sift"}
+{"_id":{"$oid":"56181002c04b1c633f33b17f"},"id":883,"name":"Sirocco"}
+{"_id":{"$oid":"56181002c04b1c633f33b180"},"id":884,"name":"Sleepwalk"}
+{"_id":{"$oid":"56181002c04b1c633f33b181"},"id":885,"name":"Slipstream"}
+{"_id":{"$oid":"56181002c04b1c633f33b182"},"id":886,"name":"Snake Staff"}
+{"_id":{"$oid":"56181002c04b1c633f33b183"},"id":887,"name":"Solid Note"}
+{"_id":{"$oid":"56181002c04b1c633f33b184"},"id":888,"name":"Spark"}
+{"_id":{"$oid":"56181002c04b1c633f33b185"},"id":889,"name":"Spiked Pit"}
+{"_id":{"$oid":"56181002c04b1c633f33b186"},"id":890,"name":"Spiritual Ally"}
+{"_id":{"$oid":"56181002c04b1c633f33b187"},"id":891,"name":"Spite"}
+{"_id":{"$oid":"56181002c04b1c633f33b188"},"id":892,"name":"Stay the Hand"}
+{"_id":{"$oid":"56181002c04b1c633f33b189"},"id":893,"name":"Stone Call"}
+{"_id":{"$oid":"56181002c04b1c633f33b18a"},"id":894,"name":"Stone Fist"}
+{"_id":{"$oid":"56181002c04b1c633f33b18b"},"id":896,"name":"Stormbolts"}
+{"_id":{"$oid":"56181002c04b1c633f33b18c"},"id":897,"name":"Strong Jaw"}
+{"_id":{"$oid":"56181002c04b1c633f33b18d"},"id":898,"name":"Stumble Gap"}
+{"_id":{"$oid":"56181002c04b1c633f33b18e"},"id":899,"name":"Stunning Finale"}
+{"_id":{"$oid":"56181002c04b1c633f33b18f"},"id":900,"name":"Suffocation"}
+{"_id":{"$oid":"56181002c04b1c633f33b190"},"id":901,"name":"Suffocation, Mass"}
+{"_id":{"$oid":"56181002c04b1c633f33b191"},"id":902,"name":"Summon Eidolon"}
+{"_id":{"$oid":"56181002c04b1c633f33b192"},"id":903,"name":"Swarm Skin"}
+{"_id":{"$oid":"56181002c04b1c633f33b193"},"id":904,"name":"Thorn Body"}
+{"_id":{"$oid":"56181002c04b1c633f33b194"},"id":905,"name":"Threefold Aspect"}
+{"_id":{"$oid":"56181002c04b1c633f33b195"},"id":906,"name":"Thundering Drums"}
+{"_id":{"$oid":"56181002c04b1c633f33b196"},"id":907,"name":"Timely Inspiration"}
+{"_id":{"$oid":"56181002c04b1c633f33b197"},"id":908,"name":"Tireless Pursuit"}
+{"_id":{"$oid":"56181002c04b1c633f33b198"},"id":909,"name":"Tireless Pursuers"}
+{"_id":{"$oid":"56181002c04b1c633f33b199"},"id":910,"name":"Touch of Gracelessness"}
+{"_id":{"$oid":"56181002c04b1c633f33b19a"},"id":911,"name":"Touch of the Sea"}
+{"_id":{"$oid":"56181002c04b1c633f33b19b"},"id":912,"name":"Transmogrify"}
+{"_id":{"$oid":"56181002c04b1c633f33b19c"},"id":913,"name":"Transmute Potion to Poison"}
+{"_id":{"$oid":"56181002c04b1c633f33b19d"},"id":914,"name":"Treasure Stitching"}
+{"_id":{"$oid":"56181002c04b1c633f33b19e"},"id":915,"name":"True Form"}
+{"_id":{"$oid":"56181002c04b1c633f33b19f"},"id":916,"name":"Tsunami"}
+{"_id":{"$oid":"56181002c04b1c633f33b1a0"},"id":917,"name":"Twilight Knife"}
+{"_id":{"$oid":"56181002c04b1c633f33b1a1"},"id":918,"name":"Twin Form"}
+{"_id":{"$oid":"56181002c04b1c633f33b1a2"},"id":919,"name":"Unfetter"}
+{"_id":{"$oid":"56181002c04b1c633f33b1a3"},"id":920,"name":"Universal Formula"}
+{"_id":{"$oid":"56181002c04b1c633f33b1a4"},"id":921,"name":"Unwilling Shield"}
+{"_id":{"$oid":"56181002c04b1c633f33b1a5"},"id":923,"name":"Vanish"}
+{"_id":{"$oid":"56181002c04b1c633f33b1a6"},"id":922,"name":"Unwitting Ally"}
+{"_id":{"$oid":"56181002c04b1c633f33b1a7"},"id":924,"name":"Veil of Positive Energy"}
+{"_id":{"$oid":"56181002c04b1c633f33b1a8"},"id":925,"name":"Venomous Bolt"}
+{"_id":{"$oid":"56181002c04b1c633f33b1a9"},"id":926,"name":"Versatile Weapon"}
+{"_id":{"$oid":"56181002c04b1c633f33b1aa"},"id":927,"name":"Vomit Swarm"}
+{"_id":{"$oid":"56181002c04b1c633f33b1ab"},"id":928,"name":"Vortex"}
+{"_id":{"$oid":"56181002c04b1c633f33b1ac"},"id":929,"name":"Wake of Light"}
+{"_id":{"$oid":"56181002c04b1c633f33b1ad"},"id":930,"name":"Wall of Lava"}
+{"_id":{"$oid":"56181002c04b1c633f33b1ae"},"id":931,"name":"Wall of Suppression"}
+{"_id":{"$oid":"56181002c04b1c633f33b1af"},"id":932,"name":"Wandering Star Motes"}
+{"_id":{"$oid":"56181002c04b1c633f33b1b0"},"id":933,"name":"Ward the Faithful"}
+{"_id":{"$oid":"56181002c04b1c633f33b1b1"},"id":934,"name":"Weapon of Awe"}
+{"_id":{"$oid":"56181002c04b1c633f33b1b2"},"id":935,"name":"Winds of Vengeance"}
+{"_id":{"$oid":"56181002c04b1c633f33b1b3"},"id":936,"name":"World Wave"}
+{"_id":{"$oid":"56181002c04b1c633f33b1b4"},"id":937,"name":"Wrath"}
+{"_id":{"$oid":"56181002c04b1c633f33b1b5"},"id":938,"name":"Wrathful Mantle"}
+{"_id":{"$oid":"56181002c04b1c633f33b1b6"},"id":940,"name":"Hunter's Eye"}
+{"_id":{"$oid":"56181002c04b1c633f33b1b7"},"id":941,"name":"Hunter's Howl"}
+{"_id":{"$oid":"56181002c04b1c633f33b1b8"},"id":942,"name":"Perceive Cues"}
+{"_id":{"$oid":"56181002c04b1c633f33b1b9"},"id":943,"name":"Residual Tracking"}
+{"_id":{"$oid":"56181002c04b1c633f33b1ba"},"id":944,"name":"Blessing of Courage and Life"}
+{"_id":{"$oid":"56181002c04b1c633f33b1bb"},"id":946,"name":"Rift of Ruin"}
+{"_id":{"$oid":"56181002c04b1c633f33b1bc"},"id":950,"name":"Constricting Coils"}
+{"_id":{"$oid":"56181002c04b1c633f33b1bd"},"id":951,"name":"Ancestral Memory"}
+{"_id":{"$oid":"56181002c04b1c633f33b1be"},"id":953,"name":"Gorum's Armor"}
+{"_id":{"$oid":"56181002c04b1c633f33b1bf"},"id":954,"name":"Harrowing"}
+{"_id":{"$oid":"56181002c04b1c633f33b1c0"},"id":955,"name":"Infernal Healing"}
+{"_id":{"$oid":"56181002c04b1c633f33b1c1"},"id":956,"name":"Infernal Healing, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b1c2"},"id":958,"name":"Lover's Vengeance"}
+{"_id":{"$oid":"56181002c04b1c633f33b1c3"},"id":959,"name":"Shield Of The Dawnflower"}
+{"_id":{"$oid":"56181002c04b1c633f33b1c4"},"id":960,"name":"Teleport Trap"}
+{"_id":{"$oid":"56181002c04b1c633f33b1c5"},"id":964,"name":"Vision of Lamashtu"}
+{"_id":{"$oid":"56181002c04b1c633f33b1c6"},"id":965,"name":"Waters Of Lamashtu"}
+{"_id":{"$oid":"56181002c04b1c633f33b1c7"},"id":973,"name":"Trail of the Rose"}
+{"_id":{"$oid":"56181002c04b1c633f33b1c8"},"id":975,"name":"Acidic Spray"}
+{"_id":{"$oid":"56181002c04b1c633f33b1c9"},"id":961,"name":"Unbreakable Heart"}
+{"_id":{"$oid":"56181002c04b1c633f33b1ca"},"id":976,"name":"Acute Senses"}
+{"_id":{"$oid":"56181002c04b1c633f33b1cb"},"id":977,"name":"Age Resistance, Lesser"}
+{"_id":{"$oid":"56181002c04b1c633f33b1cc"},"id":978,"name":"Age Resistance, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b1cd"},"id":979,"name":"Age Resistance"}
+{"_id":{"$oid":"56181002c04b1c633f33b1ce"},"id":980,"name":"Allegro"}
+{"_id":{"$oid":"56181002c04b1c633f33b1cf"},"id":981,"name":"Animate Dead, Lesser"}
+{"_id":{"$oid":"56181002c04b1c633f33b1d0"},"id":982,"name":"Anthropomorphic Animal"}
+{"_id":{"$oid":"56181002c04b1c633f33b1d1"},"id":983,"name":"Anticipate Peril"}
+{"_id":{"$oid":"56181002c04b1c633f33b1d2"},"id":984,"name":"Arboreal Hammer"}
+{"_id":{"$oid":"56181002c04b1c633f33b1d3"},"id":985,"name":"Arcana Theft"}
+{"_id":{"$oid":"56181002c04b1c633f33b1d4"},"id":986,"name":"Archon's Aura"}
+{"_id":{"$oid":"56181002c04b1c633f33b1d5"},"id":987,"name":"Arrow of Law"}
+{"_id":{"$oid":"56181002c04b1c633f33b1d6"},"id":988,"name":"Ash Storm"}
+{"_id":{"$oid":"56181002c04b1c633f33b1d7"},"id":989,"name":"Astral Projection, Lesser"}
+{"_id":{"$oid":"56181002c04b1c633f33b1d8"},"id":990,"name":"Atavism"}
+{"_id":{"$oid":"56181002c04b1c633f33b1d9"},"id":991,"name":"Atavism, Mass"}
+{"_id":{"$oid":"56181002c04b1c633f33b1da"},"id":992,"name":"Aura of Doom"}
+{"_id":{"$oid":"56181002c04b1c633f33b1db"},"id":993,"name":"Badger's Ferocity"}
+{"_id":{"$oid":"56181002c04b1c633f33b1dc"},"id":994,"name":"Battlemind Link"}
+{"_id":{"$oid":"56181002c04b1c633f33b1dd"},"id":995,"name":"Bestow Grace of the Champion"}
+{"_id":{"$oid":"56181002c04b1c633f33b1de"},"id":996,"name":"Blade of Bright Victory"}
+{"_id":{"$oid":"56181002c04b1c633f33b1df"},"id":997,"name":"Blade of Dark Triumph"}
+{"_id":{"$oid":"56181002c04b1c633f33b1e0"},"id":998,"name":"Blessing of the Mole"}
+{"_id":{"$oid":"56181002c04b1c633f33b1e1"},"id":999,"name":"Blood Crow Strike"}
+{"_id":{"$oid":"56181002c04b1c633f33b1e2"},"id":1000,"name":"Blood Mist"}
+{"_id":{"$oid":"56181002c04b1c633f33b1e3"},"id":1001,"name":"Blood Transcription"}
+{"_id":{"$oid":"56181002c04b1c633f33b1e4"},"id":1002,"name":"Boiling Blood"}
+{"_id":{"$oid":"56181002c04b1c633f33b1e5"},"id":1003,"name":"Bungle"}
+{"_id":{"$oid":"56181002c04b1c633f33b1e6"},"id":1004,"name":"Burrow"}
+{"_id":{"$oid":"56181002c04b1c633f33b1e7"},"id":1005,"name":"Burst of Nettles"}
+{"_id":{"$oid":"56181002c04b1c633f33b1e8"},"id":1006,"name":"Cackling Skull"}
+{"_id":{"$oid":"56181002c04b1c633f33b1e9"},"id":1007,"name":"Call Construct"}
+{"_id":{"$oid":"56181002c04b1c633f33b1ea"},"id":1009,"name":"Caustic Eruption"}
+{"_id":{"$oid":"56181002c04b1c633f33b1eb"},"id":1008,"name":"Cape Of Wasps"}
+{"_id":{"$oid":"56181002c04b1c633f33b1ec"},"id":1010,"name":"Chord Of Shards"}
+{"_id":{"$oid":"56181002c04b1c633f33b1ed"},"id":1011,"name":"Circle Of Clarity"}
+{"_id":{"$oid":"56181002c04b1c633f33b1ee"},"id":1012,"name":"Cold Ice Strike"}
+{"_id":{"$oid":"56181002c04b1c633f33b1ef"},"id":1013,"name":"Compassionate Ally"}
+{"_id":{"$oid":"56181002c04b1c633f33b1f0"},"id":1014,"name":"Conjure Black Pudding"}
+{"_id":{"$oid":"56181002c04b1c633f33b1f1"},"id":1015,"name":"Contagion, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b1f2"},"id":1016,"name":"Control Construct"}
+{"_id":{"$oid":"56181002c04b1c633f33b1f3"},"id":1017,"name":"Control Summoned Creature"}
+{"_id":{"$oid":"56181002c04b1c633f33b1f4"},"id":1019,"name":"Corrosive Touch"}
+{"_id":{"$oid":"56181002c04b1c633f33b1f5"},"id":1018,"name":"Corrosive Consumption"}
+{"_id":{"$oid":"56181002c04b1c633f33b1f6"},"id":1020,"name":"Countless Eyes"}
+{"_id":{"$oid":"56181002c04b1c633f33b1f7"},"id":1021,"name":"Create Demiplane"}
+{"_id":{"$oid":"56181002c04b1c633f33b1f8"},"id":1022,"name":"Create Demiplane, Lesser"}
+{"_id":{"$oid":"56181002c04b1c633f33b1f9"},"id":1023,"name":"Create Demiplane, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b1fa"},"id":1024,"name":"Curse, Major"}
+{"_id":{"$oid":"56181002c04b1c633f33b1fb"},"id":1025,"name":"Curse Of Disgust"}
+{"_id":{"$oid":"56181002c04b1c633f33b1fc"},"id":1026,"name":"Curse of Magic Negation"}
+{"_id":{"$oid":"56181002c04b1c633f33b1fd"},"id":1027,"name":"Cursed Earth"}
+{"_id":{"$oid":"56181002c04b1c633f33b1fe"},"id":1028,"name":"Cushioning Bands"}
+{"_id":{"$oid":"56181002c04b1c633f33b1ff"},"id":1029,"name":"Dance of a Hundred Cuts"}
+{"_id":{"$oid":"56181002c04b1c633f33b200"},"id":1030,"name":"Dance of a Thousand Cuts"}
+{"_id":{"$oid":"56181002c04b1c633f33b201"},"id":1031,"name":"Darkvision, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b202"},"id":1033,"name":"Decompose Corpse"}
+{"_id":{"$oid":"56181002c04b1c633f33b203"},"id":1032,"name":"Daze, Mass"}
+{"_id":{"$oid":"56181002c04b1c633f33b204"},"id":1034,"name":"Defensive Shock"}
+{"_id":{"$oid":"56181002c04b1c633f33b205"},"id":1035,"name":"Delay Pain"}
+{"_id":{"$oid":"56181002c04b1c633f33b206"},"id":1036,"name":"Delusional Pride"}
+{"_id":{"$oid":"56181002c04b1c633f33b207"},"id":1037,"name":"Diagnose Disease"}
+{"_id":{"$oid":"56181002c04b1c633f33b208"},"id":1038,"name":"Disfiguring Touch"}
+{"_id":{"$oid":"56181002c04b1c633f33b209"},"id":1039,"name":"Disguise Other"}
+{"_id":{"$oid":"56181002c04b1c633f33b20a"},"id":1040,"name":"Distracting Cacophony"}
+{"_id":{"$oid":"56181002c04b1c633f33b20b"},"id":1041,"name":"Distressing Tone"}
+{"_id":{"$oid":"56181002c04b1c633f33b20c"},"id":1042,"name":"Divine Pursuit"}
+{"_id":{"$oid":"56181002c04b1c633f33b20d"},"id":1043,"name":"Dread Bolt"}
+{"_id":{"$oid":"56181002c04b1c633f33b20e"},"id":1044,"name":"Eagle Aerie"}
+{"_id":{"$oid":"56181002c04b1c633f33b20f"},"id":1045,"name":"Ear-Piercing Scream"}
+{"_id":{"$oid":"56181002c04b1c633f33b210"},"id":1046,"name":"Echolocation"}
+{"_id":{"$oid":"56181002c04b1c633f33b211"},"id":1047,"name":"Eldritch Fever"}
+{"_id":{"$oid":"56181002c04b1c633f33b212"},"id":1048,"name":"Envious Urge"}
+{"_id":{"$oid":"56181002c04b1c633f33b213"},"id":1049,"name":"Epidemic"}
+{"_id":{"$oid":"56181002c04b1c633f33b214"},"id":1050,"name":"Eruptive Pustules"}
+{"_id":{"$oid":"56181002c04b1c633f33b215"},"id":1051,"name":"Excruciating Deformation"}
+{"_id":{"$oid":"56181002c04b1c633f33b216"},"id":1052,"name":"Exquisite Accompaniment"}
+{"_id":{"$oid":"56181002c04b1c633f33b217"},"id":1053,"name":"False Life, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b218"},"id":1054,"name":"Familiar Melding"}
+{"_id":{"$oid":"56181002c04b1c633f33b219"},"id":1055,"name":"Fickle Winds"}
+{"_id":{"$oid":"56181002c04b1c633f33b21a"},"id":1056,"name":"Fleshworm Infestation"}
+{"_id":{"$oid":"56181002c04b1c633f33b21b"},"id":1057,"name":"Forbid Action"}
+{"_id":{"$oid":"56181002c04b1c633f33b21c"},"id":1058,"name":"Forbid Action, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b21d"},"id":1059,"name":"Force Hook Charge"}
+{"_id":{"$oid":"56181002c04b1c633f33b21e"},"id":1060,"name":"Force Punch"}
+{"_id":{"$oid":"56181002c04b1c633f33b21f"},"id":1061,"name":"Forced Quiet"}
+{"_id":{"$oid":"56181002c04b1c633f33b220"},"id":1062,"name":"Frigid Touch"}
+{"_id":{"$oid":"56181002c04b1c633f33b221"},"id":1063,"name":"Frostbite"}
+{"_id":{"$oid":"56181002c04b1c633f33b222"},"id":1064,"name":"Fumbletongue"}
+{"_id":{"$oid":"56181002c04b1c633f33b223"},"id":1065,"name":"Fungal Infestation"}
+{"_id":{"$oid":"56181002c04b1c633f33b224"},"id":1066,"name":"Ghostly Disguise"}
+{"_id":{"$oid":"56181002c04b1c633f33b225"},"id":1067,"name":"Haunting Choir"}
+{"_id":{"$oid":"56181002c04b1c633f33b226"},"id":1068,"name":"Haunting Mists"}
+{"_id":{"$oid":"56181002c04b1c633f33b227"},"id":1069,"name":"Hex Ward"}
+{"_id":{"$oid":"56181002c04b1c633f33b228"},"id":1070,"name":"Holy Ice"}
+{"_id":{"$oid":"56181002c04b1c633f33b229"},"id":1071,"name":"Holy Shield"}
+{"_id":{"$oid":"56181002c04b1c633f33b22a"},"id":1072,"name":"Horn of Pursuit"}
+{"_id":{"$oid":"56181002c04b1c633f33b22b"},"id":1073,"name":"Howling Agony"}
+{"_id":{"$oid":"56181002c04b1c633f33b22c"},"id":1074,"name":"Ice Body"}
+{"_id":{"$oid":"56181002c04b1c633f33b22d"},"id":1075,"name":"Ice Crystal Teleport"}
+{"_id":{"$oid":"56181002c04b1c633f33b22e"},"id":1076,"name":"Icicle Dagger"}
+{"_id":{"$oid":"56181002c04b1c633f33b22f"},"id":1077,"name":"Icy Prison"}
+{"_id":{"$oid":"56181002c04b1c633f33b230"},"id":1078,"name":"Icy Prison, Mass"}
+{"_id":{"$oid":"56181002c04b1c633f33b231"},"id":1079,"name":"Imbue with Aura"}
+{"_id":{"$oid":"56181002c04b1c633f33b232"},"id":1080,"name":"Interplanetary Teleport"}
+{"_id":{"$oid":"56181002c04b1c633f33b233"},"id":1081,"name":"Interrogation"}
+{"_id":{"$oid":"56181002c04b1c633f33b234"},"id":1082,"name":"Interrogation, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b235"},"id":1083,"name":"Joyful Rapture"}
+{"_id":{"$oid":"56181002c04b1c633f33b236"},"id":1084,"name":"Ki Arrow"}
+{"_id":{"$oid":"56181002c04b1c633f33b237"},"id":1085,"name":"Ki Leech"}
+{"_id":{"$oid":"56181002c04b1c633f33b238"},"id":1086,"name":"Ki Shout"}
+{"_id":{"$oid":"56181002c04b1c633f33b239"},"id":1087,"name":"Know The Enemy"}
+{"_id":{"$oid":"56181002c04b1c633f33b23a"},"id":1088,"name":"Leashed Shackles"}
+{"_id":{"$oid":"56181002c04b1c633f33b23b"},"id":1090,"name":"Lend Judgment, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b23c"},"id":1089,"name":"Lend Judgment"}
+{"_id":{"$oid":"56181002c04b1c633f33b23d"},"id":1091,"name":"Lightning Arc"}
+{"_id":{"$oid":"56181002c04b1c633f33b23e"},"id":1092,"name":"Loathsome Veil"}
+{"_id":{"$oid":"56181002c04b1c633f33b23f"},"id":1093,"name":"Lunar Veil"}
+{"_id":{"$oid":"56181002c04b1c633f33b240"},"id":1094,"name":"Mad Hallucination"}
+{"_id":{"$oid":"56181002c04b1c633f33b241"},"id":1096,"name":"Malfunction"}
+{"_id":{"$oid":"56181002c04b1c633f33b242"},"id":1095,"name":"Mad Monkeys"}
+{"_id":{"$oid":"56181002c04b1c633f33b243"},"id":1097,"name":"Malicious Spite"}
+{"_id":{"$oid":"56181002c04b1c633f33b244"},"id":1098,"name":"Marionette Possession"}
+{"_id":{"$oid":"56181002c04b1c633f33b245"},"id":1099,"name":"Masterwork Transformation"}
+{"_id":{"$oid":"56181002c04b1c633f33b246"},"id":1100,"name":"Miserable Pity"}
+{"_id":{"$oid":"56181002c04b1c633f33b247"},"id":1101,"name":"Monstrous Physique I"}
+{"_id":{"$oid":"56181002c04b1c633f33b248"},"id":1102,"name":"Monstrous Physique II"}
+{"_id":{"$oid":"56181002c04b1c633f33b249"},"id":1103,"name":"Monstrous Physique III"}
+{"_id":{"$oid":"56181002c04b1c633f33b24a"},"id":1104,"name":"Monstrous Physique IV"}
+{"_id":{"$oid":"56181002c04b1c633f33b24b"},"id":1105,"name":"Murderous Command"}
+{"_id":{"$oid":"56181002c04b1c633f33b24c"},"id":1106,"name":"Oppressive Boredom"}
+{"_id":{"$oid":"56181002c04b1c633f33b24d"},"id":1107,"name":"Oracle's Vessel"}
+{"_id":{"$oid":"56181002c04b1c633f33b24e"},"id":1108,"name":"Orb Of The Void"}
+{"_id":{"$oid":"56181002c04b1c633f33b24f"},"id":1109,"name":"Overwhelming Grief"}
+{"_id":{"$oid":"56181002c04b1c633f33b250"},"id":1110,"name":"Overwhelming Presence"}
+{"_id":{"$oid":"56181002c04b1c633f33b251"},"id":1112,"name":"Persuasive Goad"}
+{"_id":{"$oid":"56181002c04b1c633f33b252"},"id":1111,"name":"Pernicious Poison"}
+{"_id":{"$oid":"56181002c04b1c633f33b253"},"id":1114,"name":"Plague Carrier"}
+{"_id":{"$oid":"56181002c04b1c633f33b254"},"id":1113,"name":"Piercing Shriek"}
+{"_id":{"$oid":"56181002c04b1c633f33b255"},"id":1115,"name":"Plague Storm"}
+{"_id":{"$oid":"56181002c04b1c633f33b256"},"id":1116,"name":"Play Instrument"}
+{"_id":{"$oid":"56181002c04b1c633f33b257"},"id":1117,"name":"Polar Midnight"}
+{"_id":{"$oid":"56181002c04b1c633f33b258"},"id":1118,"name":"Polypurpose Panacea"}
+{"_id":{"$oid":"56181002c04b1c633f33b259"},"id":1119,"name":"Possess Object"}
+{"_id":{"$oid":"56181002c04b1c633f33b25a"},"id":1120,"name":"Prediction of Failure"}
+{"_id":{"$oid":"56181002c04b1c633f33b25b"},"id":1121,"name":"Primal Scream"}
+{"_id":{"$oid":"56181002c04b1c633f33b25c"},"id":1122,"name":"Protective Penumbra"}
+{"_id":{"$oid":"56181002c04b1c633f33b25d"},"id":1123,"name":"Rain of Frogs"}
+{"_id":{"$oid":"56181002c04b1c633f33b25e"},"id":1124,"name":"Raise Animal Companion"}
+{"_id":{"$oid":"56181002c04b1c633f33b25f"},"id":1125,"name":"Rapid Repair"}
+{"_id":{"$oid":"56181002c04b1c633f33b260"},"id":1126,"name":"Ray of Sickening"}
+{"_id":{"$oid":"56181002c04b1c633f33b261"},"id":1127,"name":"Reckless Infatuation"}
+{"_id":{"$oid":"56181002c04b1c633f33b262"},"id":1128,"name":"Remove Sickness"}
+{"_id":{"$oid":"56181002c04b1c633f33b263"},"id":1129,"name":"Reprobation"}
+{"_id":{"$oid":"56181002c04b1c633f33b264"},"id":1130,"name":"Resonating Word"}
+{"_id":{"$oid":"56181002c04b1c633f33b265"},"id":1131,"name":"Restore Corpse"}
+{"_id":{"$oid":"56181002c04b1c633f33b266"},"id":1132,"name":"Restore Eidolon"}
+{"_id":{"$oid":"56181002c04b1c633f33b267"},"id":1133,"name":"Restore Eidolon, Lesser"}
+{"_id":{"$oid":"56181002c04b1c633f33b268"},"id":1134,"name":"Ride the Lightning"}
+{"_id":{"$oid":"56181002c04b1c633f33b269"},"id":1135,"name":"Ride The Waves"}
+{"_id":{"$oid":"56181002c04b1c633f33b26a"},"id":1136,"name":"Sanctify Corpse"}
+{"_id":{"$oid":"56181002c04b1c633f33b26b"},"id":1137,"name":"Sands of Time"}
+{"_id":{"$oid":"56181002c04b1c633f33b26c"},"id":1138,"name":"Scouring Winds"}
+{"_id":{"$oid":"56181002c04b1c633f33b26d"},"id":1139,"name":"Sculpt Simulacrum"}
+{"_id":{"$oid":"56181002c04b1c633f33b26e"},"id":1140,"name":"Serenity"}
+{"_id":{"$oid":"56181002c04b1c633f33b26f"},"id":1141,"name":"Shadowbard"}
+{"_id":{"$oid":"56181002c04b1c633f33b270"},"id":1142,"name":"Shadow Step"}
+{"_id":{"$oid":"56181002c04b1c633f33b271"},"id":1143,"name":"Shadow Weapon"}
+{"_id":{"$oid":"56181002c04b1c633f33b272"},"id":1144,"name":"Shard of Chaos"}
+{"_id":{"$oid":"56181002c04b1c633f33b273"},"id":1145,"name":"Share Memory"}
+{"_id":{"$oid":"56181002c04b1c633f33b274"},"id":1146,"name":"Simulacrum, Lesser"}
+{"_id":{"$oid":"56181002c04b1c633f33b275"},"id":1147,"name":"Skinsend"}
+{"_id":{"$oid":"56181002c04b1c633f33b276"},"id":1148,"name":"Smug Narcissism"}
+{"_id":{"$oid":"56181002c04b1c633f33b277"},"id":1149,"name":"Snapdragon Fireworks"}
+{"_id":{"$oid":"56181002c04b1c633f33b278"},"id":1150,"name":"Sonic Thrust"}
+{"_id":{"$oid":"56181002c04b1c633f33b279"},"id":1151,"name":"Soothe Construct"}
+{"_id":{"$oid":"56181002c04b1c633f33b27a"},"id":1152,"name":"Spear Of Purity"}
+{"_id":{"$oid":"56181002c04b1c633f33b27b"},"id":1153,"name":"Spit Venom"}
+{"_id":{"$oid":"56181002c04b1c633f33b27c"},"id":1154,"name":"Steal Voice"}
+{"_id":{"$oid":"56181002c04b1c633f33b27d"},"id":1155,"name":"Strangling Hair"}
+{"_id":{"$oid":"56181002c04b1c633f33b27e"},"id":1156,"name":"Summon Elder Worm"}
+{"_id":{"$oid":"56181002c04b1c633f33b27f"},"id":1157,"name":"Summon Froghemoth"}
+{"_id":{"$oid":"56181002c04b1c633f33b280"},"id":1158,"name":"Summon Minor Ally"}
+{"_id":{"$oid":"56181002c04b1c633f33b281"},"id":1159,"name":"Summon Minor Monster"}
+{"_id":{"$oid":"56181002c04b1c633f33b282"},"id":1160,"name":"Surmount Affliction"}
+{"_id":{"$oid":"56181002c04b1c633f33b283"},"id":1161,"name":"Symbol of Healing"}
+{"_id":{"$oid":"56181002c04b1c633f33b284"},"id":1162,"name":"Symbol of Mirroring"}
+{"_id":{"$oid":"56181002c04b1c633f33b285"},"id":1163,"name":"Symbol of Revelation"}
+{"_id":{"$oid":"56181002c04b1c633f33b286"},"id":1164,"name":"Symbol of Scrying"}
+{"_id":{"$oid":"56181002c04b1c633f33b287"},"id":1165,"name":"Symbol of Sealing"}
+{"_id":{"$oid":"56181002c04b1c633f33b288"},"id":1166,"name":"Symbol of Slowing"}
+{"_id":{"$oid":"56181002c04b1c633f33b289"},"id":1167,"name":"Symbol of Strife"}
+{"_id":{"$oid":"56181002c04b1c633f33b28a"},"id":1168,"name":"Symbol of Vulnerability"}
+{"_id":{"$oid":"56181002c04b1c633f33b28b"},"id":1169,"name":"Tar Ball"}
+{"_id":{"$oid":"56181002c04b1c633f33b28c"},"id":1170,"name":"Temporary Resurrection"}
+{"_id":{"$oid":"56181002c04b1c633f33b28d"},"id":1171,"name":"Terrible Remorse"}
+{"_id":{"$oid":"56181002c04b1c633f33b28e"},"id":1172,"name":"Touch of Slime"}
+{"_id":{"$oid":"56181002c04b1c633f33b28f"},"id":1173,"name":"Toxic Gift"}
+{"_id":{"$oid":"56181002c04b1c633f33b290"},"id":1174,"name":"Transmute Blood To Acid"}
+{"_id":{"$oid":"56181002c04b1c633f33b291"},"id":1175,"name":"Unadulterated Loathing"}
+{"_id":{"$oid":"56181002c04b1c633f33b292"},"id":1176,"name":"Unbreakable Construct"}
+{"_id":{"$oid":"56181002c04b1c633f33b293"},"id":1177,"name":"Undead Anatomy I"}
+{"_id":{"$oid":"56181002c04b1c633f33b294"},"id":1178,"name":"Undead Anatomy II"}
+{"_id":{"$oid":"56181002c04b1c633f33b295"},"id":1179,"name":"Undead Anatomy III"}
+{"_id":{"$oid":"56181002c04b1c633f33b296"},"id":1180,"name":"Undead Anatomy IV"}
+{"_id":{"$oid":"56181002c04b1c633f33b297"},"id":1181,"name":"Unholy Ice"}
+{"_id":{"$oid":"56181002c04b1c633f33b298"},"id":1182,"name":"Unholy Sword"}
+{"_id":{"$oid":"56181002c04b1c633f33b299"},"id":1184,"name":"Unprepared Combatant"}
+{"_id":{"$oid":"56181002c04b1c633f33b29a"},"id":1183,"name":"Unnatural Lust"}
+{"_id":{"$oid":"56181002c04b1c633f33b29b"},"id":1185,"name":"Unshakable Chill"}
+{"_id":{"$oid":"56181002c04b1c633f33b29c"},"id":1186,"name":"Utter Contempt"}
+{"_id":{"$oid":"56181002c04b1c633f33b29d"},"id":1187,"name":"Vengeful Outrage"}
+{"_id":{"$oid":"56181002c04b1c633f33b29e"},"id":1188,"name":"Vermin Shape I"}
+{"_id":{"$oid":"56181002c04b1c633f33b29f"},"id":1189,"name":"Vermin Shape II"}
+{"_id":{"$oid":"56181002c04b1c633f33b2a0"},"id":1190,"name":"Vestment of the Champion"}
+{"_id":{"$oid":"56181002c04b1c633f33b2a1"},"id":1191,"name":"Virtuoso Performance"}
+{"_id":{"$oid":"56181002c04b1c633f33b2a2"},"id":1192,"name":"Vision of Hell"}
+{"_id":{"$oid":"56181002c04b1c633f33b2a3"},"id":1193,"name":"Vitriolic Mist"}
+{"_id":{"$oid":"56181002c04b1c633f33b2a4"},"id":1194,"name":"Vocal Alteration"}
+{"_id":{"$oid":"56181002c04b1c633f33b2a5"},"id":1195,"name":"Volcanic Storm"}
+{"_id":{"$oid":"56181002c04b1c633f33b2a6"},"id":1196,"name":"Wall of Sound"}
+{"_id":{"$oid":"56181002c04b1c633f33b2a7"},"id":1197,"name":"Wartrain Mount"}
+{"_id":{"$oid":"56181002c04b1c633f33b2a8"},"id":1198,"name":"Waves of Ecstasy"}
+{"_id":{"$oid":"56181002c04b1c633f33b2a9"},"id":1200,"name":"Witness"}
+{"_id":{"$oid":"56181002c04b1c633f33b2aa"},"id":1199,"name":"Web Shelter"}
+{"_id":{"$oid":"56181002c04b1c633f33b2ab"},"id":1201,"name":"Wooden Phalanx"}
+{"_id":{"$oid":"56181002c04b1c633f33b2ac"},"id":1202,"name":"Word of Resolve"}
+{"_id":{"$oid":"56181002c04b1c633f33b2ad"},"id":1203,"name":"Youthful Appearance"}
+{"_id":{"$oid":"56181002c04b1c633f33b2ae"},"id":1205,"name":"Greensight"}
+{"_id":{"$oid":"56181002c04b1c633f33b2af"},"id":1204,"name":"Staggering Fall"}
+{"_id":{"$oid":"56181002c04b1c633f33b2b0"},"id":1206,"name":"Sheet Lightning"}
+{"_id":{"$oid":"56181002c04b1c633f33b2b1"},"id":1207,"name":"Breeze"}
+{"_id":{"$oid":"56181002c04b1c633f33b2b2"},"id":1208,"name":"Drench"}
+{"_id":{"$oid":"56181002c04b1c633f33b2b3"},"id":1209,"name":"Jolt"}
+{"_id":{"$oid":"56181002c04b1c633f33b2b4"},"id":1210,"name":"Penumbra"}
+{"_id":{"$oid":"56181002c04b1c633f33b2b5"},"id":1211,"name":"Root"}
+{"_id":{"$oid":"56181002c04b1c633f33b2b6"},"id":1212,"name":"Scoop"}
+{"_id":{"$oid":"56181002c04b1c633f33b2b7"},"id":1213,"name":"Dazzling Blade"}
+{"_id":{"$oid":"56181002c04b1c633f33b2b8"},"id":1214,"name":"Dazzling Blade, Mass"}
+{"_id":{"$oid":"56181002c04b1c633f33b2b9"},"id":1215,"name":"Summon Accuser"}
+{"_id":{"$oid":"56181002c04b1c633f33b2ba"},"id":1216,"name":"Summon Infernal Host"}
+{"_id":{"$oid":"56181002c04b1c633f33b2bb"},"id":1217,"name":"Echean's Excellent Enclosure"}
+{"_id":{"$oid":"56181002c04b1c633f33b2bc"},"id":1218,"name":"Ablative Sphere"}
+{"_id":{"$oid":"56181002c04b1c633f33b2bd"},"id":1219,"name":"Burning Arc"}
+{"_id":{"$oid":"56181002c04b1c633f33b2be"},"id":1220,"name":"Cultural Adaptation"}
+{"_id":{"$oid":"56181002c04b1c633f33b2bf"},"id":1221,"name":"Snow Shape"}
+{"_id":{"$oid":"56181002c04b1c633f33b2c0"},"id":1222,"name":"Summon Totem Creature"}
+{"_id":{"$oid":"56181002c04b1c633f33b2c1"},"id":1223,"name":"Battering Blast"}
+{"_id":{"$oid":"56181002c04b1c633f33b2c2"},"id":1224,"name":"Undeath Ward"}
+{"_id":{"$oid":"56181002c04b1c633f33b2c3"},"id":1234,"name":"Silk To Steel"}
+{"_id":{"$oid":"56181002c04b1c633f33b2c4"},"id":1235,"name":"Aram Zey's Focus"}
+{"_id":{"$oid":"56181002c04b1c633f33b2c5"},"id":1236,"name":"Aram Zey's Trap Ward"}
+{"_id":{"$oid":"56181002c04b1c633f33b2c6"},"id":1237,"name":"Bite the Hand"}
+{"_id":{"$oid":"56181002c04b1c633f33b2c7"},"id":1238,"name":"Bite the Hand, Mass"}
+{"_id":{"$oid":"56181002c04b1c633f33b2c8"},"id":1239,"name":"Corpse Lanterns"}
+{"_id":{"$oid":"56181002c04b1c633f33b2c9"},"id":1240,"name":"Gilded Whispers"}
+{"_id":{"$oid":"56181002c04b1c633f33b2ca"},"id":1241,"name":"Lipstitch"}
+{"_id":{"$oid":"56181002c04b1c633f33b2cb"},"id":1242,"name":"Petulengro's Validation"}
+{"_id":{"$oid":"56181002c04b1c633f33b2cc"},"id":1243,"name":"Sequester Thoughts"}
+{"_id":{"$oid":"56181002c04b1c633f33b2cd"},"id":1244,"name":"Sharesister"}
+{"_id":{"$oid":"56181002c04b1c633f33b2ce"},"id":1245,"name":"Stalwart Resolve"}
+{"_id":{"$oid":"56181002c04b1c633f33b2cf"},"id":1246,"name":"Stolen Light"}
+{"_id":{"$oid":"56181002c04b1c633f33b2d0"},"id":1247,"name":"Twisted Innards"}
+{"_id":{"$oid":"56181002c04b1c633f33b2d1"},"id":1248,"name":"Blot"}
+{"_id":{"$oid":"56181002c04b1c633f33b2d2"},"id":1249,"name":"Fire Sneeze"}
+{"_id":{"$oid":"56181002c04b1c633f33b2d3"},"id":1250,"name":"Limp Lash"}
+{"_id":{"$oid":"56181002c04b1c633f33b2d4"},"id":1251,"name":"Aroden's Spellbane"}
+{"_id":{"$oid":"56181002c04b1c633f33b2d5"},"id":1252,"name":"Bladed Dash"}
+{"_id":{"$oid":"56181002c04b1c633f33b2d6"},"id":1253,"name":"Bladed Dash, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b2d7"},"id":1254,"name":"Blast Barrier"}
+{"_id":{"$oid":"56181002c04b1c633f33b2d8"},"id":1255,"name":"Call Weapon"}
+{"_id":{"$oid":"56181002c04b1c633f33b2d9"},"id":1256,"name":"Crusader's Edge"}
+{"_id":{"$oid":"56181002c04b1c633f33b2da"},"id":1257,"name":"Eaglesoul"}
+{"_id":{"$oid":"56181002c04b1c633f33b2db"},"id":1258,"name":"Eldritch Conduit"}
+{"_id":{"$oid":"56181002c04b1c633f33b2dc"},"id":1259,"name":"Eldritch Conduit, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b2dd"},"id":1260,"name":"Fleshcurdle"}
+{"_id":{"$oid":"56181002c04b1c633f33b2de"},"id":1261,"name":"Forceful Strike"}
+{"_id":{"$oid":"56181002c04b1c633f33b2df"},"id":1262,"name":"Geb's Hammer"}
+{"_id":{"$oid":"56181002c04b1c633f33b2e0"},"id":1263,"name":"Geniekind"}
+{"_id":{"$oid":"56181002c04b1c633f33b2e1"},"id":1264,"name":"Hungry Darkness"}
+{"_id":{"$oid":"56181002c04b1c633f33b2e2"},"id":1265,"name":"Hunter's Lore"}
+{"_id":{"$oid":"56181002c04b1c633f33b2e3"},"id":1267,"name":"Impart Mind"}
+{"_id":{"$oid":"56181002c04b1c633f33b2e4"},"id":1268,"name":"Khain's Army"}
+{"_id":{"$oid":"56181002c04b1c633f33b2e5"},"id":1269,"name":"Kiss of the First World"}
+{"_id":{"$oid":"56181002c04b1c633f33b2e6"},"id":1270,"name":"Light of Iomedae"}
+{"_id":{"$oid":"56181002c04b1c633f33b2e7"},"id":1271,"name":"Martial Marionette"}
+{"_id":{"$oid":"56181002c04b1c633f33b2e8"},"id":1272,"name":"Martyr's Bargain"}
+{"_id":{"$oid":"56181002c04b1c633f33b2e9"},"id":1273,"name":"Music of the Spheres"}
+{"_id":{"$oid":"56181002c04b1c633f33b2ea"},"id":1274,"name":"Orchid's Drop"}
+{"_id":{"$oid":"56181002c04b1c633f33b2eb"},"id":1275,"name":"Pugwampi's Grace"}
+{"_id":{"$oid":"56181002c04b1c633f33b2ec"},"id":1276,"name":"Shadow Barbs"}
+{"_id":{"$oid":"56181002c04b1c633f33b2ed"},"id":1277,"name":"Shining Cord"}
+{"_id":{"$oid":"56181002c04b1c633f33b2ee"},"id":1278,"name":"Siphon Magic"}
+{"_id":{"$oid":"56181002c04b1c633f33b2ef"},"id":1279,"name":"Song of Kyonin"}
+{"_id":{"$oid":"56181002c04b1c633f33b2f0"},"id":1280,"name":"Spell Absorption"}
+{"_id":{"$oid":"56181002c04b1c633f33b2f1"},"id":1281,"name":"Spell Absorption, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b2f2"},"id":1282,"name":"Spellscar"}
+{"_id":{"$oid":"56181002c04b1c633f33b2f3"},"id":1283,"name":"Suppress Primal Magic"}
+{"_id":{"$oid":"56181002c04b1c633f33b2f4"},"id":1284,"name":"Tattoo Potion"}
+{"_id":{"$oid":"56181002c04b1c633f33b2f5"},"id":1285,"name":"Transfer Tattoo"}
+{"_id":{"$oid":"56181002c04b1c633f33b2f6"},"id":1286,"name":"Vengeful Comets"}
+{"_id":{"$oid":"56181002c04b1c633f33b2f7"},"id":1287,"name":"Vex Giant"}
+{"_id":{"$oid":"56181002c04b1c633f33b2f8"},"id":1288,"name":"Weaponwand"}
+{"_id":{"$oid":"56181002c04b1c633f33b2f9"},"id":1289,"name":"Zone of Foul Flames"}
+{"_id":{"$oid":"56181002c04b1c633f33b2fa"},"id":1290,"name":"Ablative Barrier"}
+{"_id":{"$oid":"56181002c04b1c633f33b2fb"},"id":1291,"name":"Absorb Toxicity"}
+{"_id":{"$oid":"56181002c04b1c633f33b2fc"},"id":1292,"name":"Abundant Ammunition"}
+{"_id":{"$oid":"56181002c04b1c633f33b2fd"},"id":1294,"name":"Adoration"}
+{"_id":{"$oid":"56181002c04b1c633f33b2fe"},"id":1293,"name":"Adjuring Step"}
+{"_id":{"$oid":"56181002c04b1c633f33b2ff"},"id":1295,"name":"Air Bubble"}
+{"_id":{"$oid":"56181002c04b1c633f33b300"},"id":1296,"name":"Air Walk, Communal"}
+{"_id":{"$oid":"56181002c04b1c633f33b301"},"id":1297,"name":"Animal Aspect"}
+{"_id":{"$oid":"56181002c04b1c633f33b302"},"id":1298,"name":"Animal Aspect, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b303"},"id":1299,"name":"Ant Haul, Communal"}
+{"_id":{"$oid":"56181002c04b1c633f33b304"},"id":1300,"name":"Arcane Cannon"}
+{"_id":{"$oid":"56181002c04b1c633f33b305"},"id":1301,"name":"Bestow Weapon Proficiency"}
+{"_id":{"$oid":"56181002c04b1c633f33b306"},"id":1302,"name":"Blistering Invective"}
+{"_id":{"$oid":"56181002c04b1c633f33b307"},"id":1303,"name":"Bowstaff"}
+{"_id":{"$oid":"56181002c04b1c633f33b308"},"id":1304,"name":"Brow Gasher"}
+{"_id":{"$oid":"56181002c04b1c633f33b309"},"id":1305,"name":"Bullet Shield"}
+{"_id":{"$oid":"56181002c04b1c633f33b30a"},"id":1306,"name":"Burst of Speed"}
+{"_id":{"$oid":"56181002c04b1c633f33b30b"},"id":1307,"name":"Caging Bomb Admixture"}
+{"_id":{"$oid":"56181002c04b1c633f33b30c"},"id":1308,"name":"Certain Grip"}
+{"_id":{"$oid":"56181002c04b1c633f33b30d"},"id":1309,"name":"Chain of Perdition"}
+{"_id":{"$oid":"56181002c04b1c633f33b30e"},"id":1310,"name":"Companion Mind Link"}
+{"_id":{"$oid":"56181002c04b1c633f33b30f"},"id":1311,"name":"Compel Hostility"}
+{"_id":{"$oid":"56181002c04b1c633f33b310"},"id":1313,"name":"Darkvision, Communal"}
+{"_id":{"$oid":"56181002c04b1c633f33b311"},"id":1312,"name":"Damp Powder"}
+{"_id":{"$oid":"56181002c04b1c633f33b312"},"id":1314,"name":"Daybreak Arrow"}
+{"_id":{"$oid":"56181002c04b1c633f33b313"},"id":1315,"name":"Deadly Juggernaut"}
+{"_id":{"$oid":"56181002c04b1c633f33b314"},"id":1316,"name":"Deadeye's Lore"}
+{"_id":{"$oid":"56181002c04b1c633f33b315"},"id":1317,"name":"Debilitating Portent"}
+{"_id":{"$oid":"56181002c04b1c633f33b316"},"id":1318,"name":"Delay Poison, Communal"}
+{"_id":{"$oid":"56181002c04b1c633f33b317"},"id":1319,"name":"Destabilize Powder"}
+{"_id":{"$oid":"56181002c04b1c633f33b318"},"id":1320,"name":"Discovery Torch"}
+{"_id":{"$oid":"56181002c04b1c633f33b319"},"id":1321,"name":"Divine Arrow"}
+{"_id":{"$oid":"56181002c04b1c633f33b31a"},"id":1322,"name":"Dust Form"}
+{"_id":{"$oid":"56181002c04b1c633f33b31b"},"id":1323,"name":"Effortless Armor"}
+{"_id":{"$oid":"56181002c04b1c633f33b31c"},"id":1324,"name":"Endure Elements, Communal"}
+{"_id":{"$oid":"56181002c04b1c633f33b31d"},"id":1325,"name":"Energy Siege Shot"}
+{"_id":{"$oid":"56181002c04b1c633f33b31e"},"id":1326,"name":"Energy Siege Shot, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b31f"},"id":1327,"name":"Fabricate Bullets"}
+{"_id":{"$oid":"56181002c04b1c633f33b320"},"id":1328,"name":"Fiery Shuriken"}
+{"_id":{"$oid":"56181002c04b1c633f33b321"},"id":1329,"name":"Find Quarry"}
+{"_id":{"$oid":"56181002c04b1c633f33b322"},"id":1330,"name":"Flash Fire"}
+{"_id":{"$oid":"56181002c04b1c633f33b323"},"id":1331,"name":"Forest Friend"}
+{"_id":{"$oid":"56181002c04b1c633f33b324"},"id":1332,"name":"Frightful Aspect"}
+{"_id":{"$oid":"56181002c04b1c633f33b325"},"id":1333,"name":"Frost Fall"}
+{"_id":{"$oid":"56181002c04b1c633f33b326"},"id":1334,"name":"Haunted Fey Aspect"}
+{"_id":{"$oid":"56181002c04b1c633f33b327"},"id":1335,"name":"Healing Thief"}
+{"_id":{"$oid":"56181002c04b1c633f33b328"},"id":1336,"name":"Heroic Invocation"}
+{"_id":{"$oid":"56181002c04b1c633f33b329"},"id":1337,"name":"Hostile Juxtaposition"}
+{"_id":{"$oid":"56181002c04b1c633f33b32a"},"id":1338,"name":"Hostile Juxtaposition, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b32b"},"id":1339,"name":"Hostile Levitation"}
+{"_id":{"$oid":"56181002c04b1c633f33b32c"},"id":1340,"name":"Illusion of Calm"}
+{"_id":{"$oid":"56181002c04b1c633f33b32d"},"id":1341,"name":"Instrument of Agony"}
+{"_id":{"$oid":"56181002c04b1c633f33b32e"},"id":1342,"name":"Jolting Portent"}
+{"_id":{"$oid":"56181002c04b1c633f33b32f"},"id":1343,"name":"Judgment Light"}
+{"_id":{"$oid":"56181002c04b1c633f33b330"},"id":1344,"name":"Jury-Rig"}
+{"_id":{"$oid":"56181002c04b1c633f33b331"},"id":1345,"name":"Kinetic Reverberation"}
+{"_id":{"$oid":"56181002c04b1c633f33b332"},"id":1347,"name":"Liberating Command"}
+{"_id":{"$oid":"56181002c04b1c633f33b333"},"id":1346,"name":"Languid Bomb Admixture"}
+{"_id":{"$oid":"56181002c04b1c633f33b334"},"id":1348,"name":"Life Conduit"}
+{"_id":{"$oid":"56181002c04b1c633f33b335"},"id":1349,"name":"Life Conduit, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b336"},"id":1350,"name":"Life Conduit, Improved"}
+{"_id":{"$oid":"56181002c04b1c633f33b337"},"id":1351,"name":"Lightning Lash Bomb Admixture"}
+{"_id":{"$oid":"56181002c04b1c633f33b338"},"id":1352,"name":"Litany of Defense"}
+{"_id":{"$oid":"56181002c04b1c633f33b339"},"id":1353,"name":"Litany Of Eloquence"}
+{"_id":{"$oid":"56181002c04b1c633f33b33a"},"id":1354,"name":"Litany of Entanglement"}
+{"_id":{"$oid":"56181002c04b1c633f33b33b"},"id":1355,"name":"Litany of Escape"}
+{"_id":{"$oid":"56181002c04b1c633f33b33c"},"id":1356,"name":"Litany Of Madness"}
+{"_id":{"$oid":"56181002c04b1c633f33b33d"},"id":1357,"name":"Litany of Righteousness"}
+{"_id":{"$oid":"56181002c04b1c633f33b33e"},"id":1358,"name":"Litany of Sight"}
+{"_id":{"$oid":"56181002c04b1c633f33b33f"},"id":1359,"name":"Litany of Sloth"}
+{"_id":{"$oid":"56181002c04b1c633f33b340"},"id":1360,"name":"Litany of Thunder"}
+{"_id":{"$oid":"56181002c04b1c633f33b341"},"id":1361,"name":"Litany Of Vengeance"}
+{"_id":{"$oid":"56181002c04b1c633f33b342"},"id":1362,"name":"Litany of Warding"}
+{"_id":{"$oid":"56181002c04b1c633f33b343"},"id":1363,"name":"Litany of Weakness"}
+{"_id":{"$oid":"56181002c04b1c633f33b344"},"id":1364,"name":"Locate Weakness"}
+{"_id":{"$oid":"56181002c04b1c633f33b345"},"id":1365,"name":"Lock Gaze"}
+{"_id":{"$oid":"56181002c04b1c633f33b346"},"id":1366,"name":"Longshot"}
+{"_id":{"$oid":"56181002c04b1c633f33b347"},"id":1367,"name":"Magic Siege Engine"}
+{"_id":{"$oid":"56181002c04b1c633f33b348"},"id":1368,"name":"Magic Siege Engine, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b349"},"id":1369,"name":"Mask Dweomer, Communal"}
+{"_id":{"$oid":"56181002c04b1c633f33b34a"},"id":1370,"name":"Mind Blank, Communal"}
+{"_id":{"$oid":"56181002c04b1c633f33b34b"},"id":1371,"name":"Mirror Strike"}
+{"_id":{"$oid":"56181002c04b1c633f33b34c"},"id":1372,"name":"Moment of Greatness"}
+{"_id":{"$oid":"56181002c04b1c633f33b34d"},"id":1373,"name":"Mount, Communal"}
+{"_id":{"$oid":"56181002c04b1c633f33b34e"},"id":1374,"name":"Mutagenic Touch"}
+{"_id":{"$oid":"56181002c04b1c633f33b34f"},"id":1375,"name":"Named Bullet"}
+{"_id":{"$oid":"56181002c04b1c633f33b350"},"id":1376,"name":"Named Bullet, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b351"},"id":1377,"name":"Negative Reaction"}
+{"_id":{"$oid":"56181002c04b1c633f33b352"},"id":1378,"name":"Nondetection, Communal"}
+{"_id":{"$oid":"56181002c04b1c633f33b353"},"id":1379,"name":"Obsidian Flow"}
+{"_id":{"$oid":"56181002c04b1c633f33b354"},"id":1380,"name":"Peacebond"}
+{"_id":{"$oid":"56181002c04b1c633f33b355"},"id":1381,"name":"Pellet Blast"}
+{"_id":{"$oid":"56181002c04b1c633f33b356"},"id":1382,"name":"Phantom Chariot"}
+{"_id":{"$oid":"56181002c04b1c633f33b357"},"id":1383,"name":"Phantom Driver"}
+{"_id":{"$oid":"56181002c04b1c633f33b358"},"id":1384,"name":"Phantom Steed, Communal"}
+{"_id":{"$oid":"56181002c04b1c633f33b359"},"id":1385,"name":"Pilfering Hand"}
+{"_id":{"$oid":"56181002c04b1c633f33b35a"},"id":1386,"name":"Protection from Arrows, Communal"}
+{"_id":{"$oid":"56181002c04b1c633f33b35b"},"id":1387,"name":"Protection from Chaos, Communal"}
+{"_id":{"$oid":"56181002c04b1c633f33b35c"},"id":1388,"name":"Protection from Energy, Communal"}
+{"_id":{"$oid":"56181002c04b1c633f33b35d"},"id":1389,"name":"Protection from Evil, Communal"}
+{"_id":{"$oid":"56181002c04b1c633f33b35e"},"id":1391,"name":"Protection from Law, Communal"}
+{"_id":{"$oid":"56181002c04b1c633f33b35f"},"id":1390,"name":"Protection from Good, Communal"}
+{"_id":{"$oid":"56181002c04b1c633f33b360"},"id":1392,"name":"Pup Shape"}
+{"_id":{"$oid":"56181002c04b1c633f33b361"},"id":1393,"name":"Qualm"}
+{"_id":{"$oid":"56181002c04b1c633f33b362"},"id":1394,"name":"Recoil Fire"}
+{"_id":{"$oid":"56181002c04b1c633f33b363"},"id":1395,"name":"Reinforce Armaments"}
+{"_id":{"$oid":"56181002c04b1c633f33b364"},"id":1396,"name":"Reinforce Armaments, Communal"}
+{"_id":{"$oid":"56181002c04b1c633f33b365"},"id":1397,"name":"Reloading Hands"}
+{"_id":{"$oid":"56181002c04b1c633f33b366"},"id":1398,"name":"Resinous Skin"}
+{"_id":{"$oid":"56181002c04b1c633f33b367"},"id":1399,"name":"Resist Energy, Communal"}
+{"_id":{"$oid":"56181002c04b1c633f33b368"},"id":1400,"name":"Returning Weapon"}
+{"_id":{"$oid":"56181002c04b1c633f33b369"},"id":1401,"name":"Returning Weapon, Communal"}
+{"_id":{"$oid":"56181002c04b1c633f33b36a"},"id":1402,"name":"Ricochet Shot"}
+{"_id":{"$oid":"56181002c04b1c633f33b36b"},"id":1403,"name":"See Alignment"}
+{"_id":{"$oid":"56181002c04b1c633f33b36c"},"id":1404,"name":"Shadow Bomb Admixture"}
+{"_id":{"$oid":"56181002c04b1c633f33b36d"},"id":1405,"name":"Share Language, Communal"}
+{"_id":{"$oid":"56181002c04b1c633f33b36e"},"id":1406,"name":"Shock Shield"}
+{"_id":{"$oid":"56181002c04b1c633f33b36f"},"id":1407,"name":"Shocking Image"}
+{"_id":{"$oid":"56181002c04b1c633f33b370"},"id":1408,"name":"Siege Of Trees"}
+{"_id":{"$oid":"56181002c04b1c633f33b371"},"id":1409,"name":"Siege of Trees, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b372"},"id":1410,"name":"Spell Immunity, Communal"}
+{"_id":{"$oid":"56181002c04b1c633f33b373"},"id":1411,"name":"Spell Immunity, Greater Communal"}
+{"_id":{"$oid":"56181002c04b1c633f33b374"},"id":1412,"name":"Spider Climb, Communal"}
+{"_id":{"$oid":"56181002c04b1c633f33b375"},"id":1413,"name":"Spontaneous Immolation"}
+{"_id":{"$oid":"56181002c04b1c633f33b376"},"id":1414,"name":"Stabilize Powder"}
+{"_id":{"$oid":"56181002c04b1c633f33b377"},"id":1415,"name":"Stoneskin, Communal"}
+{"_id":{"$oid":"56181002c04b1c633f33b378"},"id":1416,"name":"Summoner Conduit"}
+{"_id":{"$oid":"56181002c04b1c633f33b379"},"id":1417,"name":"Sun Metal"}
+{"_id":{"$oid":"56181002c04b1c633f33b37a"},"id":1418,"name":"Symbol of Striking"}
+{"_id":{"$oid":"56181002c04b1c633f33b37b"},"id":1419,"name":"Tactical Acumen"}
+{"_id":{"$oid":"56181002c04b1c633f33b37c"},"id":1420,"name":"Tar Pool"}
+{"_id":{"$oid":"56181002c04b1c633f33b37d"},"id":1421,"name":"Targeted Bomb Admixture"}
+{"_id":{"$oid":"56181002c04b1c633f33b37e"},"id":1422,"name":"Telekinetic Assembly"}
+{"_id":{"$oid":"56181002c04b1c633f33b37f"},"id":1423,"name":"Telekinetic Charge"}
+{"_id":{"$oid":"56181002c04b1c633f33b380"},"id":1424,"name":"Terrain Bond"}
+{"_id":{"$oid":"56181002c04b1c633f33b381"},"id":1425,"name":"Thunder Fire"}
+{"_id":{"$oid":"56181002c04b1c633f33b382"},"id":1426,"name":"Tongues, Communal"}
+{"_id":{"$oid":"56181002c04b1c633f33b383"},"id":1427,"name":"Touch Injection"}
+{"_id":{"$oid":"56181002c04b1c633f33b384"},"id":1428,"name":"Twisted Space"}
+{"_id":{"$oid":"56181002c04b1c633f33b385"},"id":1429,"name":"Unerring Weapon"}
+{"_id":{"$oid":"56181002c04b1c633f33b386"},"id":1430,"name":"Viper Bomb Admixture"}
+{"_id":{"$oid":"56181002c04b1c633f33b387"},"id":1431,"name":"Walk Through Space"}
+{"_id":{"$oid":"56181002c04b1c633f33b388"},"id":1432,"name":"Warding Weapon"}
+{"_id":{"$oid":"56181002c04b1c633f33b389"},"id":1433,"name":"Water Walk, Communal"}
+{"_id":{"$oid":"56181002c04b1c633f33b38a"},"id":1434,"name":"Weaken Powder"}
+{"_id":{"$oid":"56181002c04b1c633f33b38b"},"id":1435,"name":"Wilderness Soldiers"}
+{"_id":{"$oid":"56181002c04b1c633f33b38c"},"id":1436,"name":"Wreath of Blades"}
+{"_id":{"$oid":"56181002c04b1c633f33b38d"},"id":1437,"name":"Aspect of the Nightingale"}
+{"_id":{"$oid":"56181002c04b1c633f33b38e"},"id":1443,"name":"Vampiric Hunger"}
+{"_id":{"$oid":"56181002c04b1c633f33b38f"},"id":1445,"name":"Awaken the Devoured"}
+{"_id":{"$oid":"56181002c04b1c633f33b390"},"id":1446,"name":"Charon's Dispensation"}
+{"_id":{"$oid":"56181002c04b1c633f33b391"},"id":1447,"name":"Create Soul Gem"}
+{"_id":{"$oid":"56181002c04b1c633f33b392"},"id":1448,"name":"Daemon Ward"}
+{"_id":{"$oid":"56181002c04b1c633f33b393"},"id":1450,"name":"Death Knell Aura, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b394"},"id":1449,"name":"Death Knell Aura"}
+{"_id":{"$oid":"56181002c04b1c633f33b395"},"id":1451,"name":"Lash of the Astradaemon"}
+{"_id":{"$oid":"56181002c04b1c633f33b396"},"id":1452,"name":"Parasitic Soul"}
+{"_id":{"$oid":"56181002c04b1c633f33b397"},"id":1453,"name":"Scourge of the Horsemen"}
+{"_id":{"$oid":"56181002c04b1c633f33b398"},"id":1454,"name":"Soul Transfer"}
+{"_id":{"$oid":"56181002c04b1c633f33b399"},"id":1456,"name":"Summon Cacodaemon, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b39a"},"id":1455,"name":"Summon Cacodaemon"}
+{"_id":{"$oid":"56181002c04b1c633f33b39b"},"id":1458,"name":"Summon Derghodaemon"}
+{"_id":{"$oid":"56181002c04b1c633f33b39c"},"id":1457,"name":"Summon Ceustodaemon"}
+{"_id":{"$oid":"56181002c04b1c633f33b39d"},"id":1459,"name":"Summon Erodaemon"}
+{"_id":{"$oid":"56181002c04b1c633f33b39e"},"id":1460,"name":"Summon Meladaemon"}
+{"_id":{"$oid":"56181002c04b1c633f33b39f"},"id":1461,"name":"Summon Thanadaemon"}
+{"_id":{"$oid":"56181002c04b1c633f33b3a0"},"id":1463,"name":"Call the Void"}
+{"_id":{"$oid":"56181002c04b1c633f33b3a1"},"id":1464,"name":"Black Spot"}
+{"_id":{"$oid":"56181002c04b1c633f33b3a2"},"id":1465,"name":"Buoyancy"}
+{"_id":{"$oid":"56181002c04b1c633f33b3a3"},"id":1466,"name":"Salvage"}
+{"_id":{"$oid":"56181002c04b1c633f33b3a4"},"id":1467,"name":"Skeleton Crew"}
+{"_id":{"$oid":"56181002c04b1c633f33b3a5"},"id":1468,"name":"Track Ship"}
+{"_id":{"$oid":"56181002c04b1c633f33b3a6"},"id":1469,"name":"Unseen Crew"}
+{"_id":{"$oid":"56181002c04b1c633f33b3a7"},"id":1472,"name":"Advanced Scurvy"}
+{"_id":{"$oid":"56181002c04b1c633f33b3a8"},"id":1473,"name":"Cloud Of Seasickness"}
+{"_id":{"$oid":"56181002c04b1c633f33b3a9"},"id":1474,"name":"Submerge Ship"}
+{"_id":{"$oid":"56181002c04b1c633f33b3aa"},"id":1476,"name":"Heroic Fortune, Mass"}
+{"_id":{"$oid":"56181002c04b1c633f33b3ab"},"id":1475,"name":"Heroic Fortune"}
+{"_id":{"$oid":"56181002c04b1c633f33b3ac"},"id":1477,"name":"Malediction"}
+{"_id":{"$oid":"56181002c04b1c633f33b3ad"},"id":1478,"name":"Severed Fate"}
+{"_id":{"$oid":"56181002c04b1c633f33b3ae"},"id":1479,"name":"Unravel Destiny"}
+{"_id":{"$oid":"56181002c04b1c633f33b3af"},"id":1480,"name":"Embrace Destiny"}
+{"_id":{"$oid":"56181002c04b1c633f33b3b0"},"id":1481,"name":"Groundswell"}
+{"_id":{"$oid":"56181002c04b1c633f33b3b1"},"id":1482,"name":"Ironbeard"}
+{"_id":{"$oid":"56181002c04b1c633f33b3b2"},"id":1483,"name":"Toilsome Chant"}
+{"_id":{"$oid":"56181002c04b1c633f33b3b3"},"id":1484,"name":"Blend"}
+{"_id":{"$oid":"56181002c04b1c633f33b3b4"},"id":1485,"name":"Ward Of The Season"}
+{"_id":{"$oid":"56181002c04b1c633f33b3b5"},"id":1486,"name":"Whispering Lore"}
+{"_id":{"$oid":"56181002c04b1c633f33b3b6"},"id":1487,"name":"Death From Below"}
+{"_id":{"$oid":"56181002c04b1c633f33b3b7"},"id":1489,"name":"Major Phantom Object"}
+{"_id":{"$oid":"56181002c04b1c633f33b3b8"},"id":1488,"name":"Jitterbugs"}
+{"_id":{"$oid":"56181002c04b1c633f33b3b9"},"id":1490,"name":"Minor Dream"}
+{"_id":{"$oid":"56181002c04b1c633f33b3ba"},"id":1491,"name":"Minor Phantom Object"}
+{"_id":{"$oid":"56181002c04b1c633f33b3bb"},"id":1492,"name":"Recharge Innate Magic"}
+{"_id":{"$oid":"56181002c04b1c633f33b3bc"},"id":1493,"name":"Forgetful Slumber"}
+{"_id":{"$oid":"56181002c04b1c633f33b3bd"},"id":1494,"name":"Paragon Surge"}
+{"_id":{"$oid":"56181002c04b1c633f33b3be"},"id":1495,"name":"Resilient Reservoir"}
+{"_id":{"$oid":"56181002c04b1c633f33b3bf"},"id":1496,"name":"Urban Grace"}
+{"_id":{"$oid":"56181002c04b1c633f33b3c0"},"id":1497,"name":"Battle Trance"}
+{"_id":{"$oid":"56181002c04b1c633f33b3c1"},"id":1498,"name":"Ghost Wolf"}
+{"_id":{"$oid":"56181002c04b1c633f33b3c2"},"id":1499,"name":"Half-blood Extraction"}
+{"_id":{"$oid":"56181002c04b1c633f33b3c3"},"id":1500,"name":"Linebreaker"}
+{"_id":{"$oid":"56181002c04b1c633f33b3c4"},"id":1501,"name":"Savage Maw"}
+{"_id":{"$oid":"56181002c04b1c633f33b3c5"},"id":1502,"name":"Blessing Of Luck And Resolve"}
+{"_id":{"$oid":"56181002c04b1c633f33b3c6"},"id":1503,"name":"Blessing Of Luck And Resolve, Mass"}
+{"_id":{"$oid":"56181002c04b1c633f33b3c7"},"id":1504,"name":"Escaping Ward"}
+{"_id":{"$oid":"56181002c04b1c633f33b3c8"},"id":1505,"name":"Fearsome Duplicate"}
+{"_id":{"$oid":"56181002c04b1c633f33b3c9"},"id":1506,"name":"Village Veil"}
+{"_id":{"$oid":"56181002c04b1c633f33b3ca"},"id":1507,"name":"Bestow Insight"}
+{"_id":{"$oid":"56181002c04b1c633f33b3cb"},"id":1508,"name":"Black Mark"}
+{"_id":{"$oid":"56181002c04b1c633f33b3cc"},"id":1509,"name":"Old Salt's Curse"}
+{"_id":{"$oid":"56181002c04b1c633f33b3cd"},"id":1510,"name":"Sacred Space"}
+{"_id":{"$oid":"56181002c04b1c633f33b3ce"},"id":1511,"name":"Truespeak"}
+{"_id":{"$oid":"56181002c04b1c633f33b3cf"},"id":1512,"name":"Veil Of Heaven"}
+{"_id":{"$oid":"56181002c04b1c633f33b3d0"},"id":1513,"name":"Nine Lives"}
+{"_id":{"$oid":"56181002c04b1c633f33b3d1"},"id":1514,"name":"Steal Breath"}
+{"_id":{"$oid":"56181002c04b1c633f33b3d2"},"id":1515,"name":"Blinding Ray"}
+{"_id":{"$oid":"56181002c04b1c633f33b3d3"},"id":1516,"name":"Life Channel"}
+{"_id":{"$oid":"56181002c04b1c633f33b3d4"},"id":1517,"name":"Spawn Ward"}
+{"_id":{"$oid":"56181002c04b1c633f33b3d5"},"id":1518,"name":"Ancestral Regression"}
+{"_id":{"$oid":"56181002c04b1c633f33b3d6"},"id":1519,"name":"Web Bolt"}
+{"_id":{"$oid":"56181002c04b1c633f33b3d7"},"id":1520,"name":"Web Cloud"}
+{"_id":{"$oid":"56181002c04b1c633f33b3d8"},"id":1521,"name":"Gloomblind Bolts"}
+{"_id":{"$oid":"56181002c04b1c633f33b3d9"},"id":1522,"name":"Shadowy Haven"}
+{"_id":{"$oid":"56181002c04b1c633f33b3da"},"id":1523,"name":"Fire Trail"}
+{"_id":{"$oid":"56181002c04b1c633f33b3db"},"id":1524,"name":"Mudball"}
+{"_id":{"$oid":"56181002c04b1c633f33b3dc"},"id":1525,"name":"Vomit Twin"}
+{"_id":{"$oid":"56181002c04b1c633f33b3dd"},"id":1526,"name":"Agonizing Rebuke"}
+{"_id":{"$oid":"56181002c04b1c633f33b3de"},"id":1527,"name":"Chains Of Fire"}
+{"_id":{"$oid":"56181002c04b1c633f33b3df"},"id":1528,"name":"Death Candle"}
+{"_id":{"$oid":"56181002c04b1c633f33b3e0"},"id":1529,"name":"Firestream"}
+{"_id":{"$oid":"56181002c04b1c633f33b3e1"},"id":1530,"name":"Fury Of The Sun"}
+{"_id":{"$oid":"56181002c04b1c633f33b3e2"},"id":1531,"name":"Healing Warmth"}
+{"_id":{"$oid":"56181002c04b1c633f33b3e3"},"id":1532,"name":"Scorching Ash Form"}
+{"_id":{"$oid":"56181002c04b1c633f33b3e4"},"id":1534,"name":"Improve Trap"}
+{"_id":{"$oid":"56181002c04b1c633f33b3e5"},"id":1533,"name":"Touch Of Combustion"}
+{"_id":{"$oid":"56181002c04b1c633f33b3e6"},"id":1535,"name":"Blood Blaze"}
+{"_id":{"$oid":"56181002c04b1c633f33b3e7"},"id":1536,"name":"Blood Scent"}
+{"_id":{"$oid":"56181002c04b1c633f33b3e8"},"id":1537,"name":"Enemy's Heart"}
+{"_id":{"$oid":"56181002c04b1c633f33b3e9"},"id":1538,"name":"Sentry Skull"}
+{"_id":{"$oid":"56181002c04b1c633f33b3ea"},"id":1539,"name":"Binding Earth"}
+{"_id":{"$oid":"56181002c04b1c633f33b3eb"},"id":1540,"name":"Binding Earth, Mass"}
+{"_id":{"$oid":"56181002c04b1c633f33b3ec"},"id":1542,"name":"Raging Rubble"}
+{"_id":{"$oid":"56181002c04b1c633f33b3ed"},"id":1541,"name":"Mighty Fist Of The Earth"}
+{"_id":{"$oid":"56181002c04b1c633f33b3ee"},"id":1543,"name":"Stone Shield"}
+{"_id":{"$oid":"56181002c04b1c633f33b3ef"},"id":1544,"name":"Alchemical Tinkering"}
+{"_id":{"$oid":"56181002c04b1c633f33b3f0"},"id":1545,"name":"Delay Disease"}
+{"_id":{"$oid":"56181002c04b1c633f33b3f1"},"id":1546,"name":"Sickening Strikes"}
+{"_id":{"$oid":"56181002c04b1c633f33b3f2"},"id":1547,"name":"Absorbing Inhalation"}
+{"_id":{"$oid":"56181002c04b1c633f33b3f3"},"id":1548,"name":"Cloud Shape"}
+{"_id":{"$oid":"56181002c04b1c633f33b3f4"},"id":1549,"name":"Gusting Sphere"}
+{"_id":{"$oid":"56181002c04b1c633f33b3f5"},"id":1550,"name":"Miasmatic Form"}
+{"_id":{"$oid":"56181002c04b1c633f33b3f6"},"id":1551,"name":"Path Of The Winds"}
+{"_id":{"$oid":"56181002c04b1c633f33b3f7"},"id":1552,"name":"Wind Blades"}
+{"_id":{"$oid":"56181002c04b1c633f33b3f8"},"id":1553,"name":"Windy Escape"}
+{"_id":{"$oid":"56181002c04b1c633f33b3f9"},"id":1554,"name":"Commune With Birds"}
+{"_id":{"$oid":"56181002c04b1c633f33b3fa"},"id":1555,"name":"Theft Ward"}
+{"_id":{"$oid":"56181002c04b1c633f33b3fb"},"id":1556,"name":"Winter Feathers"}
+{"_id":{"$oid":"56181002c04b1c633f33b3fc"},"id":1557,"name":"Damnation Stride"}
+{"_id":{"$oid":"56181002c04b1c633f33b3fd"},"id":1558,"name":"Hellmouth Lash"}
+{"_id":{"$oid":"56181002c04b1c633f33b3fe"},"id":1559,"name":"Marid's Mastery"}
+{"_id":{"$oid":"56181002c04b1c633f33b3ff"},"id":1560,"name":"Nereid's Grace"}
+{"_id":{"$oid":"56181002c04b1c633f33b400"},"id":1561,"name":"Nixie's Lure"}
+{"_id":{"$oid":"56181002c04b1c633f33b401"},"id":1562,"name":"Undine's Curse"}
+{"_id":{"$oid":"56181002c04b1c633f33b402"},"id":1563,"name":"Sow Thought"}
+{"_id":{"$oid":"56181002c04b1c633f33b403"},"id":1564,"name":"Aboleth's Lung"}
+{"_id":{"$oid":"56181002c04b1c633f33b404"},"id":1565,"name":"Fins To Feet"}
+{"_id":{"$oid":"56181002c04b1c633f33b405"},"id":1566,"name":"Karmic Blessing"}
+{"_id":{"$oid":"56181002c04b1c633f33b406"},"id":1567,"name":"Strong Wings"}
+{"_id":{"$oid":"56181002c04b1c633f33b407"},"id":1568,"name":"Imbue With Elemental Might"}
+{"_id":{"$oid":"56181002c04b1c633f33b408"},"id":1569,"name":"Earth Glide"}
+{"_id":{"$oid":"56181002c04b1c633f33b409"},"id":1570,"name":"Prehensile Pilfer"}
+{"_id":{"$oid":"56181002c04b1c633f33b40a"},"id":1571,"name":"Squeeze"}
+{"_id":{"$oid":"56181002c04b1c633f33b40b"},"id":1572,"name":"Shadow Anchor"}
+{"_id":{"$oid":"56181002c04b1c633f33b40c"},"id":1574,"name":"Blood Money"}
+{"_id":{"$oid":"56181002c04b1c633f33b40d"},"id":1575,"name":"Covetous Aura"}
+{"_id":{"$oid":"56181002c04b1c633f33b40e"},"id":1576,"name":"Deathwine"}
+{"_id":{"$oid":"56181002c04b1c633f33b40f"},"id":1577,"name":"Sign Of Wrath"}
+{"_id":{"$oid":"56181002c04b1c633f33b410"},"id":1578,"name":"Swipe"}
+{"_id":{"$oid":"56181002c04b1c633f33b411"},"id":1579,"name":"Unconscious Agenda"}
+{"_id":{"$oid":"56181002c04b1c633f33b412"},"id":1581,"name":"Ironbloom Sprouts"}
+{"_id":{"$oid":"56181002c04b1c633f33b413"},"id":1582,"name":"Bed Of Iron"}
+{"_id":{"$oid":"56181002c04b1c633f33b414"},"id":1583,"name":"Carry Companion"}
+{"_id":{"$oid":"56181002c04b1c633f33b415"},"id":1584,"name":"Clarion Call"}
+{"_id":{"$oid":"56181002c04b1c633f33b416"},"id":1585,"name":"Emblazon Crest"}
+{"_id":{"$oid":"56181002c04b1c633f33b417"},"id":1586,"name":"Keep Watch"}
+{"_id":{"$oid":"56181002c04b1c633f33b418"},"id":1587,"name":"Serren's Armor Lock"}
+{"_id":{"$oid":"56181002c04b1c633f33b419"},"id":1588,"name":"Serren's Swift Girding"}
+{"_id":{"$oid":"56181002c04b1c633f33b41a"},"id":1589,"name":"Ward Shield"}
+{"_id":{"$oid":"56181002c04b1c633f33b41b"},"id":1590,"name":"Curse Item"}
+{"_id":{"$oid":"56181002c04b1c633f33b41c"},"id":1591,"name":"Lissalan Snake Sigil"}
+{"_id":{"$oid":"56181002c04b1c633f33b41d"},"id":1592,"name":"Display Aversion"}
+{"_id":{"$oid":"56181002c04b1c633f33b41e"},"id":1593,"name":"Domination Link"}
+{"_id":{"$oid":"56181002c04b1c633f33b41f"},"id":1594,"name":"Project Weakness"}
+{"_id":{"$oid":"56181002c04b1c633f33b420"},"id":1595,"name":"Steal Years"}
+{"_id":{"$oid":"56181002c04b1c633f33b421"},"id":1596,"name":"Steal Years, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b422"},"id":1597,"name":"Transmute Wine To Blood"}
+{"_id":{"$oid":"56181002c04b1c633f33b423"},"id":1599,"name":"Frost Mammoth"}
+{"_id":{"$oid":"56181002c04b1c633f33b424"},"id":1601,"name":"Winter's Grasp"}
+{"_id":{"$oid":"56181002c04b1c633f33b425"},"id":1604,"name":"Irriseni Mirror Sight"}
+{"_id":{"$oid":"56181002c04b1c633f33b426"},"id":1606,"name":"Bleed For Your Master"}
+{"_id":{"$oid":"56181002c04b1c633f33b427"},"id":1607,"name":"Die For Your Master"}
+{"_id":{"$oid":"56181002c04b1c633f33b428"},"id":1608,"name":"Familiar Figment"}
+{"_id":{"$oid":"56181002c04b1c633f33b429"},"id":1609,"name":"Hunter's Friend"}
+{"_id":{"$oid":"56181002c04b1c633f33b42a"},"id":1610,"name":"Scamper"}
+{"_id":{"$oid":"56181002c04b1c633f33b42b"},"id":1611,"name":"Sea Steed"}
+{"_id":{"$oid":"56181002c04b1c633f33b42c"},"id":1612,"name":"Sea Stallion"}
+{"_id":{"$oid":"56181002c04b1c633f33b42d"},"id":1613,"name":"Share Shape"}
+{"_id":{"$oid":"56181002c04b1c633f33b42e"},"id":1614,"name":"Shield Companion"}
+{"_id":{"$oid":"56181002c04b1c633f33b42f"},"id":1616,"name":"Flurry Of Snowballs"}
+{"_id":{"$oid":"56181002c04b1c633f33b430"},"id":1615,"name":"Sky Steed"}
+{"_id":{"$oid":"56181002c04b1c633f33b431"},"id":1617,"name":"Snowball"}
+{"_id":{"$oid":"56181002c04b1c633f33b432"},"id":1618,"name":"Ice Spears"}
+{"_id":{"$oid":"56181002c04b1c633f33b433"},"id":1619,"name":"Martyr's Last Blessing"}
+{"_id":{"$oid":"56181002c04b1c633f33b434"},"id":1620,"name":"Peasant Armaments"}
+{"_id":{"$oid":"56181002c04b1c633f33b435"},"id":1621,"name":"Conjure Deadfall"}
+{"_id":{"$oid":"56181002c04b1c633f33b436"},"id":1622,"name":"Create Holds"}
+{"_id":{"$oid":"56181002c04b1c633f33b437"},"id":1623,"name":"Determine Depth"}
+{"_id":{"$oid":"56181002c04b1c633f33b438"},"id":1624,"name":"Discern Value"}
+{"_id":{"$oid":"56181002c04b1c633f33b439"},"id":1625,"name":"Nature's Ravages"}
+{"_id":{"$oid":"56181002c04b1c633f33b43a"},"id":1626,"name":"Nature's Ravages, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b43b"},"id":1627,"name":"Corpse Hammer"}
+{"_id":{"$oid":"56181002c04b1c633f33b43c"},"id":1628,"name":"Oath Of Justice"}
+{"_id":{"$oid":"56181002c04b1c633f33b43d"},"id":1629,"name":"Tactical Formation"}
+{"_id":{"$oid":"56181002c04b1c633f33b43e"},"id":1630,"name":"Soothing Word"}
+{"_id":{"$oid":"56181002c04b1c633f33b43f"},"id":1631,"name":"Frosthammer"}
+{"_id":{"$oid":"56181002c04b1c633f33b440"},"id":1632,"name":"Accept Affliction"}
+{"_id":{"$oid":"56181002c04b1c633f33b441"},"id":1633,"name":"Angelic Aspect, Lesser"}
+{"_id":{"$oid":"56181002c04b1c633f33b442"},"id":1634,"name":"Angelic Aspect, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b443"},"id":1635,"name":"Angelic Aspect"}
+{"_id":{"$oid":"56181002c04b1c633f33b444"},"id":1636,"name":"Archon's Trumpet"}
+{"_id":{"$oid":"56181002c04b1c633f33b445"},"id":1637,"name":"Burst Of Radiance"}
+{"_id":{"$oid":"56181002c04b1c633f33b446"},"id":1638,"name":"Chains Of Light"}
+{"_id":{"$oid":"56181002c04b1c633f33b447"},"id":1639,"name":"Touch Of Mercy"}
+{"_id":{"$oid":"56181002c04b1c633f33b448"},"id":1640,"name":"Hymn Of Mercy"}
+{"_id":{"$oid":"56181002c04b1c633f33b449"},"id":1641,"name":"Hymn Of Peace"}
+{"_id":{"$oid":"56181002c04b1c633f33b44a"},"id":1642,"name":"Blood Of The Martyr"}
+{"_id":{"$oid":"56181002c04b1c633f33b44b"},"id":1643,"name":"Charitable Impulse"}
+{"_id":{"$oid":"56181002c04b1c633f33b44c"},"id":1644,"name":"Elemental Assessor"}
+{"_id":{"$oid":"56181002c04b1c633f33b44d"},"id":1645,"name":"Sanctify Weapons"}
+{"_id":{"$oid":"56181002c04b1c633f33b44e"},"id":1646,"name":"Summon Stampede"}
+{"_id":{"$oid":"56181002c04b1c633f33b44f"},"id":1647,"name":"Vinetrap"}
+{"_id":{"$oid":"56181002c04b1c633f33b450"},"id":1648,"name":"Black Sword Of War"}
+{"_id":{"$oid":"56181002c04b1c633f33b451"},"id":1649,"name":"Bloody Tears And Jagged Smile"}
+{"_id":{"$oid":"56181002c04b1c633f33b452"},"id":1650,"name":"Blightburn Weapon"}
+{"_id":{"$oid":"56181002c04b1c633f33b453"},"id":1653,"name":"Enlarge Tail"}
+{"_id":{"$oid":"56181002c04b1c633f33b454"},"id":1651,"name":"Chameleon Scales"}
+{"_id":{"$oid":"56181002c04b1c633f33b455"},"id":1654,"name":"Lead Plating"}
+{"_id":{"$oid":"56181002c04b1c633f33b456"},"id":1652,"name":"Dark-Light"}
+{"_id":{"$oid":"56181002c04b1c633f33b457"},"id":1655,"name":"Shadow Dragon Aspect"}
+{"_id":{"$oid":"56181002c04b1c633f33b458"},"id":1656,"name":"Strip Scales"}
+{"_id":{"$oid":"56181002c04b1c633f33b459"},"id":1657,"name":"Unseen Engineers"}
+{"_id":{"$oid":"56181002c04b1c633f33b45a"},"id":1658,"name":"Detect Relations"}
+{"_id":{"$oid":"56181002c04b1c633f33b45b"},"id":1659,"name":"Business Booms"}
+{"_id":{"$oid":"56181002c04b1c633f33b45c"},"id":1660,"name":"Prosperous Room"}
+{"_id":{"$oid":"56181002c04b1c633f33b45d"},"id":1661,"name":"Renovation"}
+{"_id":{"$oid":"56181002c04b1c633f33b45e"},"id":1662,"name":"Teleport Structure"}
+{"_id":{"$oid":"56181002c04b1c633f33b45f"},"id":1663,"name":"Bless Army"}
+{"_id":{"$oid":"56181002c04b1c633f33b460"},"id":1664,"name":"Imbue Army Special Ability"}
+{"_id":{"$oid":"56181002c04b1c633f33b461"},"id":1665,"name":"Tactical Insight"}
+{"_id":{"$oid":"56181002c04b1c633f33b462"},"id":1666,"name":"Ceremony"}
+{"_id":{"$oid":"56181002c04b1c633f33b463"},"id":1668,"name":"Dragon Turtle Shell"}
+{"_id":{"$oid":"56181002c04b1c633f33b464"},"id":1669,"name":"Draconic Suppression"}
+{"_id":{"$oid":"56181002c04b1c633f33b465"},"id":1670,"name":"Dragonvoice"}
+{"_id":{"$oid":"56181002c04b1c633f33b466"},"id":1671,"name":"Dungeonsight"}
+{"_id":{"$oid":"56181002c04b1c633f33b467"},"id":1672,"name":"Erode Defenses"}
+{"_id":{"$oid":"56181002c04b1c633f33b468"},"id":1673,"name":"Gravity Well"}
+{"_id":{"$oid":"56181002c04b1c633f33b469"},"id":1674,"name":"Heart Of The Mammoth"}
+{"_id":{"$oid":"56181002c04b1c633f33b46a"},"id":1675,"name":"Illusory Hoard"}
+{"_id":{"$oid":"56181002c04b1c633f33b46b"},"id":1676,"name":"Kreighton's Perusal"}
+{"_id":{"$oid":"56181002c04b1c633f33b46c"},"id":1677,"name":"Page-Bound Epiphany"}
+{"_id":{"$oid":"56181002c04b1c633f33b46d"},"id":1678,"name":"Collaborative Thaumaturgy"}
+{"_id":{"$oid":"56181002c04b1c633f33b46e"},"id":1679,"name":"Sure Casting"}
+{"_id":{"$oid":"56181002c04b1c633f33b46f"},"id":1680,"name":"Cauterizing Weapon"}
+{"_id":{"$oid":"56181002c04b1c633f33b470"},"id":1681,"name":"Tactical Miscalculation"}
+{"_id":{"$oid":"56181002c04b1c633f33b471"},"id":1682,"name":"Wall Of Light"}
+{"_id":{"$oid":"56181002c04b1c633f33b472"},"id":1683,"name":"Blood Song"}
+{"_id":{"$oid":"56181002c04b1c633f33b473"},"id":1684,"name":"Hallucinogenic Smoke"}
+{"_id":{"$oid":"56181002c04b1c633f33b474"},"id":1685,"name":"Jungle Mind"}
+{"_id":{"$oid":"56181002c04b1c633f33b475"},"id":1686,"name":"Lay Of The Land"}
+{"_id":{"$oid":"56181002c04b1c633f33b476"},"id":1687,"name":"Source Severance"}
+{"_id":{"$oid":"56181002c04b1c633f33b477"},"id":1688,"name":"Tectonic Communion"}
+{"_id":{"$oid":"56181002c04b1c633f33b478"},"id":1689,"name":"Anti-Summoning Shield"}
+{"_id":{"$oid":"56181002c04b1c633f33b479"},"id":1690,"name":"Burst With Light"}
+{"_id":{"$oid":"56181002c04b1c633f33b47a"},"id":1691,"name":"Detect Demon"}
+{"_id":{"$oid":"56181002c04b1c633f33b47b"},"id":1692,"name":"Protection From Outsiders"}
+{"_id":{"$oid":"56181002c04b1c633f33b47c"},"id":1693,"name":"Righteous Blood"}
+{"_id":{"$oid":"56181002c04b1c633f33b47d"},"id":1694,"name":"Telepathic Censure"}
+{"_id":{"$oid":"56181002c04b1c633f33b47e"},"id":1695,"name":"Contact Nalfeshnee"}
+{"_id":{"$oid":"56181002c04b1c633f33b47f"},"id":1696,"name":"Ascension"}
+{"_id":{"$oid":"56181002c04b1c633f33b480"},"id":1697,"name":"Bleed Glory"}
+{"_id":{"$oid":"56181002c04b1c633f33b481"},"id":1698,"name":"Deathless"}
+{"_id":{"$oid":"56181002c04b1c633f33b482"},"id":1700,"name":"Mythic Severance"}
+{"_id":{"$oid":"56181002c04b1c633f33b483"},"id":1699,"name":"Lend Path"}
+{"_id":{"$oid":"56181002c04b1c633f33b484"},"id":1701,"name":"Restore Mythic Power"}
+{"_id":{"$oid":"56181002c04b1c633f33b485"},"id":1702,"name":"Share Glory"}
+{"_id":{"$oid":"56181002c04b1c633f33b486"},"id":1703,"name":"Steal Power"}
+{"_id":{"$oid":"56181002c04b1c633f33b487"},"id":1704,"name":"Terraform"}
+{"_id":{"$oid":"56181002c04b1c633f33b488"},"id":1705,"name":"Apparent Treachery"}
+{"_id":{"$oid":"56181002c04b1c633f33b489"},"id":1706,"name":"Film Of Filth"}
+{"_id":{"$oid":"56181002c04b1c633f33b48a"},"id":1707,"name":"Lightning Lash"}
+{"_id":{"$oid":"56181002c04b1c633f33b48b"},"id":1708,"name":"Maw Of Chaos"}
+{"_id":{"$oid":"56181002c04b1c633f33b48c"},"id":1709,"name":"Summon Greater Demon"}
+{"_id":{"$oid":"56181002c04b1c633f33b48d"},"id":1710,"name":"Summon Lesser Demon"}
+{"_id":{"$oid":"56181002c04b1c633f33b48e"},"id":1711,"name":"Unleash Pandemonium"}
+{"_id":{"$oid":"56181002c04b1c633f33b48f"},"id":1712,"name":"Vermicious Assumption"}
+{"_id":{"$oid":"56181002c04b1c633f33b490"},"id":1713,"name":"Borrowed Time"}
+{"_id":{"$oid":"56181002c04b1c633f33b491"},"id":1714,"name":"Elemental Bombardment"}
+{"_id":{"$oid":"56181002c04b1c633f33b492"},"id":1715,"name":"Imbue With Flight"}
+{"_id":{"$oid":"56181002c04b1c633f33b493"},"id":1716,"name":"Soulreaver"}
+{"_id":{"$oid":"56181002c04b1c633f33b494"},"id":1717,"name":"Sustaining Legend"}
+{"_id":{"$oid":"56181002c04b1c633f33b495"},"id":1718,"name":"Accursed Glare"}
+{"_id":{"$oid":"56181002c04b1c633f33b496"},"id":1720,"name":"Share Skin, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b497"},"id":1719,"name":"Share Skin"}
+{"_id":{"$oid":"56181002c04b1c633f33b498"},"id":1721,"name":"Heavy Water"}
+{"_id":{"$oid":"56181002c04b1c633f33b499"},"id":1722,"name":"Hydrophobia"}
+{"_id":{"$oid":"56181002c04b1c633f33b49a"},"id":1723,"name":"Blood Boil"}
+{"_id":{"$oid":"56181002c04b1c633f33b49b"},"id":1724,"name":"Imbue With Addiction"}
+{"_id":{"$oid":"56181002c04b1c633f33b49c"},"id":1725,"name":"Rune Of Jandelay"}
+{"_id":{"$oid":"56181002c04b1c633f33b49d"},"id":1726,"name":"Bleeding Strike"}
+{"_id":{"$oid":"56181002c04b1c633f33b49e"},"id":1727,"name":"Reveal Mirage"}
+{"_id":{"$oid":"56181002c04b1c633f33b49f"},"id":1728,"name":"Storm Of Blades"}
+{"_id":{"$oid":"56181002c04b1c633f33b4a0"},"id":1729,"name":"Summon Genie, Lesser"}
+{"_id":{"$oid":"56181002c04b1c633f33b4a1"},"id":1730,"name":"Summon Genie"}
+{"_id":{"$oid":"56181002c04b1c633f33b4a2"},"id":1731,"name":"Summon Genie, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b4a3"},"id":1732,"name":"Inner Focus"}
+{"_id":{"$oid":"56181002c04b1c633f33b4a4"},"id":1733,"name":"Abyssal Vermin"}
+{"_id":{"$oid":"56181002c04b1c633f33b4a5"},"id":1734,"name":"Explosion Of Rot"}
+{"_id":{"$oid":"56181002c04b1c633f33b4a6"},"id":1735,"name":"Antithetical Constraint"}
+{"_id":{"$oid":"56181002c04b1c633f33b4a7"},"id":1736,"name":"Arbitrament"}
+{"_id":{"$oid":"56181002c04b1c633f33b4a8"},"id":1737,"name":"Ardor's Onslaught"}
+{"_id":{"$oid":"56181002c04b1c633f33b4a9"},"id":1738,"name":"Counterbalancing Aura"}
+{"_id":{"$oid":"56181002c04b1c633f33b4aa"},"id":1739,"name":"Dispel Balance"}
+{"_id":{"$oid":"56181002c04b1c633f33b4ab"},"id":1740,"name":"Recentering Drone"}
+{"_id":{"$oid":"56181002c04b1c633f33b4ac"},"id":1741,"name":"Steal Book"}
+{"_id":{"$oid":"56181002c04b1c633f33b4ad"},"id":1742,"name":"Summon Lesser Psychopomp"}
+{"_id":{"$oid":"56181002c04b1c633f33b4ae"},"id":1743,"name":"Summon Vanth"}
+{"_id":{"$oid":"56181002c04b1c633f33b4af"},"id":1744,"name":"Possession Trap"}
+{"_id":{"$oid":"56181002c04b1c633f33b4b0"},"id":1745,"name":"Sphere Of Warding"}
+{"_id":{"$oid":"56181002c04b1c633f33b4b1"},"id":1746,"name":"Carrion Compass"}
+{"_id":{"$oid":"56181002c04b1c633f33b4b2"},"id":1747,"name":"Empower Holy Water"}
+{"_id":{"$oid":"56181002c04b1c633f33b4b3"},"id":1748,"name":"Force Anchor"}
+{"_id":{"$oid":"56181002c04b1c633f33b4b4"},"id":1749,"name":"Life Shield"}
+{"_id":{"$oid":"56181002c04b1c633f33b4b5"},"id":1750,"name":"Necromantic Burden"}
+{"_id":{"$oid":"56181002c04b1c633f33b4b6"},"id":1751,"name":"Undeath Inversion"}
+{"_id":{"$oid":"56181002c04b1c633f33b4b7"},"id":1752,"name":"Abadar's Truthtelling"}
+{"_id":{"$oid":"56181002c04b1c633f33b4b8"},"id":1753,"name":"Abstemiousness"}
+{"_id":{"$oid":"56181002c04b1c633f33b4b9"},"id":1755,"name":"Baphomet's Blessing"}
+{"_id":{"$oid":"56181002c04b1c633f33b4ba"},"id":1756,"name":"Beacon Of Luck"}
+{"_id":{"$oid":"56181002c04b1c633f33b4bb"},"id":1757,"name":"Blade Snare"}
+{"_id":{"$oid":"56181002c04b1c633f33b4bc"},"id":1758,"name":"Blessing Of The Watch"}
+{"_id":{"$oid":"56181002c04b1c633f33b4bd"},"id":1759,"name":"Brittle Portal"}
+{"_id":{"$oid":"56181002c04b1c633f33b4be"},"id":1760,"name":"Burst Of Glory"}
+{"_id":{"$oid":"56181002c04b1c633f33b4bf"},"id":1761,"name":"Caustic Blood"}
+{"_id":{"$oid":"56181002c04b1c633f33b4c0"},"id":1762,"name":"Channel The Gift"}
+{"_id":{"$oid":"56181002c04b1c633f33b4c1"},"id":1763,"name":"Channel Vigor"}
+{"_id":{"$oid":"56181002c04b1c633f33b4c2"},"id":1764,"name":"Dead Eye's Arrow"}
+{"_id":{"$oid":"56181002c04b1c633f33b4c3"},"id":1765,"name":"Defending Bone"}
+{"_id":{"$oid":"56181002c04b1c633f33b4c4"},"id":1766,"name":"Dream Feast"}
+{"_id":{"$oid":"56181002c04b1c633f33b4c5"},"id":1767,"name":"Early Judgment"}
+{"_id":{"$oid":"56181002c04b1c633f33b4c6"},"id":1768,"name":"Enhance Water"}
+{"_id":{"$oid":"56181002c04b1c633f33b4c7"},"id":1769,"name":"Face Of The Devourer"}
+{"_id":{"$oid":"56181002c04b1c633f33b4c8"},"id":1771,"name":"Fallback Strategy"}
+{"_id":{"$oid":"56181002c04b1c633f33b4c9"},"id":1770,"name":"Fairness"}
+{"_id":{"$oid":"56181002c04b1c633f33b4ca"},"id":1772,"name":"False Alibi"}
+{"_id":{"$oid":"56181002c04b1c633f33b4cb"},"id":1773,"name":"Firebelly"}
+{"_id":{"$oid":"56181002c04b1c633f33b4cc"},"id":1774,"name":"Fractions Of Heal And Harm"}
+{"_id":{"$oid":"56181002c04b1c633f33b4cd"},"id":1776,"name":"Ghoul Hunger"}
+{"_id":{"$oid":"56181002c04b1c633f33b4ce"},"id":1775,"name":"Freedom's Toast"}
+{"_id":{"$oid":"56181002c04b1c633f33b4cf"},"id":1777,"name":"Gozreh's Trident"}
+{"_id":{"$oid":"56181002c04b1c633f33b4d0"},"id":1778,"name":"Hairline Fractures"}
+{"_id":{"$oid":"56181002c04b1c633f33b4d1"},"id":1779,"name":"Hammer Of Mending"}
+{"_id":{"$oid":"56181002c04b1c633f33b4d2"},"id":1780,"name":"Haze Of Dreams"}
+{"_id":{"$oid":"56181002c04b1c633f33b4d3"},"id":1781,"name":"Hunter's Blessing"}
+{"_id":{"$oid":"56181002c04b1c633f33b4d4"},"id":1782,"name":"Ice Armor"}
+{"_id":{"$oid":"56181002c04b1c633f33b4d5"},"id":1783,"name":"Inheritor's Smite"}
+{"_id":{"$oid":"56181002c04b1c633f33b4d6"},"id":1784,"name":"Light Prison"}
+{"_id":{"$oid":"56181002c04b1c633f33b4d7"},"id":1785,"name":"Lighten Object"}
+{"_id":{"$oid":"56181002c04b1c633f33b4d8"},"id":1786,"name":"Lighten Object, Mass"}
+{"_id":{"$oid":"56181002c04b1c633f33b4d9"},"id":1787,"name":"Lose The Trail"}
+{"_id":{"$oid":"56181002c04b1c633f33b4da"},"id":1788,"name":"Maddening Oubliette"}
+{"_id":{"$oid":"56181002c04b1c633f33b4db"},"id":1789,"name":"Monstrous Extremities"}
+{"_id":{"$oid":"56181002c04b1c633f33b4dc"},"id":1790,"name":"Night Of Blades"}
+{"_id":{"$oid":"56181002c04b1c633f33b4dd"},"id":1791,"name":"Pick Your Poison"}
+{"_id":{"$oid":"56181002c04b1c633f33b4de"},"id":1792,"name":"Plague Bearer"}
+{"_id":{"$oid":"56181002c04b1c633f33b4df"},"id":1793,"name":"Poisoned Egg"}
+{"_id":{"$oid":"56181002c04b1c633f33b4e0"},"id":1794,"name":"Read Weather"}
+{"_id":{"$oid":"56181002c04b1c633f33b4e1"},"id":1795,"name":"Replenish Ki"}
+{"_id":{"$oid":"56181002c04b1c633f33b4e2"},"id":1796,"name":"Rovagug's Fury"}
+{"_id":{"$oid":"56181002c04b1c633f33b4e3"},"id":1797,"name":"Sadomasochism"}
+{"_id":{"$oid":"56181002c04b1c633f33b4e4"},"id":1798,"name":"Secret Speech"}
+{"_id":{"$oid":"56181002c04b1c633f33b4e5"},"id":1799,"name":"Seducer's Eyes"}
+{"_id":{"$oid":"56181002c04b1c633f33b4e6"},"id":1800,"name":"Shared Sacrifice"}
+{"_id":{"$oid":"56181002c04b1c633f33b4e7"},"id":1801,"name":"Shield Of The Dawnflower, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b4e8"},"id":1802,"name":"Sky Swim"}
+{"_id":{"$oid":"56181002c04b1c633f33b4e9"},"id":1803,"name":"Smite Abomination"}
+{"_id":{"$oid":"56181002c04b1c633f33b4ea"},"id":1804,"name":"Spawn Calling"}
+{"_id":{"$oid":"56181002c04b1c633f33b4eb"},"id":1805,"name":"Spell Gauge"}
+{"_id":{"$oid":"56181002c04b1c633f33b4ec"},"id":1806,"name":"Spell Scourge"}
+{"_id":{"$oid":"56181002c04b1c633f33b4ed"},"id":1807,"name":"Symbol Of Debauchery"}
+{"_id":{"$oid":"56181002c04b1c633f33b4ee"},"id":1808,"name":"Symbol Of Dispelling"}
+{"_id":{"$oid":"56181002c04b1c633f33b4ef"},"id":1809,"name":"Tap Inner Beauty"}
+{"_id":{"$oid":"56181002c04b1c633f33b4f0"},"id":1810,"name":"Touch Of Bloodletting"}
+{"_id":{"$oid":"56181002c04b1c633f33b4f1"},"id":1811,"name":"Tracking Mark"}
+{"_id":{"$oid":"56181002c04b1c633f33b4f2"},"id":1812,"name":"Transplant Visage"}
+{"_id":{"$oid":"56181002c04b1c633f33b4f3"},"id":1813,"name":"Unwelcome Halo"}
+{"_id":{"$oid":"56181002c04b1c633f33b4f4"},"id":1814,"name":"Vengeful Stinger"}
+{"_id":{"$oid":"56181002c04b1c633f33b4f5"},"id":1815,"name":"Vexing Miscalculation"}
+{"_id":{"$oid":"56181002c04b1c633f33b4f6"},"id":1817,"name":"Create Variant Mummy"}
+{"_id":{"$oid":"56181002c04b1c633f33b4f7"},"id":1816,"name":"Weapons Against Evil"}
+{"_id":{"$oid":"56181002c04b1c633f33b4f8"},"id":1818,"name":"Virulence"}
+{"_id":{"$oid":"56181002c04b1c633f33b4f9"},"id":1819,"name":"Calculated Luck"}
+{"_id":{"$oid":"56181002c04b1c633f33b4fa"},"id":1820,"name":"Cleromancy"}
+{"_id":{"$oid":"56181002c04b1c633f33b4fb"},"id":1821,"name":"Luck Y Number"}
+{"_id":{"$oid":"56181002c04b1c633f33b4fc"},"id":1822,"name":"Mathematical Curse"}
+{"_id":{"$oid":"56181002c04b1c633f33b4fd"},"id":1823,"name":"Numerological Evocation"}
+{"_id":{"$oid":"56181002c04b1c633f33b4fe"},"id":1824,"name":"Numerological Resistance"}
+{"_id":{"$oid":"56181002c04b1c633f33b4ff"},"id":1825,"name":"Call Spirit"}
+{"_id":{"$oid":"56181002c04b1c633f33b500"},"id":1826,"name":"Calm Spirit"}
+{"_id":{"$oid":"56181002c04b1c633f33b501"},"id":1827,"name":"Spectral Saluqi"}
+{"_id":{"$oid":"56181002c04b1c633f33b502"},"id":1828,"name":"Harrowing, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b503"},"id":1829,"name":"Abeyance"}
+{"_id":{"$oid":"56181002c04b1c633f33b504"},"id":1830,"name":"Aggravate Affliction"}
+{"_id":{"$oid":"56181002c04b1c633f33b505"},"id":1831,"name":"Bestow Curse, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b506"},"id":1832,"name":"Enshroud Thoughts"}
+{"_id":{"$oid":"56181002c04b1c633f33b507"},"id":1834,"name":"Boneshatter"}
+{"_id":{"$oid":"56181002c04b1c633f33b508"},"id":1833,"name":"Storm Step"}
+{"_id":{"$oid":"56181002c04b1c633f33b509"},"id":1835,"name":"Alter River"}
+{"_id":{"$oid":"56181002c04b1c633f33b50a"},"id":1836,"name":"Detect Metal"}
+{"_id":{"$oid":"56181002c04b1c633f33b50b"},"id":1837,"name":"Hanspur's Flotsam Vessel"}
+{"_id":{"$oid":"56181002c04b1c633f33b50c"},"id":1838,"name":"Magnetic Field"}
+{"_id":{"$oid":"56181002c04b1c633f33b50d"},"id":1839,"name":"Resounding Clang"}
+{"_id":{"$oid":"56181002c04b1c633f33b50e"},"id":1840,"name":"Riversight"}
+{"_id":{"$oid":"56181002c04b1c633f33b50f"},"id":1841,"name":"Sabotage Construct"}
+{"_id":{"$oid":"56181002c04b1c633f33b510"},"id":1842,"name":"Antitech Field"}
+{"_id":{"$oid":"56181002c04b1c633f33b511"},"id":1843,"name":"Destroy Robot"}
+{"_id":{"$oid":"56181002c04b1c633f33b512"},"id":1844,"name":"Detect Radiation"}
+{"_id":{"$oid":"56181002c04b1c633f33b513"},"id":1845,"name":"Discharge"}
+{"_id":{"$oid":"56181002c04b1c633f33b514"},"id":1846,"name":"Discharge, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b515"},"id":1847,"name":"Infuse Robot"}
+{"_id":{"$oid":"56181002c04b1c633f33b516"},"id":1848,"name":"Irradiate"}
+{"_id":{"$oid":"56181002c04b1c633f33b517"},"id":1849,"name":"Magic Circle Against Technology"}
+{"_id":{"$oid":"56181002c04b1c633f33b518"},"id":1850,"name":"Make Whole, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b519"},"id":1851,"name":"Memory Of Function"}
+{"_id":{"$oid":"56181002c04b1c633f33b51a"},"id":1852,"name":"Protection From Technology"}
+{"_id":{"$oid":"56181002c04b1c633f33b51b"},"id":1853,"name":"Rebuke Technology"}
+{"_id":{"$oid":"56181002c04b1c633f33b51c"},"id":1854,"name":"Recharge"}
+{"_id":{"$oid":"56181002c04b1c633f33b51d"},"id":1855,"name":"Remove Radioactivity"}
+{"_id":{"$oid":"56181002c04b1c633f33b51e"},"id":1856,"name":"Remove Radioactivity, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b51f"},"id":1857,"name":"Technomancy"}
+{"_id":{"$oid":"56181002c04b1c633f33b520"},"id":1858,"name":"Cosmic Ray"}
+{"_id":{"$oid":"56181002c04b1c633f33b521"},"id":1859,"name":"Gravity Sphere"}
+{"_id":{"$oid":"56181002c04b1c633f33b522"},"id":1860,"name":"Planetarium"}
+{"_id":{"$oid":"56181002c04b1c633f33b523"},"id":1861,"name":"Planetary Adaptation"}
+{"_id":{"$oid":"56181002c04b1c633f33b524"},"id":1862,"name":"Planetary Adaptation, Mass"}
+{"_id":{"$oid":"56181002c04b1c633f33b525"},"id":1863,"name":"Reboot"}
+{"_id":{"$oid":"56181002c04b1c633f33b526"},"id":1864,"name":"Starsight"}
+{"_id":{"$oid":"56181002c04b1c633f33b527"},"id":1865,"name":"Adhesive Blood"}
+{"_id":{"$oid":"56181002c04b1c633f33b528"},"id":1866,"name":"Adhesive Spittle"}
+{"_id":{"$oid":"56181002c04b1c633f33b529"},"id":1867,"name":"Adjustable Disguise"}
+{"_id":{"$oid":"56181002c04b1c633f33b52a"},"id":1868,"name":"Adjustable Polymorph"}
+{"_id":{"$oid":"56181002c04b1c633f33b52b"},"id":1870,"name":"Aggressive Thundercloud"}
+{"_id":{"$oid":"56181002c04b1c633f33b52c"},"id":1871,"name":"Aggressive Thundercloud, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b52d"},"id":1872,"name":"Air Geyser"}
+{"_id":{"$oid":"56181002c04b1c633f33b52e"},"id":1873,"name":"Air Step"}
+{"_id":{"$oid":"56181002c04b1c633f33b52f"},"id":1874,"name":"Align Weapon, Communal"}
+{"_id":{"$oid":"56181002c04b1c633f33b530"},"id":1875,"name":"Alter Musical Instrument"}
+{"_id":{"$oid":"56181002c04b1c633f33b531"},"id":1876,"name":"Anchored Step"}
+{"_id":{"$oid":"56181002c04b1c633f33b532"},"id":1877,"name":"Animal Purpose Training"}
+{"_id":{"$oid":"56181002c04b1c633f33b533"},"id":1878,"name":"Anonymous Interaction"}
+{"_id":{"$oid":"56181002c04b1c633f33b534"},"id":1879,"name":"Anti-Incorporeal Shell"}
+{"_id":{"$oid":"56181002c04b1c633f33b535"},"id":1880,"name":"Aura Sight"}
+{"_id":{"$oid":"56181002c04b1c633f33b536"},"id":1881,"name":"Banshee Blast"}
+{"_id":{"$oid":"56181002c04b1c633f33b537"},"id":1882,"name":"Barrow Haze"}
+{"_id":{"$oid":"56181002c04b1c633f33b538"},"id":1883,"name":"Beastspeak"}
+{"_id":{"$oid":"56181002c04b1c633f33b539"},"id":1884,"name":"Bestow Auras"}
+{"_id":{"$oid":"56181002c04b1c633f33b53a"},"id":1885,"name":"Blade Lash"}
+{"_id":{"$oid":"56181002c04b1c633f33b53b"},"id":1886,"name":"Blazing Rainbow"}
+{"_id":{"$oid":"56181002c04b1c633f33b53c"},"id":1887,"name":"Blessed Fist"}
+{"_id":{"$oid":"56181002c04b1c633f33b53d"},"id":1888,"name":"Bloatbomb"}
+{"_id":{"$oid":"56181002c04b1c633f33b53e"},"id":1889,"name":"Blood Armor"}
+{"_id":{"$oid":"56181002c04b1c633f33b53f"},"id":1890,"name":"Blood Sentinel"}
+{"_id":{"$oid":"56181002c04b1c633f33b540"},"id":1891,"name":"Blurred Movement"}
+{"_id":{"$oid":"56181002c04b1c633f33b541"},"id":1892,"name":"Body Capacitance"}
+{"_id":{"$oid":"56181002c04b1c633f33b542"},"id":1893,"name":"Bullet Ward"}
+{"_id":{"$oid":"56181002c04b1c633f33b543"},"id":1894,"name":"Buoyancy"}
+{"_id":{"$oid":"56181002c04b1c633f33b544"},"id":1895,"name":"Chameleon Stride, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b545"},"id":1896,"name":"Climbing Beanstalk"}
+{"_id":{"$oid":"56181002c04b1c633f33b546"},"id":1897,"name":"Companion Life Link"}
+{"_id":{"$oid":"56181002c04b1c633f33b547"},"id":1898,"name":"Contingent Action"}
+{"_id":{"$oid":"56181002c04b1c633f33b548"},"id":1899,"name":"Contingent Scroll"}
+{"_id":{"$oid":"56181002c04b1c633f33b549"},"id":1900,"name":"Creeping Ice"}
+{"_id":{"$oid":"56181002c04b1c633f33b54a"},"id":1901,"name":"Crimson Confession"}
+{"_id":{"$oid":"56181002c04b1c633f33b54b"},"id":1902,"name":"Curse Of Burning Sleep"}
+{"_id":{"$oid":"56181002c04b1c633f33b54c"},"id":1903,"name":"Dimensional Bounce"}
+{"_id":{"$oid":"56181002c04b1c633f33b54d"},"id":1904,"name":"Disable Construct"}
+{"_id":{"$oid":"56181002c04b1c633f33b54e"},"id":1905,"name":"Discern Next Of Kin"}
+{"_id":{"$oid":"56181002c04b1c633f33b54f"},"id":1906,"name":"Disguise Weapon"}
+{"_id":{"$oid":"56181002c04b1c633f33b550"},"id":1907,"name":"Enchantment Foil"}
+{"_id":{"$oid":"56181002c04b1c633f33b551"},"id":1908,"name":"Enemy Insight"}
+{"_id":{"$oid":"56181002c04b1c633f33b552"},"id":1909,"name":"Euphoric Cloud"}
+{"_id":{"$oid":"56181002c04b1c633f33b553"},"id":1910,"name":"Extreme Flexibility"}
+{"_id":{"$oid":"56181002c04b1c633f33b554"},"id":1911,"name":"Eyes Of The Void"}
+{"_id":{"$oid":"56181002c04b1c633f33b555"},"id":1912,"name":"Fairy Ring Retreat"}
+{"_id":{"$oid":"56181002c04b1c633f33b556"},"id":1913,"name":"Familiar Double"}
+{"_id":{"$oid":"56181002c04b1c633f33b557"},"id":1914,"name":"Feast On Fear"}
+{"_id":{"$oid":"56181002c04b1c633f33b558"},"id":1915,"name":"Flaming Sphere, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b559"},"id":1916,"name":"Flexible Fury"}
+{"_id":{"$oid":"56181002c04b1c633f33b55a"},"id":1917,"name":"Focused Scrutiny"}
+{"_id":{"$oid":"56181002c04b1c633f33b55b"},"id":1918,"name":"Font Of Spirit Magic"}
+{"_id":{"$oid":"56181002c04b1c633f33b55c"},"id":1919,"name":"Gentle Breeze"}
+{"_id":{"$oid":"56181002c04b1c633f33b55d"},"id":1920,"name":"Glue Seal"}
+{"_id":{"$oid":"56181002c04b1c633f33b55e"},"id":1921,"name":"Guardian Of Faith"}
+{"_id":{"$oid":"56181002c04b1c633f33b55f"},"id":1922,"name":"Heart Of The Metal"}
+{"_id":{"$oid":"56181002c04b1c633f33b560"},"id":1924,"name":"Heightened Reflexes"}
+{"_id":{"$oid":"56181002c04b1c633f33b561"},"id":1923,"name":"Heightened Awareness"}
+{"_id":{"$oid":"56181002c04b1c633f33b562"},"id":1925,"name":"Hex Glyph"}
+{"_id":{"$oid":"56181002c04b1c633f33b563"},"id":1926,"name":"Hex Glyph, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b564"},"id":1927,"name":"Hex Vulnerability"}
+{"_id":{"$oid":"56181002c04b1c633f33b565"},"id":1928,"name":"Holy Ice Weapon"}
+{"_id":{"$oid":"56181002c04b1c633f33b566"},"id":1929,"name":"Investigative Mind"}
+{"_id":{"$oid":"56181002c04b1c633f33b567"},"id":1930,"name":"Invisibility Alarm"}
+{"_id":{"$oid":"56181002c04b1c633f33b568"},"id":1931,"name":"Life Pact"}
+{"_id":{"$oid":"56181002c04b1c633f33b569"},"id":1932,"name":"Line In The Sand"}
+{"_id":{"$oid":"56181002c04b1c633f33b56a"},"id":1933,"name":"Long Arm"}
+{"_id":{"$oid":"56181002c04b1c633f33b56b"},"id":1934,"name":"Longstrider, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b56c"},"id":1935,"name":"Magnifying Chime"}
+{"_id":{"$oid":"56181002c04b1c633f33b56d"},"id":1936,"name":"Mantle Of Calm"}
+{"_id":{"$oid":"56181002c04b1c633f33b56e"},"id":1937,"name":"Marching Chant"}
+{"_id":{"$oid":"56181002c04b1c633f33b56f"},"id":1938,"name":"Mark Of Obvious Ethics"}
+{"_id":{"$oid":"56181002c04b1c633f33b570"},"id":1939,"name":"Memorize Page"}
+{"_id":{"$oid":"56181002c04b1c633f33b571"},"id":1940,"name":"Mindlocked Messenger"}
+{"_id":{"$oid":"56181002c04b1c633f33b572"},"id":1941,"name":"Mirror Hideaway"}
+{"_id":{"$oid":"56181002c04b1c633f33b573"},"id":1942,"name":"Mirror Polish"}
+{"_id":{"$oid":"56181002c04b1c633f33b574"},"id":1943,"name":"Mirror Transport"}
+{"_id":{"$oid":"56181002c04b1c633f33b575"},"id":1944,"name":"Molten Orb"}
+{"_id":{"$oid":"56181002c04b1c633f33b576"},"id":1945,"name":"Monkey Fish"}
+{"_id":{"$oid":"56181002c04b1c633f33b577"},"id":1946,"name":"Muffle Sound"}
+{"_id":{"$oid":"56181002c04b1c633f33b578"},"id":1947,"name":"Nauseating Dart"}
+{"_id":{"$oid":"56181002c04b1c633f33b579"},"id":1948,"name":"Nauseating Trail"}
+{"_id":{"$oid":"56181002c04b1c633f33b57a"},"id":1949,"name":"Path Of Glory"}
+{"_id":{"$oid":"56181002c04b1c633f33b57b"},"id":1950,"name":"Path Of Glory, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b57c"},"id":1952,"name":"Phantom Blood"}
+{"_id":{"$oid":"56181002c04b1c633f33b57d"},"id":1953,"name":"Pierce Disguise"}
+{"_id":{"$oid":"56181002c04b1c633f33b57e"},"id":1954,"name":"Planeslayer's Call"}
+{"_id":{"$oid":"56181002c04b1c633f33b57f"},"id":1955,"name":"Polymorph Familiar"}
+{"_id":{"$oid":"56181002c04b1c633f33b580"},"id":1956,"name":"Refine Improvised Weapon"}
+{"_id":{"$oid":"56181002c04b1c633f33b581"},"id":1957,"name":"Repair Undead"}
+{"_id":{"$oid":"56181002c04b1c633f33b582"},"id":1958,"name":"Repair Undead, Mass"}
+{"_id":{"$oid":"56181002c04b1c633f33b583"},"id":1959,"name":"River Whip"}
+{"_id":{"$oid":"56181002c04b1c633f33b584"},"id":1960,"name":"Sense Spirit Magic"}
+{"_id":{"$oid":"56181002c04b1c633f33b585"},"id":1961,"name":"Shield Companion"}
+{"_id":{"$oid":"56181002c04b1c633f33b586"},"id":1962,"name":"Shield Of Fortification"}
+{"_id":{"$oid":"56181002c04b1c633f33b587"},"id":1963,"name":"Shield Of Fortification, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b588"},"id":1964,"name":"Sickening Entanglement"}
+{"_id":{"$oid":"56181002c04b1c633f33b589"},"id":1965,"name":"Silent Table"}
+{"_id":{"$oid":"56181002c04b1c633f33b58a"},"id":1966,"name":"Silver Darts"}
+{"_id":{"$oid":"56181002c04b1c633f33b58b"},"id":1969,"name":"Sonic Scream"}
+{"_id":{"$oid":"56181002c04b1c633f33b58c"},"id":1967,"name":"Slowing Mud"}
+{"_id":{"$oid":"56181002c04b1c633f33b58d"},"id":1970,"name":"Speak With Haunt"}
+{"_id":{"$oid":"56181002c04b1c633f33b58e"},"id":1971,"name":"Spellcrash, Lesser"}
+{"_id":{"$oid":"56181002c04b1c633f33b58f"},"id":1968,"name":"Sonic Form"}
+{"_id":{"$oid":"56181002c04b1c633f33b590"},"id":1951,"name":"Persistent Vigor"}
+{"_id":{"$oid":"56181002c04b1c633f33b591"},"id":1973,"name":"Spellcrash"}
+{"_id":{"$oid":"56181002c04b1c633f33b592"},"id":1974,"name":"Stench Of Prey"}
+{"_id":{"$oid":"56181002c04b1c633f33b593"},"id":1972,"name":"Spellcrash, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b594"},"id":1975,"name":"Stone Discus"}
+{"_id":{"$oid":"56181002c04b1c633f33b595"},"id":1976,"name":"Stricken Heart"}
+{"_id":{"$oid":"56181002c04b1c633f33b596"},"id":1977,"name":"Stunning Barrier"}
+{"_id":{"$oid":"56181002c04b1c633f33b597"},"id":1978,"name":"Stunning Barrier, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b598"},"id":1979,"name":"Sunder Breaker"}
+{"_id":{"$oid":"56181002c04b1c633f33b599"},"id":1980,"name":"Sundering Shards"}
+{"_id":{"$oid":"56181002c04b1c633f33b59a"},"id":1981,"name":"Symbol Of Laughter"}
+{"_id":{"$oid":"56181002c04b1c633f33b59b"},"id":1982,"name":"Thorn Javelin"}
+{"_id":{"$oid":"56181002c04b1c633f33b59c"},"id":1983,"name":"Thorny Entanglement"}
+{"_id":{"$oid":"56181002c04b1c633f33b59d"},"id":1984,"name":"Thunderstomp"}
+{"_id":{"$oid":"56181002c04b1c633f33b59e"},"id":1985,"name":"Thunderstomp, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b59f"},"id":1986,"name":"Time Shudder"}
+{"_id":{"$oid":"56181002c04b1c633f33b5a0"},"id":1987,"name":"Triggered Suggestion"}
+{"_id":{"$oid":"56181002c04b1c633f33b5a1"},"id":1988,"name":"Twilight Haze"}
+{"_id":{"$oid":"56181002c04b1c633f33b5a2"},"id":1989,"name":"Unbearable Brightness"}
+{"_id":{"$oid":"56181002c04b1c633f33b5a3"},"id":1991,"name":"Unliving Rage"}
+{"_id":{"$oid":"56181002c04b1c633f33b5a4"},"id":1990,"name":"Unholy Ice Weapon"}
+{"_id":{"$oid":"56181002c04b1c633f33b5a5"},"id":1992,"name":"Vampiric Shadow Shield"}
+{"_id":{"$oid":"56181002c04b1c633f33b5a6"},"id":1993,"name":"Wall Of Blindness/Deafness"}
+{"_id":{"$oid":"56181002c04b1c633f33b5a7"},"id":1994,"name":"Wall Of Nausea"}
+{"_id":{"$oid":"56181002c04b1c633f33b5a8"},"id":1995,"name":"Wave Shield"}
+{"_id":{"$oid":"56181002c04b1c633f33b5a9"},"id":1996,"name":"Whip Of Spiders"}
+{"_id":{"$oid":"56181002c04b1c633f33b5aa"},"id":1997,"name":"Whip Of Ants"}
+{"_id":{"$oid":"56181002c04b1c633f33b5ab"},"id":1998,"name":"Whip Of Centipedes"}
+{"_id":{"$oid":"56181002c04b1c633f33b5ac"},"id":1999,"name":"Widen Auras"}
+{"_id":{"$oid":"56181002c04b1c633f33b5ad"},"id":2000,"name":"Semblance Of Flesh"}
+{"_id":{"$oid":"56181002c04b1c633f33b5ae"},"id":2001,"name":"Shared Suffering"}
+{"_id":{"$oid":"56181002c04b1c633f33b5af"},"id":2002,"name":"Wracking Ray"}
+{"_id":{"$oid":"56181002c04b1c633f33b5b0"},"id":2003,"name":"Acid Maw"}
+{"_id":{"$oid":"56181002c04b1c633f33b5b1"},"id":2004,"name":"Arcane Disruption"}
+{"_id":{"$oid":"56181002c04b1c633f33b5b2"},"id":2005,"name":"Blood Salvation"}
+{"_id":{"$oid":"56181002c04b1c633f33b5b3"},"id":2006,"name":"Energy Hack"}
+{"_id":{"$oid":"56181002c04b1c633f33b5b4"},"id":2007,"name":"Imbue Hex"}
+{"_id":{"$oid":"56181002c04b1c633f33b5b5"},"id":2008,"name":"Phantom Hunt"}
+{"_id":{"$oid":"56181002c04b1c633f33b5b6"},"id":2009,"name":"Spirit Call"}
+{"_id":{"$oid":"56181002c04b1c633f33b5b7"},"id":2010,"name":"Wrathful Weapon"}
+{"_id":{"$oid":"56181002c04b1c633f33b5b8"},"id":2011,"name":"Aura Of Cannibalism"}
+{"_id":{"$oid":"56181002c04b1c633f33b5b9"},"id":2012,"name":"Isolate"}
+{"_id":{"$oid":"56181002c04b1c633f33b5ba"},"id":2013,"name":"Control Vermin"}
+{"_id":{"$oid":"56181002c04b1c633f33b5bb"},"id":2014,"name":"Dust Ward"}
+{"_id":{"$oid":"56181002c04b1c633f33b5bc"},"id":2015,"name":"Ironskin"}
+{"_id":{"$oid":"56181002c04b1c633f33b5bd"},"id":2016,"name":"Ice Slick"}
+{"_id":{"$oid":"56181002c04b1c633f33b5be"},"id":2017,"name":"Magic Boulder"}
+{"_id":{"$oid":"56181002c04b1c633f33b5bf"},"id":2018,"name":"Fleshy Facade"}
+{"_id":{"$oid":"56181002c04b1c633f33b5c0"},"id":2019,"name":"Hungry Earth"}
+{"_id":{"$oid":"56181002c04b1c633f33b5c1"},"id":2020,"name":"Augmenting Wall"}
+{"_id":{"$oid":"56181002c04b1c633f33b5c2"},"id":2021,"name":"Bloody Arrows"}
+{"_id":{"$oid":"56181002c04b1c633f33b5c3"},"id":2022,"name":"Calm Air"}
+{"_id":{"$oid":"56181002c04b1c633f33b5c4"},"id":2023,"name":"Conversing Wind"}
+{"_id":{"$oid":"56181002c04b1c633f33b5c5"},"id":2024,"name":"Rain Of Arrows"}
+{"_id":{"$oid":"56181002c04b1c633f33b5c6"},"id":2025,"name":"Telekinetic Volley"}
+{"_id":{"$oid":"56181002c04b1c633f33b5c7"},"id":2026,"name":"Bouncy Body"}
+{"_id":{"$oid":"56181002c04b1c633f33b5c8"},"id":2027,"name":"Mud Buddy"}
+{"_id":{"$oid":"56181002c04b1c633f33b5c9"},"id":2028,"name":"Endothermic Touch"}
+{"_id":{"$oid":"56181002c04b1c633f33b5ca"},"id":2029,"name":"Scale Spikes"}
+{"_id":{"$oid":"56181002c04b1c633f33b5cb"},"id":2030,"name":"Scale Spikes, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b5cc"},"id":2031,"name":"Air Breathing"}
+{"_id":{"$oid":"56181002c04b1c633f33b5cd"},"id":2032,"name":"Blood In The Water"}
+{"_id":{"$oid":"56181002c04b1c633f33b5ce"},"id":2033,"name":"Gift Of The Deep"}
+{"_id":{"$oid":"56181002c04b1c633f33b5cf"},"id":2034,"name":"Spellsteal"}
+{"_id":{"$oid":"56181002c04b1c633f33b5d0"},"id":2035,"name":"Sundered Serpent Coil"}
+{"_id":{"$oid":"56181002c04b1c633f33b5d1"},"id":2036,"name":"Curse Of Unexpected Death"}
+{"_id":{"$oid":"56181002c04b1c633f33b5d2"},"id":2037,"name":"Burdened Thoughts"}
+{"_id":{"$oid":"56181002c04b1c633f33b5d3"},"id":2038,"name":"Hollow Blades"}
+{"_id":{"$oid":"56181002c04b1c633f33b5d4"},"id":2039,"name":"Runic Overload"}
+{"_id":{"$oid":"56181002c04b1c633f33b5d5"},"id":2040,"name":"Siphon Might"}
+{"_id":{"$oid":"56181002c04b1c633f33b5d6"},"id":2041,"name":"Stone Throwing"}
+{"_id":{"$oid":"56181002c04b1c633f33b5d7"},"id":2042,"name":"Steal Size"}
+{"_id":{"$oid":"56181002c04b1c633f33b5d8"},"id":2044,"name":"Amplify Stench"}
+{"_id":{"$oid":"56181002c04b1c633f33b5d9"},"id":2043,"name":"Twisted Futures"}
+{"_id":{"$oid":"56181002c04b1c633f33b5da"},"id":2045,"name":"Mark Of The Reptile God"}
+{"_id":{"$oid":"56181002c04b1c633f33b5db"},"id":2046,"name":"Swarm Of Fangs"}
+{"_id":{"$oid":"56181002c04b1c633f33b5dc"},"id":2047,"name":"Transfer Regeneration"}
+{"_id":{"$oid":"56181002c04b1c633f33b5dd"},"id":2048,"name":"Trial Of Fire And Acid"}
+{"_id":{"$oid":"56181002c04b1c633f33b5de"},"id":2049,"name":"Callback"}
+{"_id":{"$oid":"56181002c04b1c633f33b5df"},"id":2050,"name":"Callback, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b5e0"},"id":2051,"name":"Disrupt Link"}
+{"_id":{"$oid":"56181002c04b1c633f33b5e1"},"id":2052,"name":"Duplicate Familiar"}
+{"_id":{"$oid":"56181002c04b1c633f33b5e2"},"id":2053,"name":"Empathy Conduit"}
+{"_id":{"$oid":"56181002c04b1c633f33b5e3"},"id":2054,"name":"Merge With Familiar"}
+{"_id":{"$oid":"56181002c04b1c633f33b5e4"},"id":2055,"name":"Soulswitch"}
+{"_id":{"$oid":"56181002c04b1c633f33b5e5"},"id":2056,"name":"Transfer Familiar"}
+{"_id":{"$oid":"56181002c04b1c633f33b5e6"},"id":2057,"name":"Beanstalk"}
+{"_id":{"$oid":"56181002c04b1c633f33b5e7"},"id":2058,"name":"Flaming Aura"}
+{"_id":{"$oid":"56181002c04b1c633f33b5e8"},"id":2059,"name":"Frosty Aura"}
+{"_id":{"$oid":"56181002c04b1c633f33b5e9"},"id":2060,"name":"Quick Throwing"}
+{"_id":{"$oid":"56181002c04b1c633f33b5ea"},"id":2061,"name":"Thunderous Footfalls"}
+{"_id":{"$oid":"56181002c04b1c633f33b5eb"},"id":2062,"name":"Thanatotic Fury"}
+{"_id":{"$oid":"56181002c04b1c633f33b5ec"},"id":2063,"name":"Titanic Anchoring"}
+{"_id":{"$oid":"56181002c04b1c633f33b5ed"},"id":2064,"name":"Aura Of Inviolate Ownership"}
+{"_id":{"$oid":"56181002c04b1c633f33b5ee"},"id":2065,"name":"Blade Tutor's Spirit"}
+{"_id":{"$oid":"56181002c04b1c633f33b5ef"},"id":2066,"name":"Darting Duplicate"}
+{"_id":{"$oid":"56181002c04b1c633f33b5f0"},"id":2067,"name":"Dimensional Blade"}
+{"_id":{"$oid":"56181002c04b1c633f33b5f1"},"id":2069,"name":"Instant Weapon"}
+{"_id":{"$oid":"56181002c04b1c633f33b5f2"},"id":2068,"name":"Fiery Runes"}
+{"_id":{"$oid":"56181002c04b1c633f33b5f3"},"id":2070,"name":"Reaper's Coterie"}
+{"_id":{"$oid":"56181002c04b1c633f33b5f4"},"id":2071,"name":"Rubberskin"}
+{"_id":{"$oid":"56181002c04b1c633f33b5f5"},"id":2072,"name":"Umbral Weapon"}
+{"_id":{"$oid":"56181002c04b1c633f33b5f6"},"id":2073,"name":"Vine Strike"}
+{"_id":{"$oid":"56181002c04b1c633f33b5f7"},"id":2074,"name":"Cheetah's Sprint"}
+{"_id":{"$oid":"56181002c04b1c633f33b5f8"},"id":2075,"name":"Clear Grove"}
+{"_id":{"$oid":"56181002c04b1c633f33b5f9"},"id":2076,"name":"Globe Of Tranquil Water"}
+{"_id":{"$oid":"56181002c04b1c633f33b5fa"},"id":2077,"name":"Nature's Paths"}
+{"_id":{"$oid":"56181002c04b1c633f33b5fb"},"id":2078,"name":"Oasis"}
+{"_id":{"$oid":"56181002c04b1c633f33b5fc"},"id":2079,"name":"Planar Refuge"}
+{"_id":{"$oid":"56181002c04b1c633f33b5fd"},"id":2080,"name":"Raven's Flight"}
+{"_id":{"$oid":"56181002c04b1c633f33b5fe"},"id":2081,"name":"Wild Instinct"}
+{"_id":{"$oid":"56181002c04b1c633f33b5ff"},"id":2082,"name":"Gravel Vortex"}
+{"_id":{"$oid":"56181002c04b1c633f33b600"},"id":2083,"name":"Daywalker"}
+{"_id":{"$oid":"56181002c04b1c633f33b601"},"id":2084,"name":"Plant Voice"}
+{"_id":{"$oid":"56181002c04b1c633f33b602"},"id":2085,"name":"Spore Burst"}
+{"_id":{"$oid":"56181002c04b1c633f33b603"},"id":2086,"name":"Alter Summoned Monster"}
+{"_id":{"$oid":"56181002c04b1c633f33b604"},"id":2087,"name":"Final Sacrifice"}
+{"_id":{"$oid":"56181002c04b1c633f33b605"},"id":2088,"name":"Gird Ally"}
+{"_id":{"$oid":"56181002c04b1c633f33b606"},"id":2089,"name":"Instant Restoration"}
+{"_id":{"$oid":"56181002c04b1c633f33b607"},"id":2090,"name":"Master's Escape"}
+{"_id":{"$oid":"56181002c04b1c633f33b608"},"id":2091,"name":"Master's Mutation"}
+{"_id":{"$oid":"56181002c04b1c633f33b609"},"id":2092,"name":"Summon Laborers"}
+{"_id":{"$oid":"56181002c04b1c633f33b60a"},"id":2093,"name":"Illusory Maze"}
+{"_id":{"$oid":"56181002c04b1c633f33b60b"},"id":2094,"name":"Make Lost"}
+{"_id":{"$oid":"56181002c04b1c633f33b60c"},"id":2095,"name":"Mind Maze"}
+{"_id":{"$oid":"56181002c04b1c633f33b60d"},"id":2096,"name":"Puzzle Box"}
+{"_id":{"$oid":"56181002c04b1c633f33b60e"},"id":2097,"name":"Stoke The Inner Fire"}
+{"_id":{"$oid":"56181002c04b1c633f33b60f"},"id":2098,"name":"Akashic Form"}
+{"_id":{"$oid":"56181002c04b1c633f33b610"},"id":2099,"name":"Analyze Aura"}
+{"_id":{"$oid":"56181002c04b1c633f33b611"},"id":2100,"name":"Anticipate Thoughts"}
+{"_id":{"$oid":"56181002c04b1c633f33b612"},"id":2101,"name":"Apport Object"}
+{"_id":{"$oid":"56181002c04b1c633f33b613"},"id":2102,"name":"Apport Animal"}
+{"_id":{"$oid":"56181002c04b1c633f33b614"},"id":2103,"name":"Aura Alteration"}
+{"_id":{"$oid":"56181002c04b1c633f33b615"},"id":2104,"name":"Drain Poison"}
+{"_id":{"$oid":"56181002c04b1c633f33b616"},"id":2105,"name":"Garden Of Peril"}
+{"_id":{"$oid":"56181002c04b1c633f33b617"},"id":2106,"name":"Invigorating Poison"}
+{"_id":{"$oid":"56181002c04b1c633f33b618"},"id":2107,"name":"Neutralize Poison, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b619"},"id":2108,"name":"Poison Breath"}
+{"_id":{"$oid":"56181002c04b1c633f33b61a"},"id":2109,"name":"Sword To Snake"}
+{"_id":{"$oid":"56181002c04b1c633f33b61b"},"id":2110,"name":"Toxic Rupture"}
+{"_id":{"$oid":"56181002c04b1c633f33b61c"},"id":2111,"name":"Venomous Bite"}
+{"_id":{"$oid":"56181002c04b1c633f33b61d"},"id":2112,"name":"Blend With Surroundings"}
+{"_id":{"$oid":"56181002c04b1c633f33b61e"},"id":2113,"name":"Body Double"}
+{"_id":{"$oid":"56181002c04b1c633f33b61f"},"id":2114,"name":"Grasping Tentacles"}
+{"_id":{"$oid":"56181002c04b1c633f33b620"},"id":2115,"name":"Grease, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b621"},"id":2116,"name":"Hide Weapon"}
+{"_id":{"$oid":"56181002c04b1c633f33b622"},"id":2117,"name":"Selective Invisibility"}
+{"_id":{"$oid":"56181002c04b1c633f33b623"},"id":2118,"name":"Sense Vitals"}
+{"_id":{"$oid":"56181002c04b1c633f33b624"},"id":2120,"name":"Aversion"}
+{"_id":{"$oid":"56181002c04b1c633f33b625"},"id":2121,"name":"Awaken Construct"}
+{"_id":{"$oid":"56181002c04b1c633f33b626"},"id":2122,"name":"Babble"}
+{"_id":{"$oid":"56181002c04b1c633f33b627"},"id":2119,"name":"Shifting Shadows"}
+{"_id":{"$oid":"56181002c04b1c633f33b628"},"id":2123,"name":"Bilocation"}
+{"_id":{"$oid":"56181002c04b1c633f33b629"},"id":2124,"name":"Burst Of Adrenaline"}
+{"_id":{"$oid":"56181002c04b1c633f33b62a"},"id":2126,"name":"Call Spirit"}
+{"_id":{"$oid":"56181002c04b1c633f33b62b"},"id":2125,"name":"Burst Of Insight"}
+{"_id":{"$oid":"56181002c04b1c633f33b62c"},"id":2127,"name":"Calm Spirit"}
+{"_id":{"$oid":"56181002c04b1c633f33b62d"},"id":2128,"name":"Catatonia"}
+{"_id":{"$oid":"56181002c04b1c633f33b62e"},"id":2129,"name":"Charge Object"}
+{"_id":{"$oid":"56181002c04b1c633f33b62f"},"id":2130,"name":"Cognitive Block"}
+{"_id":{"$oid":"56181002c04b1c633f33b630"},"id":2131,"name":"Beloved Of The Forge"}
+{"_id":{"$oid":"56181002c04b1c633f33b631"},"id":2132,"name":"Blessing Of Liberty"}
+{"_id":{"$oid":"56181002c04b1c633f33b632"},"id":2133,"name":"Harmless Form"}
+{"_id":{"$oid":"56181002c04b1c633f33b633"},"id":2134,"name":"Harvest Season"}
+{"_id":{"$oid":"56181002c04b1c633f33b634"},"id":2135,"name":"Wall Of Clockwork"}
+{"_id":{"$oid":"56181002c04b1c633f33b635"},"id":2136,"name":"Cloak Of Secrets"}
+{"_id":{"$oid":"56181002c04b1c633f33b636"},"id":2137,"name":"Coin Shot"}
+{"_id":{"$oid":"56181002c04b1c633f33b637"},"id":2138,"name":"Ears Of The City"}
+{"_id":{"$oid":"56181002c04b1c633f33b638"},"id":2139,"name":"Illusory Crowd"}
+{"_id":{"$oid":"56181002c04b1c633f33b639"},"id":2140,"name":"Locksight"}
+{"_id":{"$oid":"56181002c04b1c633f33b63a"},"id":2141,"name":"Peace Bond"}
+{"_id":{"$oid":"56181002c04b1c633f33b63b"},"id":2142,"name":"Secret Coffer"}
+{"_id":{"$oid":"56181002c04b1c633f33b63c"},"id":2143,"name":"Speak Local Language"}
+{"_id":{"$oid":"56181002c04b1c633f33b63d"},"id":2144,"name":"Aversion"}
+{"_id":{"$oid":"56181002c04b1c633f33b63e"},"id":2145,"name":"Awaken Construct"}
+{"_id":{"$oid":"56181002c04b1c633f33b63f"},"id":2146,"name":"Babble"}
+{"_id":{"$oid":"56181002c04b1c633f33b640"},"id":2147,"name":"Bilocation"}
+{"_id":{"$oid":"56181002c04b1c633f33b641"},"id":2148,"name":"Burst Of Adrenaline"}
+{"_id":{"$oid":"56181002c04b1c633f33b642"},"id":2149,"name":"Burst Of Insight"}
+{"_id":{"$oid":"56181002c04b1c633f33b643"},"id":2150,"name":"Call Spirit"}
+{"_id":{"$oid":"56181002c04b1c633f33b644"},"id":2151,"name":"Calm Spirit"}
+{"_id":{"$oid":"56181002c04b1c633f33b645"},"id":2152,"name":"Catatonia"}
+{"_id":{"$oid":"56181002c04b1c633f33b646"},"id":2153,"name":"Charge Object"}
+{"_id":{"$oid":"56181002c04b1c633f33b647"},"id":2154,"name":"Cognitive Block"}
+{"_id":{"$oid":"56181002c04b1c633f33b648"},"id":2155,"name":"Condensed Ether"}
+{"_id":{"$oid":"56181002c04b1c633f33b649"},"id":2156,"name":"Contagious Zeal"}
+{"_id":{"$oid":"56181002c04b1c633f33b64a"},"id":2157,"name":"Create Mindscape"}
+{"_id":{"$oid":"56181002c04b1c633f33b64b"},"id":2158,"name":"Create Mindscape, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b64c"},"id":2159,"name":"Decrepit Disguise"}
+{"_id":{"$oid":"56181002c04b1c633f33b64d"},"id":2160,"name":"Deja Vu"}
+{"_id":{"$oid":"56181002c04b1c633f33b64e"},"id":2161,"name":"Demand Offering"}
+{"_id":{"$oid":"56181002c04b1c633f33b64f"},"id":2162,"name":"Detect Mindscape"}
+{"_id":{"$oid":"56181002c04b1c633f33b650"},"id":2163,"name":"Detect Psychic Significance"}
+{"_id":{"$oid":"56181002c04b1c633f33b651"},"id":2164,"name":"Divide Mind"}
+{"_id":{"$oid":"56181002c04b1c633f33b652"},"id":2165,"name":"Dream Council"}
+{"_id":{"$oid":"56181002c04b1c633f33b653"},"id":2166,"name":"Dream Scan"}
+{"_id":{"$oid":"56181002c04b1c633f33b654"},"id":2167,"name":"Dream Travel"}
+{"_id":{"$oid":"56181002c04b1c633f33b655"},"id":2168,"name":"Dream Voyage"}
+{"_id":{"$oid":"56181002c04b1c633f33b656"},"id":2169,"name":"Ectoplasmic Eruption"}
+{"_id":{"$oid":"56181002c04b1c633f33b657"},"id":2170,"name":"Ectoplasmic Snare"}
+{"_id":{"$oid":"56181002c04b1c633f33b658"},"id":2171,"name":"Ego Whip I"}
+{"_id":{"$oid":"56181002c04b1c633f33b659"},"id":2172,"name":"Ego Whip II"}
+{"_id":{"$oid":"56181002c04b1c633f33b65a"},"id":2173,"name":"Ego Whip III"}
+{"_id":{"$oid":"56181002c04b1c633f33b65b"},"id":2174,"name":"Ego Whip IV"}
+{"_id":{"$oid":"56181002c04b1c633f33b65c"},"id":2175,"name":"Ego Whip V"}
+{"_id":{"$oid":"56181002c04b1c633f33b65d"},"id":2176,"name":"Emotive Block"}
+{"_id":{"$oid":"56181002c04b1c633f33b65e"},"id":2177,"name":"Enshroud Thoughts"}
+{"_id":{"$oid":"56181002c04b1c633f33b65f"},"id":2178,"name":"Entrap Spirit"}
+{"_id":{"$oid":"56181002c04b1c633f33b660"},"id":2179,"name":"Erase Impressions"}
+{"_id":{"$oid":"56181002c04b1c633f33b661"},"id":2180,"name":"Ethereal Envelope"}
+{"_id":{"$oid":"56181002c04b1c633f33b662"},"id":2181,"name":"Ethereal Envelopment"}
+{"_id":{"$oid":"56181002c04b1c633f33b663"},"id":2182,"name":"Ethereal Fists"}
+{"_id":{"$oid":"56181002c04b1c633f33b664"},"id":2183,"name":"Etheric Shards"}
+{"_id":{"$oid":"56181002c04b1c633f33b665"},"id":2184,"name":"Explode Head"}
+{"_id":{"$oid":"56181002c04b1c633f33b666"},"id":2185,"name":"Foster Hatred"}
+{"_id":{"$oid":"56181002c04b1c633f33b667"},"id":2186,"name":"Ghost Whip"}
+{"_id":{"$oid":"56181002c04b1c633f33b668"},"id":2187,"name":"Grave Words"}
+{"_id":{"$oid":"56181002c04b1c633f33b669"},"id":2188,"name":"Hypercognition"}
+{"_id":{"$oid":"56181002c04b1c633f33b66a"},"id":2189,"name":"Id Insinuation I"}
+{"_id":{"$oid":"56181002c04b1c633f33b66b"},"id":2190,"name":"Id Insinuation II"}
+{"_id":{"$oid":"56181002c04b1c633f33b66c"},"id":2191,"name":"Id Insinuation III"}
+{"_id":{"$oid":"56181002c04b1c633f33b66d"},"id":2192,"name":"Id Insinuation IV"}
+{"_id":{"$oid":"56181002c04b1c633f33b66e"},"id":2193,"name":"Implant False Reading"}
+{"_id":{"$oid":"56181002c04b1c633f33b66f"},"id":2194,"name":"Incorporeal Chains"}
+{"_id":{"$oid":"56181002c04b1c633f33b670"},"id":2195,"name":"Inflict Pain"}
+{"_id":{"$oid":"56181002c04b1c633f33b671"},"id":2196,"name":"Inflict Pain, Mass"}
+{"_id":{"$oid":"56181002c04b1c633f33b672"},"id":2197,"name":"Instigate Psychic Duel"}
+{"_id":{"$oid":"56181002c04b1c633f33b673"},"id":2198,"name":"Intellect Fortress I"}
+{"_id":{"$oid":"56181002c04b1c633f33b674"},"id":2199,"name":"Intellect Fortress II"}
+{"_id":{"$oid":"56181002c04b1c633f33b675"},"id":2200,"name":"Intellect Fortress III"}
+{"_id":{"$oid":"56181002c04b1c633f33b676"},"id":2201,"name":"Mental Barrier I"}
+{"_id":{"$oid":"56181002c04b1c633f33b677"},"id":2202,"name":"Mental Barrier II"}
+{"_id":{"$oid":"56181002c04b1c633f33b678"},"id":2203,"name":"Mental Barrier III"}
+{"_id":{"$oid":"56181002c04b1c633f33b679"},"id":2204,"name":"Mental Barrier IV"}
+{"_id":{"$oid":"56181002c04b1c633f33b67a"},"id":2205,"name":"Mental Barrier V"}
+{"_id":{"$oid":"56181002c04b1c633f33b67b"},"id":2206,"name":"Mental Block"}
+{"_id":{"$oid":"56181002c04b1c633f33b67c"},"id":2207,"name":"Microcosm"}
+{"_id":{"$oid":"56181002c04b1c633f33b67d"},"id":2208,"name":"Mind Probe"}
+{"_id":{"$oid":"56181002c04b1c633f33b67e"},"id":2209,"name":"Mind Swap"}
+{"_id":{"$oid":"56181002c04b1c633f33b67f"},"id":2210,"name":"Mind Swap, Major"}
+{"_id":{"$oid":"56181002c04b1c633f33b680"},"id":2211,"name":"Mind Thrust I"}
+{"_id":{"$oid":"56181002c04b1c633f33b681"},"id":2212,"name":"Mind Thrust II"}
+{"_id":{"$oid":"56181002c04b1c633f33b682"},"id":2213,"name":"Mind Thrust III"}
+{"_id":{"$oid":"56181002c04b1c633f33b683"},"id":2214,"name":"Mind Thrust IV"}
+{"_id":{"$oid":"56181002c04b1c633f33b684"},"id":2215,"name":"Mind Thrust V"}
+{"_id":{"$oid":"56181002c04b1c633f33b685"},"id":2216,"name":"Mind Thrust VI"}
+{"_id":{"$oid":"56181002c04b1c633f33b686"},"id":2217,"name":"Mindlink"}
+{"_id":{"$oid":"56181002c04b1c633f33b687"},"id":2218,"name":"Mindscape Door"}
+{"_id":{"$oid":"56181002c04b1c633f33b688"},"id":2219,"name":"Mindwipe"}
+{"_id":{"$oid":"56181002c04b1c633f33b689"},"id":2220,"name":"Node Of Blasting"}
+{"_id":{"$oid":"56181002c04b1c633f33b68a"},"id":2221,"name":"Object Possession"}
+{"_id":{"$oid":"56181002c04b1c633f33b68b"},"id":2222,"name":"Object Possession, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b68c"},"id":2223,"name":"Object Possession, Lesser"}
+{"_id":{"$oid":"56181002c04b1c633f33b68d"},"id":2224,"name":"Object Reading"}
+{"_id":{"$oid":"56181002c04b1c633f33b68e"},"id":2225,"name":"Oneiric Horror"}
+{"_id":{"$oid":"56181002c04b1c633f33b68f"},"id":2226,"name":"Oneiric Horror, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b690"},"id":2227,"name":"Paranoia"}
+{"_id":{"$oid":"56181002c04b1c633f33b691"},"id":2228,"name":"Parchment Swarm"}
+{"_id":{"$oid":"56181002c04b1c633f33b692"},"id":2229,"name":"Placebo Effect"}
+{"_id":{"$oid":"56181002c04b1c633f33b693"},"id":2230,"name":"Possession"}
+{"_id":{"$oid":"56181002c04b1c633f33b694"},"id":2231,"name":"Possession, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b695"},"id":2232,"name":"Primal Regression"}
+{"_id":{"$oid":"56181002c04b1c633f33b696"},"id":2233,"name":"Psychic Asylum"}
+{"_id":{"$oid":"56181002c04b1c633f33b697"},"id":2234,"name":"Psychic Crush I"}
+{"_id":{"$oid":"56181002c04b1c633f33b698"},"id":2235,"name":"Psychic Crush II"}
+{"_id":{"$oid":"56181002c04b1c633f33b699"},"id":2236,"name":"Psychic Crush III"}
+{"_id":{"$oid":"56181002c04b1c633f33b69a"},"id":2237,"name":"Psychic Crush IV"}
+{"_id":{"$oid":"56181002c04b1c633f33b69b"},"id":2238,"name":"Psychic Crush V"}
+{"_id":{"$oid":"56181002c04b1c633f33b69c"},"id":2239,"name":"Psychic Image"}
+{"_id":{"$oid":"56181002c04b1c633f33b69d"},"id":2240,"name":"Psychic Reading"}
+{"_id":{"$oid":"56181002c04b1c633f33b69e"},"id":2241,"name":"Psychic Surgery"}
+{"_id":{"$oid":"56181002c04b1c633f33b69f"},"id":2242,"name":"Purge Spirit"}
+{"_id":{"$oid":"56181002c04b1c633f33b6a0"},"id":2243,"name":"Quintessence"}
+{"_id":{"$oid":"56181002c04b1c633f33b6a1"},"id":2244,"name":"Remote Viewing"}
+{"_id":{"$oid":"56181002c04b1c633f33b6a2"},"id":2245,"name":"Repress Memory"}
+{"_id":{"$oid":"56181002c04b1c633f33b6a3"},"id":2246,"name":"Retrocognition"}
+{"_id":{"$oid":"56181002c04b1c633f33b6a4"},"id":2247,"name":"Riding Possession"}
+{"_id":{"$oid":"56181002c04b1c633f33b6a5"},"id":2248,"name":"Sealed Life"}
+{"_id":{"$oid":"56181002c04b1c633f33b6a6"},"id":2249,"name":"Sealed Life, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b6a7"},"id":2250,"name":"Sessile Spirit"}
+{"_id":{"$oid":"56181002c04b1c633f33b6a8"},"id":2251,"name":"Shadow Body"}
+{"_id":{"$oid":"56181002c04b1c633f33b6a9"},"id":2252,"name":"Spirit-Bound Blade"}
+{"_id":{"$oid":"56181002c04b1c633f33b6aa"},"id":2253,"name":"Synapse Overload"}
+{"_id":{"$oid":"56181002c04b1c633f33b6ab"},"id":2254,"name":"Synaptic Pulse"}
+{"_id":{"$oid":"56181002c04b1c633f33b6ac"},"id":2255,"name":"Synaptic Pulse, Greater"}
+{"_id":{"$oid":"56181002c04b1c633f33b6ad"},"id":2256,"name":"Synaptic Scramble"}
+{"_id":{"$oid":"56181002c04b1c633f33b6ae"},"id":2257,"name":"Synesthesia"}
+{"_id":{"$oid":"56181002c04b1c633f33b6af"},"id":2258,"name":"Synesthesia, Mass"}
+{"_id":{"$oid":"56181002c04b1c633f33b6b0"},"id":2259,"name":"Talismanic Implement"}
+{"_id":{"$oid":"56181002c04b1c633f33b6b1"},"id":2260,"name":"Telekinetic Maneuver"}
+{"_id":{"$oid":"56181002c04b1c633f33b6b2"},"id":2261,"name":"Telekinetic Projectile"}
+{"_id":{"$oid":"56181002c04b1c633f33b6b3"},"id":2262,"name":"Telekinetic Storm"}
+{"_id":{"$oid":"56181002c04b1c633f33b6b4"},"id":2263,"name":"Telempathic Projection"}
+{"_id":{"$oid":"56181002c04b1c633f33b6b5"},"id":2264,"name":"Telepathy"}
+{"_id":{"$oid":"56181002c04b1c633f33b6b6"},"id":2265,"name":"Thaumaturgic Circle"}
+{"_id":{"$oid":"56181002c04b1c633f33b6b7"},"id":2266,"name":"Thought Echo"}
+{"_id":{"$oid":"56181002c04b1c633f33b6b8"},"id":2267,"name":"Thought Shield I"}
+{"_id":{"$oid":"56181002c04b1c633f33b6b9"},"id":2268,"name":"Thought Shield II"}
+{"_id":{"$oid":"56181002c04b1c633f33b6ba"},"id":2269,"name":"Thought Shield III"}
+{"_id":{"$oid":"56181002c04b1c633f33b6bb"},"id":2271,"name":"Thought Shield V"}
+{"_id":{"$oid":"56181002c04b1c633f33b6bc"},"id":2270,"name":"Thought Shield IV"}
+{"_id":{"$oid":"56181002c04b1c633f33b6bd"},"id":2272,"name":"Thoughtsense"}
+{"_id":{"$oid":"56181002c04b1c633f33b6be"},"id":2273,"name":"Tower Of Iron Will I"}
+{"_id":{"$oid":"56181002c04b1c633f33b6bf"},"id":2274,"name":"Tower Of Iron Will II"}
+{"_id":{"$oid":"56181002c04b1c633f33b6c0"},"id":2275,"name":"Tower Of Iron Will III"}
+{"_id":{"$oid":"56181002c04b1c633f33b6c1"},"id":2276,"name":"Tower Of Iron Will IV"}
+{"_id":{"$oid":"56181002c04b1c633f33b6c2"},"id":2277,"name":"Tower Of Iron Will V"}
+{"_id":{"$oid":"56181002c04b1c633f33b6c3"},"id":2278,"name":"Unshakable Zeal"}
+{"_id":{"$oid":"56181002c04b1c633f33b6c4"},"id":2279,"name":"Wall Of Ectoplasm"}
+{"_id":{"$oid":"56181002c04b1c633f33b6c5"},"id":2280,"name":"Withdraw Affliction"}

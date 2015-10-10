@@ -1,5 +1,6 @@
 //Drop null fields
-var cursor = db.spells.find()
+var coll = db.spells
+var cursor = coll.find()
 
 while (cursor.hasNext()) {
     var doc = cursor.next();
@@ -18,7 +19,9 @@ while (cursor.hasNext()) {
 
 
 //Drop extranious data
-var cursor = db.spells.find()
+
+var coll = db.spells
+var cursor = coll.find()
 
 while (cursor.hasNext()) {
     var doc = cursor.next();
@@ -35,4 +38,24 @@ while (cursor.hasNext()) {
     }
 }
 
+//Create list of spell names
+db.spells.copyTo("spell_names")
+
+var coll = db.spell_names
+var cursor = coll.find()
+
+while (cursor.hasNext()) {
+    var doc = cursor.next();
+    var keys = {};
+    var hasDescriptor = false;
+    for ( var x in doc) {
+        if (x != "name" && x != "_id" && x != "id") {
+            keys[x] = 1;
+            hasNull = true;
+        }
+    }
+    if (hasNull) {
+        coll.update({_id: doc._id}, {$unset:keys});
+    }
+}
 
