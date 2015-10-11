@@ -15,7 +15,7 @@ router.get('/spells', function(req, res){
 
 		var spellCollection = db.collection('spells')
 		if (params) {
-		spellCollection.find(params).toArray(function(err, docs){
+		spellCollection.find(params).limit(1).toArray(function(err, docs){
 			if (err) res.send(err)
 
 			res.json(docs)

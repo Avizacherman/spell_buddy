@@ -5,6 +5,14 @@ var App = React.createClass({
 	getInitialState: function() {
     return {spell: []}
 	},
+	componentWillMount: function() {
+	    if(location.hash != ""){
+  			var hashSpell = location.hash.replace(/#/, '');
+  			$.get('/api/spells', {name: hashSpell}).done((data)=>
+  			this.setState({spell: data})
+  		)  
+  	}
+	},
 	updateCurrentSpell: function(spellName){
 		$.get('/api/spells', {name: spellName}, function(data){
 			this.setState({spell: data})
