@@ -3,10 +3,12 @@ var SearchBar = require('../../components/jsx/searchbar.jsx')
 
 var App = React.createClass({
 	getInitialState: function() {
-    this.setState({spell: []})
+    return {spell: []}
 	},
 	updateCurrentSpell: function(spellName){
-		
+		$.get('/api/spells', {name: spellName}, function(data){
+			this.setState({spell: data})
+		}.bind(this))
 	},
 	render: function(){
 		return(
@@ -14,7 +16,7 @@ var App = React.createClass({
 			<img id="logo" src="../img/spell-buddy.png"/>
 			<h1 className="wizard-script"> 	Spell Buddy </h1>
 			<SearchBar updateCurrentSpell={this.updateCurrentSpell}/>
-			<SpellDescription/>
+			<SpellDescription currentSpell={this.state.spell}/>
 			</div>
 			)
 	}

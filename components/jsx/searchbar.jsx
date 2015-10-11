@@ -15,10 +15,14 @@ var SearchBar = React.createClass({
 			}
 		})
 	},
+	findSpell: function(){
+		var spellName = $(this._searchBarInput).val()
+		this.props.updateCurrentSpell(spellName)
+	},
 	render: function(){
 		return (<div>
 			<input id="search-bar" ref={(c)=> this._searchBarInput = c}/>
-			<button id="search-button" className="btn btn-success">Search</button>
+			<button id="search-button" className="btn btn-success" onClick={this.findSpell}>Search</button>
 			</div>
 			)
 	}

@@ -4,10 +4,12 @@ var SearchBar = require('../../components/jsx/searchbar.jsx')
 
 var App = React.createClass({displayName: "App",
 	getInitialState: function() {
-    this.setState({spell: []})
+    return {spell: []}
 	},
 	updateCurrentSpell: function(spellName){
-		
+		$.get('/api/spells', {name: spellName}, function(data){
+			this.setState({spell: data})
+		}.bind(this))
 	},
 	render: function(){
 		return(
@@ -15,7 +17,7 @@ var App = React.createClass({displayName: "App",
 			React.createElement("img", {id: "logo", src: "../img/spell-buddy.png"}), 
 			React.createElement("h1", {className: "wizard-script"}, "  Spell Buddy "), 
 			React.createElement(SearchBar, {updateCurrentSpell: this.updateCurrentSpell}), 
-			React.createElement(SpellDescription, null)
+			React.createElement(SpellDescription, {currentSpell: this.state.spell})
 			)
 			)
 	}
@@ -41,10 +43,14 @@ var SearchBar = React.createClass({displayName: "SearchBar",
 			}
 		})
 	},
+	findSpell: function(){
+		var spellName = $(this._searchBarInput).val()
+		this.props.updateCurrentSpell(spellName)
+	},
 	render: function(){
 		return (React.createElement("div", null, 
 			React.createElement("input", {id: "search-bar", ref: (c)=> this._searchBarInput = c}), 
-			React.createElement("button", {id: "search-button", className: "btn btn-success"}, "Search")
+			React.createElement("button", {id: "search-button", className: "btn btn-success", onClick: this.findSpell}, "Search")
 			)
 			)
 	}
@@ -55,7 +61,14 @@ module.exports = SearchBar
 },{"jquery":5,"typeahead":171}],3:[function(require,module,exports){
 var SpellDescription = React.createClass({displayName: "SpellDescription",
 	render: function(){
-		return null
+		if(this.props.currentSpell[0]){
+		var spell = this.props.currentSpell[0]
+		return (
+		React.createElement("h3", null, " ", spell.name, " ")
+			)
+		} else {
+			return null
+		}
 	}
 })
 
