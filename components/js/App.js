@@ -5,9 +5,14 @@ var App = React.createClass({
 
 	render: function render() {
 		return React.createElement(
-			"h1",
+			"div",
 			null,
-			" Welcome to Spell Buddy, Dude "
+			React.createElement("img", { id: "logo", src: "../img/spell-buddy.png" }),
+			React.createElement(
+				"h1",
+				null,
+				" Welcome to Spell Buddy, Dude "
+			)
 		);
 	}
 });
