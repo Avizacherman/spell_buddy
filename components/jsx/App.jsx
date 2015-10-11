@@ -1,7 +1,6 @@
 var SpellDescription = require('../../components/jsx/spelldescription.jsx')
 var SearchBar = require('../../components/jsx/searchbar.jsx')
 
-
 var App = React.createClass({
 	render: function(){
 		return(

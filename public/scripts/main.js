@@ -1,13 +1,11 @@
-var $ = require('jquery');
+window.$ = window.jQuery = require('jquery');
 
 //weird bug where declaring with var leads to React being undefined
 React = require('react');
 var ReactDOM = require('react-dom');
-var SpellDescription = require('../../components/jsx/spelldescription.jsx')
-var SearchBar = require('../../components/jsx/searchbar.jsx')
+require('bootstrap-sass');
 
-
-var App = require('../../components/js/App');
+var App = require('../../components/jsx/App.jsx');
 
 
 $(document).ready(function(){
