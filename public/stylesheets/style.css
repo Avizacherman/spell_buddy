@@ -5,6 +5,7 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+@import url(https://fonts.googleapis.com/css?family=Bangers);
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -5795,6 +5796,13 @@ button.close {
 @media print {
   .hidden-print {
     display: none !important; } }
+.wizard-script {
+  font-family: Bangers, cursive; }
+
+#search-bar {
+  margin-right: 1%;
+  width: 25%; }
+
 #logo {
   height: 163px;
   width: 142px; }
@@ -5834,5 +5842,8 @@ button.close {
 
 .typeahead.hidden {
   display: none; }
+
+button#search-button {
+  margin-left: 1%; }
 
 /*# sourceMappingURL=style.css.map */

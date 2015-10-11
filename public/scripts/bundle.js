@@ -3,12 +3,18 @@ var SpellDescription = require('../../components/jsx/spelldescription.jsx')
 var SearchBar = require('../../components/jsx/searchbar.jsx')
 
 var App = React.createClass({displayName: "App",
+	getInitialState: function() {
+    this.setState({spell: []})
+	},
+	updateCurrentSpell: function(spellName){
+		
+	},
 	render: function(){
 		return(
-			React.createElement("div", null, 
+			React.createElement("div", {className: "text-center"}, 
 			React.createElement("img", {id: "logo", src: "../img/spell-buddy.png"}), 
-			React.createElement("h1", null, " Welcome to Spell Buddy, Dude "), 
-			React.createElement(SearchBar, null), 
+			React.createElement("h1", {className: "wizard-script"}, "  Spell Buddy "), 
+			React.createElement(SearchBar, {updateCurrentSpell: this.updateCurrentSpell}), 
 			React.createElement(SpellDescription, null)
 			)
 			)
@@ -37,7 +43,8 @@ var SearchBar = React.createClass({displayName: "SearchBar",
 	},
 	render: function(){
 		return (React.createElement("div", null, 
-			React.createElement("input", {ref: (c)=> this._searchBarInput = c})
+			React.createElement("input", {id: "search-bar", ref: (c)=> this._searchBarInput = c}), 
+			React.createElement("button", {id: "search-button", className: "btn btn-success"}, "Search")
 			)
 			)
 	}

@@ -17,7 +17,8 @@ var SearchBar = React.createClass({
 	},
 	render: function(){
 		return (<div>
-			<input ref={(c)=> this._searchBarInput = c}/>
+			<input id="search-bar" ref={(c)=> this._searchBarInput = c}/>
+			<button id="search-button" className="btn btn-success">Search</button>
 			</div>
 			)
 	}
