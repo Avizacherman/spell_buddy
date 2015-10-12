@@ -32085,20 +32085,17 @@ proto.mouseenter = function (e) {
 module.exports = Typeahead;
 
 },{"dom":162,"xtend":170}],172:[function(require,module,exports){
+"use strict";
 window.$ = window.jQuery = require('jquery');
-
-//weird bug where declaring with var leads to React being undefined
 React = require('react');
 var ReactDOM = require('react-dom');
 require('bootstrap-sass');
-
 var App = require('../../components/jsx/App.jsx');
-
-
-$(document).ready(function(){
-ReactDOM.render(React.createElement(App, null), document.getElementById('content'));
+$(document).ready(function() {
+  ReactDOM.render(React.createElement(App, null), document.getElementById('content'));
 });
 
+//# sourceURL=/Users/AviZacherman/dev/spell_buddy/public/scripts/main.js
 },{"../../components/jsx/App.jsx":1,"bootstrap-sass":4,"jquery":5,"react":161,"react-dom":6}],173:[function(require,module,exports){
 // shim for using process in browser
 
