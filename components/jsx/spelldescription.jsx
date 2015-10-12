@@ -53,7 +53,7 @@ var SpellDescription = React.createClass({
 					</span> 
 						{spell.duration} 
 				</div>
-				<div className="col-sm-3">
+				<div className="col-sm-6">
 					<span className="category"> 
 						components: {sp}
 					</span> 
@@ -61,12 +61,7 @@ var SpellDescription = React.createClass({
 				</div>			
 			</div>
 			<div className="row">
-				<div className="col-sm-6">
-					<span className="category">
-						targets: {sp}
-					</span>
-						{spell.targets}
-				</div>
+				<AreaOrTargets spell={spell}/>
 				<div className="col-sm-6">
 					<span className="category">
 						range: {sp}
@@ -131,5 +126,32 @@ var Descriptor = React.createClass({
 		}
 	}
 })
+var AreaOrTargets = React.createClass({
+	render: function(){
+		if(this.props.spell.area){
+			return(
+				<div className="col-sm-6">
+					<span className="category">
+						Area: {sp}
+					</span>
+						{this.props.spell.area}
+				</div>
+			)			
+		} else if (this.props.spell.targets) {
+			return (
+				<div className="col-sm-6">
+					<span className="category">
+						Targets: {sp}
+					</span>
+						{this.props.spell.targets}
+				</div>
+				)
+		} else {
+			return null
+		}
+
+	}
+})
+
 
 module.exports = SpellDescription

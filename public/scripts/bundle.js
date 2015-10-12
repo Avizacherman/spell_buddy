@@ -81,7 +81,7 @@ var SpellDescription = React.createClass({ displayName: "SpellDescription",
 		if (this.props.currentSpell[0]) {
 			var spell = this.props.currentSpell[0];
 
-			return React.createElement("div", { className: "description-box" }, React.createElement("h2", { className: "category" }, " ", spell.name, " "), React.createElement(LevelLabels, { spellLevels: spell.spell_level.split(', ') }), React.createElement("br", null), React.createElement("div", { className: "row" }, React.createElement("h4", null, React.createElement("div", { className: "col-sm-4" }, React.createElement("span", { className: "category" }, "School: ", sp), spell.school, sp, " ", sp), React.createElement(Subschool, { spell: spell }), React.createElement(Descriptor, { spell: spell }))), React.createElement("div", { className: "row" }, React.createElement("div", { className: "col-sm-3" }, React.createElement("span", { className: "category" }, "Saving Throw: ", sp), spell.saving_throw, sp, " ", sp), React.createElement("div", { className: "col-sm-3" }, React.createElement("span", { className: "category" }, "Spell Resistance: ", sp), spell.spell_resistence)), React.createElement("div", { className: "row" }, React.createElement("div", { className: "col-sm-3" }, React.createElement("span", { className: "category" }, "Casting Time: ", sp), spell.casting_time), React.createElement("div", { className: "col-sm-3" }, React.createElement("span", { className: "category" }, "Duration: ", sp), spell.duration), React.createElement("div", { className: "col-sm-3" }, React.createElement("span", { className: "category" }, "components: ", sp), spell.components)), React.createElement("div", { className: "row" }, React.createElement("div", { className: "col-sm-6" }, React.createElement("span", { className: "category" }, "targets: ", sp), spell.targets), React.createElement("div", { className: "col-sm-6" }, React.createElement("span", { className: "category" }, "range: ", sp), spell.range)), React.createElement("div", { className: "row" }, React.createElement("br", null), spell.description));
+			return React.createElement("div", { className: "description-box" }, React.createElement("h2", { className: "category" }, " ", spell.name, " "), React.createElement(LevelLabels, { spellLevels: spell.spell_level.split(', ') }), React.createElement("br", null), React.createElement("div", { className: "row" }, React.createElement("h4", null, React.createElement("div", { className: "col-sm-4" }, React.createElement("span", { className: "category" }, "School: ", sp), spell.school, sp, " ", sp), React.createElement(Subschool, { spell: spell }), React.createElement(Descriptor, { spell: spell }))), React.createElement("div", { className: "row" }, React.createElement("div", { className: "col-sm-3" }, React.createElement("span", { className: "category" }, "Saving Throw: ", sp), spell.saving_throw, sp, " ", sp), React.createElement("div", { className: "col-sm-3" }, React.createElement("span", { className: "category" }, "Spell Resistance: ", sp), spell.spell_resistence)), React.createElement("div", { className: "row" }, React.createElement("div", { className: "col-sm-3" }, React.createElement("span", { className: "category" }, "Casting Time: ", sp), spell.casting_time), React.createElement("div", { className: "col-sm-3" }, React.createElement("span", { className: "category" }, "Duration: ", sp), spell.duration), React.createElement("div", { className: "col-sm-6" }, React.createElement("span", { className: "category" }, "components: ", sp), spell.components)), React.createElement("div", { className: "row" }, React.createElement(AreaOrTargets, { spell: spell }), React.createElement("div", { className: "col-sm-6" }, React.createElement("span", { className: "category" }, "range: ", sp), spell.range)), React.createElement("div", { className: "row" }, React.createElement("br", null), spell.description));
 		} else {
 			return null;
 		}
@@ -112,6 +112,17 @@ var Descriptor = React.createClass({ displayName: "Descriptor",
 	render: function render() {
 		if (this.props.spell.descriptor) {
 			return React.createElement("div", { className: "col-sm-4" }, React.createElement("span", { className: "category" }, "Descriptor: ", sp), this.props.spell.descriptor, sp, " ", sp);
+		} else {
+			return null;
+		}
+	}
+});
+var AreaOrTargets = React.createClass({ displayName: "AreaOrTargets",
+	render: function render() {
+		if (this.props.spell.area) {
+			return React.createElement("div", { className: "col-sm-6" }, React.createElement("span", { className: "category" }, "Area: ", sp), this.props.spell.area);
+		} else if (this.props.spell.targets) {
+			return React.createElement("div", { className: "col-sm-6" }, React.createElement("span", { className: "category" }, "Targets: ", sp), this.props.spell.targets);
 		} else {
 			return null;
 		}
