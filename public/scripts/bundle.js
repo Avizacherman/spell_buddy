@@ -1,6 +1,7 @@
 (function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require=="function"&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);var f=new Error("Cannot find module '"+o+"'");throw f.code="MODULE_NOT_FOUND",f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require=="function"&&require;for(var o=0;o<r.length;o++)s(r[o]);return s})({1:[function(require,module,exports){
 'use strict';
 
+var React = require('react');
 var SpellDescription = require('../../components/jsx/spelldescription.jsx');
 var SearchBar = require('../../components/jsx/searchbar.jsx');
 
@@ -30,9 +31,10 @@ var App = React.createClass({ displayName: "App",
 
 module.exports = App;
 
-},{"../../components/jsx/searchbar.jsx":2,"../../components/jsx/spelldescription.jsx":3}],2:[function(require,module,exports){
+},{"../../components/jsx/searchbar.jsx":2,"../../components/jsx/spelldescription.jsx":3,"react":161}],2:[function(require,module,exports){
 'use strict';
 
+var React = require('react');
 var Typeahead = require('typeahead');
 var $ = require('jquery');
 
@@ -65,9 +67,10 @@ var SearchBar = React.createClass({ displayName: "SearchBar",
 
 module.exports = SearchBar;
 
-},{"jquery":5,"typeahead":171}],3:[function(require,module,exports){
+},{"jquery":5,"react":161,"typeahead":171}],3:[function(require,module,exports){
 "use strict";
 
+var React = require('react');
 var SpellDescription = React.createClass({ displayName: "SpellDescription",
 	render: function render() {
 		if (this.props.currentSpell[0]) {
@@ -81,7 +84,7 @@ var SpellDescription = React.createClass({ displayName: "SpellDescription",
 
 module.exports = SpellDescription;
 
-},{}],4:[function(require,module,exports){
+},{"react":161}],4:[function(require,module,exports){
 /*!
  * Bootstrap v3.3.5 (http://getbootstrap.com)
  * Copyright 2011-2015 Twitter, Inc.
@@ -32089,7 +32092,7 @@ module.exports = Typeahead;
 window.$ = window.jQuery = require('jquery');
 
 //weird bug where declaring with var leads to React being undefined
-React = require('react');
+var React = require('react');
 var ReactDOM = require('react-dom');
 require('bootstrap-sass');
 

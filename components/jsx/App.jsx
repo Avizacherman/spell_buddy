@@ -1,3 +1,4 @@
+var React = require('react');
 var SpellDescription = require('../../components/jsx/spelldescription.jsx')
 var SearchBar = require('../../components/jsx/searchbar.jsx')
 

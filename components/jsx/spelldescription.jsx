@@ -1,3 +1,4 @@
+var React = require('react');
 var SpellDescription = React.createClass({
 	render: function(){
 		if(this.props.currentSpell[0]){
