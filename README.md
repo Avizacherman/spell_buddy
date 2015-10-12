@@ -15,4 +15,4 @@ This will be deprecated later in favor of only exact matches
 All spells contain an id number and the API supports searching by them. 
 **For example**: <spell-buddy.herokuapp.com/api/spells/212> returns Flare
 ## Known Issues
-Currently there are a number of minor bugs to be fixed. Exact matching for the API is one, the other is the autocomplete for the search bar will eventually be re-written to better interact with React.js
+Currently there are a number of minor bugs to be fixed. Exact matching for the API is one, the other is the autocomplete for the search bar will eventually be re-written to better interact with React.js. Additionally, the responsiveness of the spell level labels needs to be adjusted to account for more than 3 labels.
