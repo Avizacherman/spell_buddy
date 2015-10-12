@@ -91,7 +91,11 @@ var SpellDescription = React.createClass({ displayName: "SpellDescription",
 var LevelLabels = React.createClass({ displayName: "LevelLabels",
 	render: function render() {
 		var levelLabels = this.props.spellLevels.map(function (spellLevel, index) {
-			return React.createElement("span", { key: index + "LevelLabel", className: "label label-info level-label" }, spellLevel);
+			if ((index + 1) % 3 === 0 && index > 0) {
+				return React.createElement("span", { key: index + "LevelLabel", className: "label label-info level-label" }, spellLevel, " ");
+			} else {
+				return React.createElement("span", { key: index + "LevelLabel", className: "label label-info level-label" }, spellLevel);
+			}
 		});
 
 		return React.createElement("span", null, " ", levelLabels, " ");

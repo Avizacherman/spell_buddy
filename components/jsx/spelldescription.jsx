@@ -83,7 +83,13 @@ var SpellDescription = React.createClass({
 
 var LevelLabels = React.createClass({
 		render: function(){
-		var levelLabels = this.props.spellLevels.map((spellLevel, index) => <span key={`${index}LevelLabel`} className="label label-info level-label">{spellLevel}</span> )
+		var levelLabels = this.props.spellLevels.map((spellLevel, index) => {
+			if((index+1) % 3 === 0 && index > 0) {
+				return <span key={`${index}LevelLabel`} className="label label-info level-label">{spellLevel} </span> 
+			} else {
+				return <span key={`${index}LevelLabel`} className="label label-info level-label">{spellLevel}</span>
+				}
+			})
 		
 		return(
 			<span> {levelLabels} </span>
