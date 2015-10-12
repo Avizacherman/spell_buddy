@@ -1,86 +1,85 @@
 (function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require=="function"&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);var f=new Error("Cannot find module '"+o+"'");throw f.code="MODULE_NOT_FOUND",f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require=="function"&&require;for(var o=0;o<r.length;o++)s(r[o]);return s})({1:[function(require,module,exports){
-var SpellDescription = require('../../components/jsx/spelldescription.jsx')
-var SearchBar = require('../../components/jsx/searchbar.jsx')
+'use strict';
 
-var App = React.createClass({displayName: "App",
-	getInitialState: function() {
-    return {spell: []}
+var SpellDescription = require('../../components/jsx/spelldescription.jsx');
+var SearchBar = require('../../components/jsx/searchbar.jsx');
+
+var App = React.createClass({ displayName: "App",
+	getInitialState: function getInitialState() {
+		return { spell: [] };
 	},
-	componentWillMount: function() {
-	    if(location.hash != ""){
-  			var hashSpell = location.hash.replace(/#/, '');
-  			$.get('/api/spells', {name: hashSpell}).done((data)=>
-  			this.setState({spell: data})
-  		)  
-  	}
+	componentWillMount: function componentWillMount() {
+		var _this = this;
+
+		if (location.hash != "") {
+			var hashSpell = location.hash.replace(/#/, '');
+			$.get('/api/spells', { name: hashSpell }).done(function (data) {
+				return _this.setState({ spell: data });
+			});
+		}
 	},
-	updateCurrentSpell: function(spellName){
-		$.get('/api/spells', {name: spellName}, function(data){
-			this.setState({spell: data})
-		}.bind(this))
+	updateCurrentSpell: function updateCurrentSpell(spellName) {
+		$.get('/api/spells', { name: spellName }, (function (data) {
+			this.setState({ spell: data });
+		}).bind(this));
 	},
-	render: function(){
-		return(
-			React.createElement("div", {className: "text-center"}, 
-			React.createElement("img", {id: "logo", src: "../img/spell-buddy.png"}), 
-			React.createElement("h1", {className: "wizard-script"}, "  Spell Buddy "), 
-			React.createElement(SearchBar, {updateCurrentSpell: this.updateCurrentSpell}), 
-			React.createElement(SpellDescription, {currentSpell: this.state.spell})
-			)
-			)
+	render: function render() {
+		return React.createElement("div", { className: "text-center" }, React.createElement("img", { id: "logo", src: "../img/spell-buddy.png" }), React.createElement("h1", { className: "wizard-script" }, "  Spell Buddy "), React.createElement(SearchBar, { updateCurrentSpell: this.updateCurrentSpell }), React.createElement(SpellDescription, { currentSpell: this.state.spell }));
 	}
-})
+});
 
-module.exports = App
+module.exports = App;
 
 },{"../../components/jsx/searchbar.jsx":2,"../../components/jsx/spelldescription.jsx":3}],2:[function(require,module,exports){
+'use strict';
+
 var Typeahead = require('typeahead');
 var $ = require('jquery');
 
-var SearchBar = React.createClass({displayName: "SearchBar",
-	componentDidMount: function(){
+var SearchBar = React.createClass({ displayName: "SearchBar",
+	componentDidMount: function componentDidMount() {
 		var ta = Typeahead(this._searchBarInput, {
-			source: function(query, results){
-				return $.get('/api/spell_names', function(data){
-					var spellNames = []
-					data.forEach(function(spell){
-						spellNames.push(spell.name)
-					})
-					return results(spellNames)
-				})
+			source: function source(query, results) {
+				return $.get('/api/spell_names', function (data) {
+					var spellNames = [];
+					data.forEach(function (spell) {
+						spellNames.push(spell.name);
+					});
+					return results(spellNames);
+				});
 			}
-		})
+		});
 	},
-	findSpell: function(){
-		var spellName = $(this._searchBarInput).val()
-		this.props.updateCurrentSpell(spellName)
+	findSpell: function findSpell() {
+		var spellName = $(this._searchBarInput).val();
+		this.props.updateCurrentSpell(spellName);
 	},
-	render: function(){
-		return (React.createElement("div", null, 
-			React.createElement("input", {id: "search-bar", ref: (c)=> this._searchBarInput = c}), 
-			React.createElement("button", {id: "search-button", className: "btn btn-success", onClick: this.findSpell}, "Search")
-			)
-			)
-	}
-})
+	render: function render() {
+		var _this = this;
 
-module.exports = SearchBar
+		return React.createElement("div", null, React.createElement("input", { id: "search-bar", ref: function ref(c) {
+				return _this._searchBarInput = c;
+			} }), React.createElement("button", { id: "search-button", className: "btn btn-success", onClick: this.findSpell }, "Search"));
+	}
+});
+
+module.exports = SearchBar;
 
 },{"jquery":5,"typeahead":171}],3:[function(require,module,exports){
-var SpellDescription = React.createClass({displayName: "SpellDescription",
-	render: function(){
-		if(this.props.currentSpell[0]){
-		var spell = this.props.currentSpell[0]
-		return (
-		React.createElement("h3", null, " ", spell.name, " ")
-			)
+"use strict";
+
+var SpellDescription = React.createClass({ displayName: "SpellDescription",
+	render: function render() {
+		if (this.props.currentSpell[0]) {
+			var spell = this.props.currentSpell[0];
+			return React.createElement("h3", null, " ", spell.name, " ");
 		} else {
-			return null
+			return null;
 		}
 	}
-})
+});
 
-module.exports = SpellDescription
+module.exports = SpellDescription;
 
 },{}],4:[function(require,module,exports){
 /*!
@@ -32085,17 +32084,21 @@ proto.mouseenter = function (e) {
 module.exports = Typeahead;
 
 },{"dom":162,"xtend":170}],172:[function(require,module,exports){
-"use strict";
+'use strict';
+
 window.$ = window.jQuery = require('jquery');
+
+//weird bug where declaring with var leads to React being undefined
 React = require('react');
 var ReactDOM = require('react-dom');
 require('bootstrap-sass');
+
 var App = require('../../components/jsx/App.jsx');
-$(document).ready(function() {
+
+$(document).ready(function () {
   ReactDOM.render(React.createElement(App, null), document.getElementById('content'));
 });
 
-//# sourceURL=/Users/AviZacherman/dev/spell_buddy/public/scripts/main.js
 },{"../../components/jsx/App.jsx":1,"bootstrap-sass":4,"jquery":5,"react":161,"react-dom":6}],173:[function(require,module,exports){
 // shim for using process in browser
 
