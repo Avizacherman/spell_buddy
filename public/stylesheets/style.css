@@ -5796,8 +5796,24 @@ button.close {
 @media print {
   .hidden-print {
     display: none !important; } }
-.wizard-script {
+.app-title {
+  font-family: Bangers, cursive;
+  font-size: 300%;
+  letter-spacing: 1.25em; }
+
+.category {
   font-family: Bangers, cursive; }
+
+.description-box {
+  width: 66%;
+  margin: 0 auto; }
+
+.label.level-label {
+  font-size: 1em;
+  background: -webkit-radial-gradient(blue, teal) left repeat;
+  background: radial-gradient(blue, teal) left repeat;
+  box-shadow: 3px 3px 1px;
+  margin: 0 0.5% 0 0.5%; }
 
 #search-bar {
   margin-right: 1%;
@@ -5821,28 +5837,24 @@ button.close {
   list-style: none;
   background-color: white;
   border: 1px solid #CCC; }
-
-.typeahead li {
-  line-height: 20px; }
-
-.typeahead a {
-  display: block;
-  padding: 3px 20px;
-  clear: both;
-  font-weight: normal;
-  line-height: 20px;
-  color: #333;
-  white-space: nowrap;
-  text-decoration: none; }
-
-.typeahead .active > a {
-  color: white;
-  text-decoration: none;
-  background-color: #0081C2;
-  outline: 0; }
-
-.typeahead.hidden {
-  display: none; }
+  .typeahead li {
+    line-height: 20px; }
+  .typeahead a {
+    display: block;
+    padding: 3px 20px;
+    clear: both;
+    font-weight: normal;
+    line-height: 20px;
+    color: #333;
+    white-space: nowrap;
+    text-decoration: none; }
+  .typeahead .active > a {
+    color: white;
+    text-decoration: none;
+    background-color: #0081C2;
+    outline: 0; }
+  .typeahead.hidden {
+    display: none; }
 
 button#search-button {
   margin-left: 1%; }
