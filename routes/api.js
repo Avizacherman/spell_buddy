@@ -7,7 +7,7 @@ var spellsDB = `mongodb://TheWizard:${process.env.SPELLPW}@ds031223.mongolab.com
 
 
 router.get('/spells', function(req, res){
-	var params = req.query.name ? {name: {$regex: req.query.name, $options: 'i'}} : false
+	var params = req.query.name ? {name: {$regex: "^" + req.query.name, $options: 'im'}} : false
 	// MongoLogger.setLevel('debug')
 
 	MongoClient.connect(spellsDB, function(err, db){
