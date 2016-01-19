@@ -5801,6 +5801,15 @@ button.close {
   font-size: 300%;
   letter-spacing: 1.25em; }
 
+.background {
+  z-index: -1;
+  background: url("../img/parchment.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  position: fixed; }
+
 .category {
   font-family: Bangers, cursive; }
 
