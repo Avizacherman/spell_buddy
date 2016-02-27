@@ -29822,6 +29822,7 @@ var SearchBar = _react2.default.createClass({
 	displayName: 'SearchBar',
 
 	componentDidMount: function componentDidMount() {
+		this._searchBarInput.focus();
 		var ta = (0, _typeahead2.default)(this._searchBarInput, {
 			source: function source(query, results) {
 				return $.get('/api/spell_names', function (data) {

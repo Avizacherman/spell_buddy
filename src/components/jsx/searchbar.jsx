@@ -3,6 +3,7 @@ import Typeahead from 'typeahead'
 
 var SearchBar = React.createClass({
 	componentDidMount: function(){
+		this._searchBarInput.focus()
 		var ta = Typeahead(this._searchBarInput, {
 			source: function(query, results){
 				return $.get('/api/spell_names', function(data){
