@@ -7,7 +7,7 @@ var rename = require('gulp-rename')
 var path = require('path')
 
 gulp.task('browserify', () => {
-  var bundleStream = browserify(path.join(__dirname, '/src/components/jsx/App.jsx'), {extensions: ['.jsx']})
+  var bundleStream = browserify(path.join(__dirname, '/src/components/jsx/main.jsx'), {extensions: ['.jsx']})
   .transform(babelify, {presets: ['es2015', 'react']})
   .bundle()
 

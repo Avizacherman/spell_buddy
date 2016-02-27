@@ -1,11 +1,12 @@
-var React = require('react');
+import React from 'react'
+//workaround to create spaces. Not good code :/
 var sp = " ".replace(/ /g, "\u00a0")
 
 var SpellDescription = React.createClass({
 	render: function(){
 		if(this.props.currentSpell[0]){
 		var spell = this.props.currentSpell[0]
-		
+
 
 		return (
 		<div className="description-box">
@@ -13,52 +14,52 @@ var SpellDescription = React.createClass({
 			<LevelLabels spellLevels={spell.spell_level.split(', ')}/>
 		<br/>
 			<div className="row">
-				<h4> 
+				<h4>
 					<div className="col-sm-4">
 						<span className="category">
 							School: {sp}
-						</span>						
+						</span>
 							{spell.school}
 							{sp} {sp}
 					</div>
 						<Subschool spell={spell}/>
 						<Descriptor spell={spell}/>
-				</h4> 
+				</h4>
 			</div>
 			<div className="row">
 				<div className="col-sm-3">
-					<span className="category"> 
+					<span className="category">
 						Saving Throw: {sp}
-					</span> 
-						{spell.saving_throw} 
+					</span>
+						{spell.saving_throw}
 						{sp} {sp}
 				</div>
 				<div className="col-sm-3">
-				<span className="category"> 
+				<span className="category">
 					Spell Resistance: {sp}
-				</span> 
-					{spell.spell_resistence} 
+				</span>
+					{spell.spell_resistence}
 				</div>
 			</div>
 			<div className="row">
 				<div className="col-sm-3">
-					<span className="category"> 
+					<span className="category">
 						Casting Time: {sp}
-					</span> 
-						{spell.casting_time} 
+					</span>
+						{spell.casting_time}
 				</div>
 				<div className="col-sm-3">
-					<span className="category"> 
+					<span className="category">
 						Duration: {sp}
-					</span> 
-						{spell.duration} 
+					</span>
+						{spell.duration}
 				</div>
 				<div className="col-sm-6">
-					<span className="category"> 
+					<span className="category">
 						components: {sp}
-					</span> 
-						{spell.components} 
-				</div>			
+					</span>
+						{spell.components}
+				</div>
 			</div>
 			<div className="row">
 				<AreaOrTargets spell={spell}/>
@@ -85,12 +86,12 @@ var LevelLabels = React.createClass({
 		render: function(){
 		var levelLabels = this.props.spellLevels.map((spellLevel, index) => {
 			if((index+1) % 3 === 0 && index > 0) {
-				return <span key={`${index}LevelLabel`} className="label label-info level-label">{spellLevel} </span> 
+				return <span key={`${index}LevelLabel`} className="label label-info level-label">{spellLevel} </span>
 			} else {
 				return <span key={`${index}LevelLabel`} className="label label-info level-label">{spellLevel}</span>
 				}
 			})
-		
+
 		return(
 			<span> {levelLabels} </span>
 			)
@@ -142,7 +143,7 @@ var AreaOrTargets = React.createClass({
 					</span>
 						{this.props.spell.area}
 				</div>
-			)			
+			)
 		} else if (this.props.spell.targets) {
 			return (
 				<div className="col-sm-6">

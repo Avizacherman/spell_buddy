@@ -1,9 +1,10 @@
+
+//No ECMA2015 jQuery import
 window.$ = window.jQuery = require('jquery');
 
-//weird bug where declaring with var leads to React being undefined
-var React = require('react');
-var ReactDOM = require('react-dom');
-require('bootstrap-sass');
+import React from 'react'
+import ReactDOM from 'react-dom'
+// import 'bootstrap-sass'
 
 var App = require('../../components/jsx/App.jsx');
 

@@ -1,6 +1,5 @@
-var React = require('react');
-var Typeahead = require('typeahead');
-var $ = require('jquery');
+import React from 'react'
+import Typeahead from 'typeahead'
 
 var SearchBar = React.createClass({
 	componentDidMount: function(){
@@ -16,17 +15,18 @@ var SearchBar = React.createClass({
 			}
 		})
 	},
-	findSpell: function(){
+	findSpell: function(e){
+		e.preventDefault()
 		var spellName = $(this._searchBarInput).val()
 		this.props.updateCurrentSpell(spellName)
 	},
 
 	render: function(){
-		return (<div>
-		
+		return (
+			<form onSubmit={this.findSpell}>
 			<input id="search-bar" ref={(c)=> this._searchBarInput = c}/>
-			<button id="search-button" className="btn btn-success" onClick={this.findSpell}>Search</button>
-			</div>
+			<button id="search-button" className="btn btn-success" >Search</button>
+			</form>
 			)
 	}
 })
